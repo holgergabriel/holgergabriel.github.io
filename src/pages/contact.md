@@ -6,4 +6,4 @@ description: "Contact information for Holger Gabriel."
 ---
 
 ## Get in Touch
- bla bla bla
+ bla bla bla blu

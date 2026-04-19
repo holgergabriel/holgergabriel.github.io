@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
 title: "Holger Gabriel"
-subtitle: "Atmung - Stimme - Leben"
+subtitle: "Atmung - Stimme - Bewegung - Leben"
 avatar: "/avatar-placeholder.svg"
 avatarWidth: "240px"
 avatarHeight: "120px"
