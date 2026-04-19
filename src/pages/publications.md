@@ -1,8 +1,8 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Publications"
-subtitle: "Peer-reviewed journal articles, conference papers, and book chapters."
-description: "List of peer-reviewed publications by Holger Gabriel."
+title: "Beruflicher Hintergrund"
+subtitle: ""
+description: " "
 ---
 
 ## 2024

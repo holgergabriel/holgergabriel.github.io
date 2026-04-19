@@ -10,15 +10,15 @@ description: "About Holger Gabriel."
 
 ## Bewegung
 
-Bewegung ist aus biologischer Sicht eine lebensnotwendige Funktion.
+Bewegung ist Leben.
 
 ## Atmung
 
-Die Atmung sichert einen essentiellen Austausch mit der Umwelt.
+Atmung bedeutet Ventilation und physiologischen Austausch mit der Umwelt.
 
 ## Stimme
 
-Atmungsbewegungen ermöglichen die Stimmbildung. 
+Atmungsbewegungen ermöglichen durch den Luftstrom die Stimmbildung. 
 
 ## Ausdruck
-Bewegung, Atmung und Stimme verleihen Menschen Ausdruck.
+Bewegung, Atmung und Stimme verleihen Menschen lebendigen Ausdruck.
