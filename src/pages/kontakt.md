@@ -2,7 +2,7 @@
 layout: ../layouts/MarkdownLayout.astro
 title: "Kontakt"
 subtitle: " "
-description: "Contact information for Holger Gabriel."
+description: "Kontaktinformationen von Holger Gabriel."
 ---
 
 Email: holger.gabriel@t-online.de
