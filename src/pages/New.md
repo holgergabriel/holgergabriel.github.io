@@ -64,5 +64,5 @@ Entwicklung der Gesangsstimme als leiblichen, musikalischen und expressiven Proz
 - Bist du bei mir (Johann Sebastian Bach)
 - Bring him home (Claude Michel Schönberg; Alain Boublil, Herbert Kretzschmer)
 - Something stupid (Vokalensemble; Carson Parks)
-- Lieblingsmensch (Vokalensemble; Hanan Hamdi, Fabian Römer, Konrakd Sommermeyer, Beatgees)
+- Lieblingsmensch (Vokalensemble; Hanan Hamdi, Fabian Römer, Konrad Sommermeyer, Beatgees)
 
