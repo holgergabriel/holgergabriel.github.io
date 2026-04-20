@@ -9,7 +9,8 @@ description: "About Holger Gabriel."
 ---
 
 ## Leitmotiv
-Ehemals aktive wissenschaftliche Arbeit zu Bewegung, Belastung, Gesundheitsföerderung und Prävention zu erweitern um eine Perspektive, die Körper, Biographie und Beziehung als Einheit versteht. Fokus auf Integration und Stimme als Form leiblichen Ausdrucks im Bemühen um ein gesünderes älter werden.
+
+Ziel ist es, die ehemals aktive wissenschaftliche Arbeit mit den Schwerpunkten Bewegung, Belastung, Gesundheitsförderung und Prävention um eine Perspektive zu erweitern, die Körper, Biographie und Beziehung als Einheit versteht. Der Fokus liegt auf Integration. Die Stimme wird dabei als Form des leiblichen Ausdrucks im - nach Möglichkeit gesünderen - Älterwerden verstanden.
 
 
 ## Leitbegriffe
@@ -21,5 +22,3 @@ Ehemals aktive wissenschaftliche Arbeit zu Bewegung, Belastung, Gesundheitsföer
 
 **Resonanz**: Begegnung im gemeinsamen Raum der Musik.
 
-## Kurzprofil
-Entwicklung der Gesangsstimme als leiblichen, musikalischen und expressiven Prozess. Im Zentrum stehen die Erfahrungen mit Sängerinnen und Sängern sowie Musikerinnen und Musikern im gemeinsamen Erkunden von Atem, Klang und musikalischer Gestalt. 

@@ -6,7 +6,7 @@ description: " "
 ---
 ## Woher?
 
-Langjährige Tätigkeit als Hochschullehrer für Sportmedizin und Gesundheitsförderung in Forschung, Lehre und wissenschaftlicher Verantwortung, mit Schwerpunkten in Trainingsphysiologie, Trainingsimmunologie sowie Gesundheitsförderung und Prävention.
+Langjährige Tätigkeit als Hochschullehrer für Sportmedizin und Gesundheitsförderung in Forschung, Lehre und wissenschaftlicher Verantwortung, mit Schwerpunkten in Trainingsphysiologie, Trainingsimmunologie sowie Gesundheitsförderung und Prävention. [Link to Loop](https://loop.frontiersin.org/people/357860/overview)
 
 Im Mittelpunkt stand die Frage, wie körperliche Aktivität zur Erhaltung und Wiedergewinnung von Gesundheit beitragen kann. Neben einer naturwissenschaftlich orientierten Forschung entwickelte sich zunehmend ein erweitertes Verständnis von Gesundheit, das den Menschen in seiner leiblichen, biographischen und sozialen Dimension berücksichtigt.
 

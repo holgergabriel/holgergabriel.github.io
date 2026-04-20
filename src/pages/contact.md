@@ -1,9 +1,8 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Contact"
-subtitle: "Get in touch."
+title: "Kontakt"
+subtitle: " "
 description: "Contact information for Holger Gabriel."
 ---
 
-## Get in Touch
- bla bla bla blu
+Email: holger.gabriel@t-online.de
