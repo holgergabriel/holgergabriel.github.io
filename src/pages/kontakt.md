@@ -5,4 +5,4 @@ subtitle: " "
 description: "Kontaktinformationen von Holger Gabriel."
 ---
 
-Email: holger.gabriel@t-online.de
+Email: holger.gabriel@magenta.de
