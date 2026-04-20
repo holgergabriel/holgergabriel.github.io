@@ -56,7 +56,7 @@ Entwicklung der Gesangsstimme als leiblichen, musikalischen und expressiven Proz
 ## Im Übungsprozess
 
 - Im Abendrot (Franz Schubert)
-- Ave Maria (Wolfgang Amadeus Mozart)
+- Ave Maria (Franz Schubert)
 - Comfort ye / Ev´ry valley shall be exhaulted (Georg Friedrich Händel)
 - Panis angelicus (César Franck)
 - Here I am, Lord (Daniel L Schutte)
