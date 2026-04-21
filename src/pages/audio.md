@@ -12,41 +12,19 @@ description: " "
 
 ![alt text](/public/Fotos/Achtelnoten.png)
 
-Homestudio - Ombra mai fù (22.08.2025; mp3) 
 
-<audio controls>
-  <source src="/Audiotracks/Ombra mai fu 2025_08_22.mp3" type="audio/mpeg" />
-</audio>
-
-Homestudio - Ombra mai fù (22.08.2025; wav)
+Homestudio - Ombra mai fù - GF Händel (22.08.2025; wav-file)
 
 <audio controls>
   <source src="/Audiotracks/Ombra mai fu 2025_08_22.wav" type="audio/mpeg" />
 </audio>
 
-Homestudio - Ombra mai fù (22.08.2025; m4a)
-
-<audio controls>
-  <source src="/Audiotracks/Ombra mai fu 2025_08_22.m4a" type="audio/mpeg" />
-</audio>
-
-Homestudio - Ombra mai fù (21.04.2026; mp3) 
-
-<audio controls>
-  <source src="/Audiotracks/Ombra mai fu 2026_04_21.mp3" type="audio/mpeg" />
-</audio>
-
-Homestudio - Ombra mai fù (21.04.2026; wav)
+Homestudio - Ombra mai fù - GF Händel (21.04.2026; wav-file)
 
 <audio controls>
   <source src="/Audiotracks/Ombra mai fu 2026_04_21.wav" type="audio/mpeg" />
 </audio>
 
-Homestudio - Ombra mai fù (21.04.2026; m4a)
-
-<audio controls>
-  <source src="/Audiotracks/Ombra mai fu 2026_04_21.m4a" type="audio/mpeg" />
-</audio>
 
 
 <!--
