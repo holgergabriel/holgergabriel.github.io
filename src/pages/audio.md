@@ -10,7 +10,7 @@ description: " "
 
 ... wenn es der Mut erlaubt 
 
-![alt text](/fotos/Achtelnoten.png)
+![Achtelnoten](/fotos/Achtelnoten.png)
 
 
 Homestudio - Ombra mai fù - GF Händel (22.08.2025; wav-file)
