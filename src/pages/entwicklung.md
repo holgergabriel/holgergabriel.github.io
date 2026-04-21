@@ -25,7 +25,7 @@ Entwicklung der Gesangsstimme als leiblichen, musikalischen und expressiven Proz
 - One hand, one heart (Leonard Bernstein, Stephen Sondheim)
 - One day more (Vokalensemble; Schönberg)
 - Applaus, Applaus (Vokalensemble; Florian Weber, Peter Stephan Brugger, Ruediger Linhof)
-- O wie wohl ist mir am Abend (Vokalensemble; )
+- O wie wohl ist mir am Abend (Vokalensemble; C. Schulz)
 - Das Publikum war heute wieder wundervoll(Vokalensemble; Siegried Rabe, Quirin Amper, Alfred Strittmacher)
 - Killing me softly (Vokalensemble; Charles Fox, Ralph Paulsen-Bahnsen, Norman Gimbel)
 

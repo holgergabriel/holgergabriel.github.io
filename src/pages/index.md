@@ -2,9 +2,9 @@
 layout: ../layouts/MarkdownLayout.astro
 title: "Holger Gabriel"
 subtitle: ""
-avatar: "/avatar-placeholder.svg"
+avatar: "/public/Fotos/Schlucht_Wasser_Gischt_Huegel.jpg"
 avatarWidth: "240px"
-avatarHeight: "120px"
+avatarHeight: "240px"
 description: "Über Holger Gabriel."
 ---
 
