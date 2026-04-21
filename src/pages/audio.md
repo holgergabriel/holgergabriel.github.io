@@ -4,7 +4,13 @@ title: "Audiotracks"
 subtitle: ""
 description: " "
 ---
-Hier werden wahrscheinlich chronologisch Übungstracks hinterlegt ... authentische Aufnahmen  ... wenn es der Mut erlaubt ...
+... hier werden wahrscheinlich chronologisch Übungstracks hinterlegt 
+
+... authentische Aufnahmen  
+
+... wenn es der Mut erlaubt 
+
+![alt text](image.png)
 
 <!--
 Musikschulkonzert 21.03.2026 (Handyaufnahme)
