@@ -2,7 +2,7 @@
 layout: ../layouts/MarkdownLayout.astro
 title: "Holger Gabriel"
 subtitle: ""
-avatar: "/graphik/Rhein.svg"
+avatar: "/Rhein.svg"
 avatarWidth: "240px"
 avatarHeight: "240px"
 description: "Über Holger Gabriel."
