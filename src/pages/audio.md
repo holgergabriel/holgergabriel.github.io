@@ -10,7 +10,7 @@ description: " "
 
 ... wenn es der Mut erlaubt 
 
-![alt text](image.png)
+![alt text](/public/Fotos/Achtelnoten.png)
 
 <!--
 Musikschulkonzert 21.03.2026 (Handyaufnahme)
