@@ -48,3 +48,8 @@ description: " "
   decoding="sync"
   style="max-width: 100%; display: block; margin: 20px auto;"
 />
+
+
+
+
+<img src="/RR-Dauer_in_Ruhe_Beispiel1.png" style="max-width:100%; height:auto;">
