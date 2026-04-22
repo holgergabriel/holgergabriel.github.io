@@ -5,7 +5,7 @@ subtitle: ""
 description: " "
 ---
 
-## Wie etwas im menschlichen Organismus funktioniert mich lange schon interessant - vor allem wenn es praktisch wird und hilfreich ist
+## Wie etwas im menschlichen Organismus funktioniert interessiert mich schon lange - vor allem wenn es praktisch wird und hilfreich ist
 
 ... Menschen atmen scheinbar "einfach so" Tag und Nacht, in körperlicher Ruhe und bei maximaler Anstrengung, vom ersten bis zum letzten Atemzug
 </p>
@@ -17,7 +17,7 @@ description: " "
 </p>
 ... der Atemfluss ermöglicht die Stimmbildung und macht die Stimme hörbar
 </p>
-... das Atmen muss manchmal neu erlernt werden, weil es andere als aus physiologischer Sicht überlebensnotwendige Zwecke eingesetzt wird 
+... das Atmen muss manchmal "neu" erlernt werden, weil es der Zweck erfordert 
 </p>
 ... wer singen lernen will, darf das Atmen neu entdecken und sollte es zielgerichtet einüben
 </p>
