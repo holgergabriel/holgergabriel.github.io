@@ -203,3 +203,65 @@ hr {
     padding-top: var(--space-lg);
   }
 }
+
+/* =============================================
+   TYPOGRAPHY REFINEMENT (Essay / Book Style)
+   ============================================= */
+
+/* Lesespalte etwas ruhiger */
+.page-content {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* Absätze feiner ausbalancieren */
+p {
+  max-width: 65ch;        /* optimale Zeilenlänge */
+  line-height: 1.7;
+  hyphens: auto;
+}
+
+/* Überschriften mehr Luft geben */
+h2 {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-md);
+}
+
+/* =============================================
+   IMAGE + TEXT FLOW (Float Layout)
+   ============================================= */
+
+.float-img {
+  float: left;
+  width: 220px;
+  margin: 0 24px 12px 0;
+  border-radius: 6px;
+}
+
+/* optional: etwas dezenter Schatten */
+.float-img {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+/* Float sauber beenden */
+.clear {
+  clear: both;
+}
+
+/* =============================================
+   MOBILE OPTIMIERUNG
+   ============================================= */
+
+@media (max-width: 600px) {
+  .float-img {
+    float: none;
+    display: block;
+    margin: 0 auto 16px auto;
+    width: 100%;
+    max-width: 320px;
+  }
+
+  p {
+    max-width: 100%;
+  }
+}
