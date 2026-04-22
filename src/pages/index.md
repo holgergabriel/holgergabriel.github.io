@@ -13,15 +13,17 @@ description: "Über Holger Gabriel."
 </p>
 ... hat "seine" Lebensthemen mit in den neuen Lebensabschnitt genommen
 </p>
-... fand dafür eine neue Ausdrucksform
-</p>
-... empfindet den Lernprozess des Singens spannend und lebendig
+... findet für die Lebensthemen eine neue Ausdrucksform
 </p>
 ... darf wieder nach Herzenslust lernen und studieren
 </p>
+... empfindet den Lernprozess des Singens spannend und lebendig
+</p>
+... ist dankbar für die Hilfen auf dem Weg der gesanglichen Entwicklung, die auch eine persönliche Reifung sein darf 
+</p>
 ... darf auf neue Art stimmig, freudig und mit Hingabe vortragen
 </p>
-... wird (nach Jahrzehnten) manchmal wieder mit seinen Spitznamen Holli angesprochen 😊
+... und wird - last but not least - (nach Jahrzehnten) manchmal wieder mit seinen Spitznamen Holli angesprochen 😊
 
 ## Leitmotiv
 
