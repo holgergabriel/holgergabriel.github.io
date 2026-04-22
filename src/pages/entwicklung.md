@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Was?"
+title: "Was klingt, welche Stücke werden gesungen?"
 subtitle: ""
 description: " "
 ---

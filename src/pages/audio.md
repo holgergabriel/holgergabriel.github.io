@@ -14,18 +14,18 @@ description: " "
 
 ... ist hier in authentischen Audiotracks hinterlegt (im nichtprofessionellen "Heimstudio")
 
-... kann man sich vielleicht anhören, wenn man zusammen musizieren will 😀
-
 ... lädt hoffentlich eher zum gemeinsamen musizieren ein, als dass es abschreckt 🎼🎶🎹🎻🎸🎺🎷🥁
 
 
-Ombra mai fù von GF Händel - nach kurzer Zeit der Einübung zu Beginn des zweiten Jahres Gesangsunterricht (August 2025)
+## "Ombra mai fù" von Georg Friedrich Händel
+
+Nach kurzer Zeit der Einübung des Stücks zu Beginn des zweiten Jahres Gesangsunterricht (August 2025)
 
 <audio controls>
   <source src="/Audiotracks/Ombra mai fu 2025_08_22.wav" type="audio/mpeg" />
 </audio>
 
-Ombra mai fù von GF Händel - einige Monate später im zweiten Jahr Gesangsunterricht (April 2026)
+Einige Monate später im zweiten Jahr Gesangsunterricht, nachdem es wieder einmal hervor geholt wurde (April 2026)
 
 <audio controls>
   <source src="/Audiotracks/Ombra mai fu 2026_04_21.wav" type="audio/mpeg" />
