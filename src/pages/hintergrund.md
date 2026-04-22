@@ -52,15 +52,12 @@ Ein wesentlicher Teil dieser Entwicklung ist der Austausch mit anderen Sängerin
 
 <div class="clear"></div>
 
-<img src="/Vollblueter.png" alt="Vollblueter" class="float-img">
-</p>
-
-</p>
+<img src="/Schlucht_Wasser_Gischt_Huegel.JPG" alt="Schlucht_Wasser_Gischt_Huegel" class="float-img">
 <div class="clear"></div>
 
 ## Wohin?
 
-<img src="/WegimWald.JPG" alt="Weg im Wald" class="float-img">
+<img src="/steineimwasserwohin.JPG" alt="steineimwasserwohin" class="float-img">
 
 <p>
 Die gesangliche Arbeit befindet sich in einem 2024 begonnenen kontinuierlichen Entwicklungsprozess im Bereich des klassischen Gesangs. Im Mittelpunkt steht die vertiefte Auseinandersetzung mit Atemführung, stimmlicher Balance und klanglicher Gestaltung.
