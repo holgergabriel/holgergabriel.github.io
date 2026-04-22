@@ -9,4 +9,4 @@ Hier steht etwas gut Verständliches zur Atmung mit Relevanz für Sänger.
 
 ## Beispiel zum Atemfluss (Volumen im Verlauf der Zeit) und zur Atemflussgeschwindigkeit (Geschwindigkeit im Verlauf der Zeit)
 
-<img src="/public/gif/t-V-F_animation2.gif" alt="Demo Animation" />
+<img src="/gif/t-V-F_animation2.gif" alt="Demo Animation" />
