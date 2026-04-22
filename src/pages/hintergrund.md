@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Hintergrund"
+title: "Woher, wozu, wohin?"
 subtitle: ""
 description: " "
 ---

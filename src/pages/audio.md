@@ -1,26 +1,31 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Audiotracks"
+title: "Wie?"
 subtitle: ""
 description: " "
 ---
-... hier werden wahrscheinlich chronologisch Übungstracks hinterlegt 
+## Wie der Holli singt ...
 
-... authentische Aufnahmen  
+... muss man (nicht unbedingt) gehört haben 😉
 
-... wenn es der Mut erlaubt 
+... erfährt die Lernkurve eines Gesangsschülers ☺️
 
-<div style="text-align: center;">
-  <img src="/Achtelnoten.png" alt="Achtelnoten" style="max-width: 100px;">
-</div>
+... hat nicht den Anspruch der Perfektion, wohl aber des sich redlichen Bemühens um ein Singen "von Herzen"
 
-Homestudio - Ombra mai fù - GF Händel (22.08.2025; wav-file)
+... ist hier in authentischen Audiotracks hinterlegt (im nichtprofessionellen "Heimstudio")
+
+... kann man sich vielleicht anhören, wenn man zusammen musizieren will 😀
+
+... lädt hoffentlich eher zum gemeinsamen musizieren ein, als dass es abschreckt 🎼🎶🎹🎻🎸🎺🎷🥁
+
+
+Ombra mai fù von GF Händel - nach kurzer Zeit der Einübung zu Beginn des zweiten Jahres Gesangsunterricht (August 2025)
 
 <audio controls>
   <source src="/Audiotracks/Ombra mai fu 2025_08_22.wav" type="audio/mpeg" />
 </audio>
 
-Homestudio - Ombra mai fù - GF Händel (21.04.2026; wav-file)
+Ombra mai fù von GF Händel - einige Monate später im zweiten Jahr Gesangsunterricht (April 2026)
 
 <audio controls>
   <source src="/Audiotracks/Ombra mai fu 2026_04_21.wav" type="audio/mpeg" />

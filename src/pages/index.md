@@ -7,6 +7,21 @@ avatarWidth: "240px"
 avatarHeight: "240px"
 description: "Über Holger Gabriel."
 ---
+## Holger Gabriel ...
+
+... war viele Jahre (meistens) gerne Hochschullehrer
+</p>
+... hat "seine" Lebensthemen mit in den neuen Lebensabschnitt genommen
+</p>
+... fand dafür eine neue Ausdrucksform
+</p>
+... empfindet den Lernprozess des Singens spannend und lebendig
+</p>
+... darf wieder nach Herzenslust lernen und studieren
+</p>
+... darf auf neue Art stimmig, freudig und mit Hingabe vortragen
+</p>
+... wird (nach Jahrzehnten) manchmal wieder mit seinen Spitznamen Holli angesprochen 😊
 
 ## Leitmotiv
 

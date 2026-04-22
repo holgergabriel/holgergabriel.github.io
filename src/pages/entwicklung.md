@@ -1,13 +1,17 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Entwicklung"
+title: "Was?"
 subtitle: ""
 description: " "
 ---
-## Anliegen
+## Anliegen (ziemlich akademisch verdichtet)
 Entwicklung der Gesangsstimme als leiblichen, musikalischen und expressiven Prozess. Im Zentrum stehen die Erfahrungen mit Sängerinnen und Sängern sowie Musikerinnen und Musikern im gemeinsamen Erkunden von Atem, Klang und musikalischer Gestalt. 
 
-## Vorträge auf musikschulinternen Veranstaltungen (seit 2024)
+## Anliegen (im Klartext)
+
+Mit anderen gemeinsam zu singen und zu musizieren macht viel Freude. Für andere zu singen schenkt Zufriedenheit und macht glücklich.
+
+## Liederliste, die auf musikschulinternen Veranstaltungen vorgetragen wurden (seit 2024)
 
 - Caro mio ben (Guiseppe Giordani)
 - Wolgalied (Franz Lehàr)
@@ -29,7 +33,7 @@ Entwicklung der Gesangsstimme als leiblichen, musikalischen und expressiven Proz
 - Das Publikum war heute wieder wundervoll(Vokalensemble; Siegried Rabe, Quirin Amper, Alfred Strittmacher)
 - Killing me softly (Vokalensemble; Charles Fox, Ralph Paulsen-Bahnsen, Norman Gimbel)
 
-## Vorträge auf Hauskonzerten (seit 2026)
+## Stücke, die auf Hauskonzerten gesungen werden durften (seit 2026)
 - Silent worship (Georg Friedrich Händel)
 - Total eclipse (Georg Friedrich Händel)
 - An die Musik (Franz Schubert)
@@ -53,7 +57,7 @@ Entwicklung der Gesangsstimme als leiblichen, musikalischen und expressiven Proz
 - Taste and see (James Moore junior)
 - I wonder as I wander (John Jacob Niles)
 
-## Im Übungsprozess
+## Stücke, die eingeübt werden und darauf warten, vorgetragen zu werden 😉
 
 - Im Abendrot (Franz Schubert)
 - Ave Maria (Franz Schubert)
