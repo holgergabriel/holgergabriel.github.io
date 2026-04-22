@@ -14,3 +14,5 @@ Hier steht etwas gut Verständliches zur Atmung mit Relevanz für Sänger.
   alt="Demo Animation"
   style="max-width: 100%; display: block; margin: 20px auto;"
 />
+
+<img src="/gif/t-V-F_animation2.gif" alt="Demo Animation" />
