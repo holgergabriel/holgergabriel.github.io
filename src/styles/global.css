@@ -252,16 +252,20 @@ h2 {
    MOBILE OPTIMIERUNG
    ============================================= */
 
-@media (max-width: 600px) {
-  .float-img {
-    float: none;
-    display: block;
-    margin: 0 auto 16px auto;
-    width: 100%;
-    max-width: 320px;
-  }
+/* Standard: Mobile zuerst (Bild oben, sauber) */
+.float-img {
+  float: none;
+  display: block;
+  margin: 0 auto 16px auto;
+  width: 100%;
+  max-width: 320px;
+}
 
-  p {
-    max-width: 100%;
+/* Desktop: Text fließt ums Bild */
+@media (min-width: 700px) {
+  .float-img {
+    float: left;
+    width: 220px;
+    margin: 0 24px 12px 0;
   }
 }
