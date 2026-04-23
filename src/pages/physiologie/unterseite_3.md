@@ -7,9 +7,7 @@ description: " "
 
 ## Einstieg
 
-Vielleicht haben Sie beim Singen schon erlebt, dass sich manche Töne frei und leicht anfühlen – während andere anstrengend oder „fest“ wirken. Oft wird dann vermutet, es liege an der Technik, an der Atmung oder an fehlender Übung. Ein wichtiger, oft unterschätzter Faktor ist jedoch:
-
-**die Spannung im Körper**.
+Vielleicht haben Sie beim Singen schon erlebt, dass sich manche Töne frei und leicht anfühlen – während andere anstrengend oder „fest“ wirken. Oft wird dann vermutet, es liege an der Technik, an der Atmung oder einfach an fehlender Übung. Ein wichtiger, oft unterschätzter Faktor ist die **Spannung im Körper**.
 
 In diesem Abschnitt geht es darum, ein Gefühl dafür zu bekommen, welche Rolle Spannung beim Singen spielt – und warum weniger manchmal mehr ist.
 
@@ -55,7 +53,7 @@ Wenn der Körper unnötig angespannt ist, kann die Atmung nicht frei fließen. D
 
 ## Weniger halten – mehr zulassen
 
-Ein hilfreicher Zugang kann darin liegen, nicht mehr zu „machen“, sondern etwas weniger festzuhalten. Das kann bedeuten:
+Ein hilfreicher Zugang kann sein, weniger festzuhalten. Das kann bedeuten:
 
 - den Kiefer nicht zusätzlich zu fixieren,
 - den Hals nicht aktiv zu stabilisieren,
@@ -76,7 +74,8 @@ Diese Veränderungen früh wahrzunehmen, kann helfen, unnötige Spannung zu redu
 
 ## Vielleicht lässt sich das so zusammenfassen
 
-Spannung ist beim Singen notwendig – aber nicht jede Spannung ist hilfreich. Oft entsteht das eigentliche Problem nicht durch zu wenig Aktivität, sondern durch ein Zuviel an ungerichteter Spannung. Ein bewussterer Umgang damit kann helfen, den Körper besser arbeiten zu lassen, ohne ihn zu überfordern.
+Spannung ist beim Singen notwendig – aber nicht jede Spannung ist hilfreich. Oft entsteht das eigentliche Problem nicht durch zu wenig Aktivität, sondern durch ein Zuviel an ungerichteter Spannung. Ein bewussterer Umgang damit kann helfen,
+den Körper arbeiten zu lassen, ohne ihn unnötig zu belasten.
 
 ## Übergang
 
