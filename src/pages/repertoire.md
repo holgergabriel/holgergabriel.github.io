@@ -4,11 +4,11 @@ title: "Klassik, Lied und Geistliches"
 subtitle: ""
 description: " "
 ---
-Für Holger Gabriel ist Gesang ein **gemeinschaftlicher Prozess**, bei dem das Erkunden von Atem und Klang im Mittelpunkt steht. Ob im Zusammenspiel mit anderen Musikern oder im Vortrag für ein Publikum: Das gemeinsame Musizieren stiftet **Freude** und schafft **Räume für musikalische Resonanz**.
+Gesang empfinde ich als einen **gemeinschaftlichen Prozess**, bei dem das Erkunden von Atem und Klang im Mittelpunkt steht. Ob im Zusammenspiel mit anderen Musikern oder im Vortrag für ein Publikum: Das gemeinsame Musizieren stiftet **Freude** und schafft **Räume für musikalische Resonanz**.
 
 ## **Musikalische Schwerpunkte seit Ausbildungsbeginn 2024**
 
-Das in Entwicklung befindliche Repertoire umfasst klassische Werke, geistliche Musik und ausgewählte Ensemblestücke, die in unterschiedlichen Kontexten zum Klingen kommen:
+Mein in Entwicklung befindliche Repertoire umfasst klassische Werke, geistliche Musik und ausgewählte Ensemblestücke, die in unterschiedlichen Kontexten zum Klingen kommen:
 
 * **Klassik & Lied:** Werke von Schubert, Händel und Giordani, die eine intensive Arbeit an der musikalischen Linie und Textverständlichkeit ermöglichen (z. B. An die Musik, Ombra mai fù, Total eclipse, Verdi prati, Caro mio ben).
 * **Geistliche Musik & Liturgie:** Mitgestaltung von Gottesdiensten mit Orgelbegleitung, von Taizé-Liedern über klassische Stücke wie Becker (Wo du hingehst) oder Dvořák (Der Herr ist mein Hirte) bis hin zu modernen geistlichen Gesängen (Here I am, Lord; You are my all in all; I wonder as I wander).
