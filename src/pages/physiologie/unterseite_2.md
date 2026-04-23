@@ -79,4 +79,4 @@ Atmung ist beim Singen keine zusätzliche Aufgabe. Sie ist bereits vorhanden. En
 ## Übergang
 Im nächsten Abschnitt geht es um einen Bereich, der eng mit der Atmung verbunden ist und oft unbemerkt Einfluss nimmt:
 
-**die Spannung im Körper**.
+**Die Spannung im Körper**.
