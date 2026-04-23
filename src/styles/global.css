@@ -269,3 +269,44 @@ h2 {
     margin: 0 24px 12px 0;
   }
 }
+
+/* =============================================
+   FOOTNOTES ANPASSEN
+   ============================================= */
+
+/* ... deine bisherigen Styles ... */
+
+/* 1. Die gesamte Sektion konfigurieren */
+section[data-footnotes] {
+  border-top: none !important;
+  margin-top: 3rem;
+}
+
+/* 2. Den Trennstrich (hr) verstecken */
+section[data-footnotes] hr {
+  display: none !important;
+}
+
+/* 3. Das Wort "Footnotes" verstecken */
+#footnote-label {
+  font-size: 0 !important;
+  margin-bottom: 0.2rem !important; 
+  display: block !important;
+}
+
+/* 4. Das Wort "Links" kleiner und in Normalschrift anzeigen */
+#footnote-label::after {
+  content: "Links";
+  font-size: 1rem !important;      /* Kleinere Überschrift */
+  font-weight: 600 !important;     /* Weniger fett */
+  text-transform: none !important;   /* Verhindert Großbuchstaben */
+  display: block;
+  visibility: visible;
+}
+
+/* 5. Die Link-Texte selbst verkleinern */
+section[data-footnotes] ol li {
+  font-size: 0.85rem !important;   /* Kleinere Schrift für die eigentlichen Links */
+  line-height: 1.4;
+  color: #555;                     /* Etwas dezenteres Grau */
+}
