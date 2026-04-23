@@ -6,17 +6,17 @@ description: " "
 ---
 **Woher?**
 
-Geprägt durch Jahrzehnte universitärer Forschung und Lehre in der Sportmedizin und Gesundheitsförderung[^1], verbindet Holger Gabriel heute wissenschaftliche Expertise mit einem ganzheitlichen Blick auf den Menschen. Die Analyse von Bewegung ist der Integration von Leib und Biografie gewichen – für einen stimmigen Umgang mit sich selbst und der Umwelt.
+Geprägt durch Jahrzehnte universitärer Forschung und Lehre in der Sportmedizin und Gesundheitsförderung[^1], verbinde ich heute wissenschaftliche Expertise mit einem ganzheitlichen Blick auf den Menschen. Die Analyse von Bewegung ist der Integration von Leib und Biografie gewichen – für einen stimmigen Umgang mit sich selbst und der Umwelt.
 
 
 **Wozu?**
 
-Im klassischen Gesang werden Theorie und Regulation zur unmittelbaren Praxis in Atem und Klang. Fernab von Leistungsdruck steht die Qualität des Ausdrucks im Mittelpunkt: Die Stimme dient als Medium, um Resonanzräume zu öffnen und Menschen durch Musik zu erreichen.
+Im klassischen Gesang werden für mich Theorie und Regulation zur unmittelbaren Praxis in Atem und Klang. Fernab von Leistungsdruck steht die Qualität des Ausdrucks im Mittelpunkt: Die Stimme dient als Medium, um Resonanzräume zu öffnen und Menschen durch Musik zu erreichen.
 
 
 **Wohin?**
 
-Seit 2024 vertieft er sein Handwerk und Repertoire in einem kontinuierlichen Lern- und Entwicklungsprozess. Ziel ist eine menschenzugewandte Gesangspraxis, die stimmliche Balance mit echter Hingabe verbindet und eine Brücke zwischen Text, Raum und Zuhörenden schlägt.
+Seit 2024 vertiefe ich mein Handwerk und Repertoire in einem kontinuierlichen Lern- und Entwicklungsprozess. Ziel ist eine menschenzugewandte Gesangspraxis, die stimmliche Balance mit echter Hingabe verbindet und eine Brücke zwischen Text, Raum und Zuhörenden schlägt.
 
 
 
