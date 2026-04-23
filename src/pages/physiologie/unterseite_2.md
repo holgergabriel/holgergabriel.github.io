@@ -8,7 +8,7 @@ description: " "
 ## Einstieg
 Wenn es um Singen geht, fällt sehr schnell ein Stichwort: **Atmung**.
 
-Viele haben den Eindruck, sie müssten vor allem „richtig atmen lernen“. Und oft entsteht dabei eher mehr Anstrengung als Erleichterung. Oft führt genau das zu mehr Anstrengung als zu mehr Leichtigkeit. Vielleicht haben Sie beim Singen schon erlebt, dass „mehr Luft holen“ nicht automatisch hilft.
+Viele haben beim Singen den Eindruck, sie müssten vor allem „richtig atmen lernen“. Und oft entsteht dabei eher mehr Anstrengung als Erleichterung. Oft führt genau das zu mehr Anstrengung als zu mehr Leichtigkeit. Vielleicht haben Sie beim Singen schon erlebt, dass „mehr Luft holen“ nicht automatisch hilft.
 
 In diesem Abschnitt geht es darum, ein besseres Gefühl dafür zu bekommen, welche Rolle die Atmung beim Singen tatsächlich spielt.
 
@@ -31,7 +31,11 @@ Was sich verändert, ist nicht die Fähigkeit zu atmen, sondern die Art, wie Atm
 
 Beim Singen entsteht der Ton nicht beim Einatmen, sondern beim Ausatmen. Die Luft setzt die Stimmlippen in Bewegung – und daraus entsteht der Ton. Das bedeutet:
 
-Nicht die Menge der eingeatmeten Luft ist entscheidend, sondern wie die Luft wieder abgegeben wird. Oder anders gesagt: Nicht das Einatmen macht den Ton. Es ist vielmehr die Art, wie die Luft wieder abgegeben wird.
+Nicht die Menge der eingeatmeten Luft ist entscheidend, sondern wie die Luft wieder abgegeben wird. Oder anders gesagt: 
+
+Nicht das Einatmen macht den Ton. 
+
+Es ist vielmehr die Art, wie die Luft wieder abgegeben wird.
 
 ## Häufige Missverständnisse
 
@@ -51,7 +55,7 @@ Und genau diese Spannung kann das Singen erschweren.
 
 ## Weniger machen – mehr zulassen
 
-Hilfreich ist oft nicht, mehr zu tun, sondern etwas weniger zu tun. Ein möglicher Zugang ist:
+Hilfreich ist oft nicht, mehr zu tun, sondern etwas weniger zu tun. Ein möglicher Zugang kann sein:
 
 - die Einatmung geschehen zu lassen,
 - den Körper nicht aktiv „aufzublasen“,
@@ -77,7 +81,7 @@ Oft zeigt sich hier schon, wie eng Atmung und Spannung miteinander verbunden sin
 
 Atmung ist beim Singen keine zusätzliche Aufgabe. Sie ist bereits vorhanden. Entscheidend ist nicht, wie viel Luft Sie einatmen, sondern wie ruhig und kontrolliert Sie sie wieder abgeben.
 
-Ein bewussterer Umgang mit der Ausatmung kann den Ton stabiler und freier entstehen lassen.
+Ein bewussterer Umgang mit der Ausatmung lässt den Ton oft stabiler und freier entstehen.
 
 ## Übergang
 Im nächsten Abschnitt geht es um einen Bereich, der eng mit der Atmung verbunden ist und oft unbemerkt Einfluss nimmt:
