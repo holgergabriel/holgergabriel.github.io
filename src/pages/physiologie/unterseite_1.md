@@ -8,9 +8,11 @@ description: " "
 ## Einstieg
 
 Vielleicht haben Sie beim Lesen der vorherigen Seite schon bemerkt:
-Singen ist kein isolierter Vorgang. Es entsteht nicht nur im Kehlkopf. Auch hängt es hängt esnicht allein von „Talent“ ab. Singen ist immer ein Zusammenspiel mehrerer körperlicher Prozesse.
+Singen ist kein isolierter Vorgang. Es entsteht nicht nur im Kehlkopf. Auch hängt es hängt es nicht allein vom „Talent“ oder der Veranlagung ab. 
 
-In diesem Abschnitt geht es darum, ein erstes, einfaches Gefühl dafür zu bekommen, wie dieses Zusammenspiel grundsätzlich funktioniert.
+Singen ist immer ein Zusammenspiel mehrerer körperlicher Prozesse.
+
+In diesem Abschnitt geht es darum, in erstes Gefühl dafür zu bekommen, wie dieses Zusammenspiel funktioniert.
 
 ## Worum es hier geht
 
@@ -38,7 +40,7 @@ Diese Bereiche arbeiten nicht getrennt voneinander. Sie beeinflussen sich gegens
 
 Der Ton entsteht im Kehlkopf. Dort werden die Stimmlippen durch den Luftstrom in Schwingung versetzt. Das ist die Grundlage. Aber entscheidend ist nicht nur, dass ein Ton entsteht, sondern wie er entsteht und wie er weitergeführt wird. Dabei spielen zwei Dinge eine große Rolle:
 
-- Wie die Luft den Ton trägt,
+- wie die Luft den Ton trägt,
 - wie der Körper den Ton „zulässt“ oder behindert.
 
 Oft liegt die Schwierigkeit nicht im Kehlkopf selbst, sondern im Zusammenspiel mit Atmung und Spannung. 
@@ -57,12 +59,12 @@ Wenn dieses Zusammenspiel gestört ist, wird Singen schnell anstrengend.
 
 Sie können einmal darauf achten:
 
-- Was passiert in Ihrem Körper, wenn ein Ton sich leicht anfühlt?
-- Was verändert sich, wenn es anstrengend wird?
+- was passiert in Ihrem Körper, wenn ein Ton sich leicht anfühlt?
+- was verändert sich, wenn es anstrengend wird?
 
 Oft sind es keine großen Unterschiede, sondern eher feine Veränderungen:
 
-- Etwas mehr Spannung im Hals,
+- etwas mehr Spannung im Hals,
 - eine festere Atmung,
 - weniger Beweglichkeit im Körper.
 
@@ -70,9 +72,9 @@ Diese Unterschiede wahrzunehmen, ist ein erster wichtiger Schritt.
 
 ## Vielleicht lässt sich das so zusammenfassen
 
-Singen entsteht nicht an einer einzelnen Stelle im Körper. Es ist das Ergebnis eines Zusammenspiels. Dieses Zusammenspiel kann sich verändern – zum Guten wie zum Schwierigen. Für Beides gibt es einen guten Umgang, damit Singen gelingen darf.
+Singen entsteht nicht an einer einzelnen Stelle im Körper. Es ist das Ergebnis eines Zusammenspiels. Dieses Zusammenspiel kann sich verändern – zum Guten wie zum Schwierigen. Für beides lässt sich ein hilfreicher Umgang entwickeln.
 
-Ein Verständnis dafür hilft, Probleme nicht nur „wegzuüben“, sondern sie besser einordnen zu können.
+Ein Verständnis dafür hilft, Probleme nicht nur „wegzuüben“, sondern sie besser einordnen und gezielter verändern zu können.
 
 ## Übergang
 
