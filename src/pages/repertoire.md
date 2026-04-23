@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Was klingt, welche Stücke werden gesungen?"
+title: "Klassik, Lied und Geistliches"
 subtitle: ""
 description: " "
 ---
