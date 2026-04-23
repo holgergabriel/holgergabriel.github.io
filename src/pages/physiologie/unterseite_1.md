@@ -8,16 +8,16 @@ description: " "
 ## Einstieg
 
 Vielleicht haben Sie beim Lesen der vorherigen Seite schon bemerkt:
-Singen ist kein isolierter Vorgang. Es entsteht nicht nur im Kehlkopf. Auch hängt es hängt es nicht allein vom „Talent“ oder der Veranlagung ab. 
+
+Singen ist kein isolierter Vorgang. Es entsteht nicht nur im Kehlkopf und es hängt auch nicht allein von „Talent“ oder Veranlagung ab.
 
 Singen ist immer ein Zusammenspiel mehrerer körperlicher Prozesse.
 
-In diesem Abschnitt geht es darum, in erstes Gefühl dafür zu bekommen, wie dieses Zusammenspiel funktioniert.
+In diesem Abschnitt geht es darum, ein erstes Gefühl dafür zu bekommen, wie dieses Zusammenspiel funktioniert.
 
 ## Worum es hier geht
 
-Es geht nicht darum, alle Details zu verstehen. Sondern darum, ein paar zentrale Zusammenhänge zu erkennen,
-die beim Singen immer eine Rolle spielen:
+Es geht nicht darum, alle Details zu verstehen. Im Vordergrund stehen einige grundlegende Zusammenhänge, die beim Singen immer eine Rolle spielen:
 
 - Woher kommt der Ton?
 - Was steuert ihn?
@@ -34,11 +34,21 @@ Beim Singen wirken mehrere Bereiche zusammen:
 - die Resonanzräume im Körper,
 - die Haltung und Bewegung.
 
-Diese Bereiche arbeiten nicht getrennt voneinander. Sie beeinflussen sich gegenseitig – oft stärker, als man zunächst vermutet. Eine Veränderung an einer Stelle hat fast immer Auswirkungen auf das Ganze.
+Diese Bereiche arbeiten nicht getrennt voneinander.
+
+Sie beeinflussen sich gegenseitig – oft stärker, als man zunächst vermutet.
+
+Eine Veränderung an einer Stelle hat fast immer Auswirkungen auf das Ganze.
 
 ## Der Ton entsteht – und wird geführt
 
-Der Ton entsteht im Kehlkopf. Dort werden die Stimmlippen durch den Luftstrom in Schwingung versetzt. Das ist die Grundlage. Aber entscheidend ist nicht nur, dass ein Ton entsteht, sondern wie er entsteht und wie er weitergeführt wird. Dabei spielen zwei Dinge eine große Rolle:
+Der Ton entsteht im Kehlkopf. 
+
+Dort werden die Stimmlippen durch den Luftstrom in Schwingung versetzt. Das ist die Grundlage. 
+
+Aber entscheidend ist nicht nur, dass ein Ton entsteht, sondern wie er entsteht und wie er weitergeführt wird. 
+
+Dabei spielen zwei Dinge eine große Rolle:
 
 - wie die Luft den Ton trägt,
 - wie der Körper den Ton „zulässt“ oder behindert.
@@ -47,7 +57,13 @@ Oft liegt die Schwierigkeit nicht im Kehlkopf selbst, sondern im Zusammenspiel m
 
 ## Leichtigkeit ist kein Zufall
 
-Manche Töne gelingen scheinbar mühelos. Andere wirken angestrengt, unsicher oder instabil. Das hat selten mit Zufall zu tun. Häufig zeigt sich hier, wie gut die einzelnen Prozesse im Körper zusammenarbeiten. Wenn Atmung, Haltung und Spannung aufeinander abgestimmt sind, entsteht oft ein Gefühl von:
+Manche Töne gelingen scheinbar mühelos. Andere wirken angestrengt, unsicher oder instabil. 
+
+Das hat selten mit Zufall zu tun. 
+
+Häufig zeigt sich hier, wie gut die einzelnen Prozesse im Körper zusammenarbeiten. 
+
+Wenn Atmung, Haltung und Spannung aufeinander abgestimmt sind, entsteht oft ein Gefühl von:
 
 - Stabilität,
 - Klarheit,
@@ -72,7 +88,11 @@ Diese Unterschiede wahrzunehmen, ist ein erster wichtiger Schritt.
 
 ## Vielleicht lässt sich das so zusammenfassen
 
-Singen entsteht nicht an einer einzelnen Stelle im Körper. Es ist das Ergebnis eines Zusammenspiels. Dieses Zusammenspiel kann sich verändern – zum Guten wie zum Schwierigen. Für beides lässt sich ein hilfreicher Umgang entwickeln.
+Singen entsteht nicht an einer einzelnen Stelle im Körper. Es ist das Ergebnis eines Zusammenspiels. 
+
+Dieses Zusammenspiel kann sich verändern – zum Guten wie zum Schwierigen. 
+
+Für beides lässt sich ein hilfreicher Umgang entwickeln.
 
 Ein Verständnis dafür hilft, Probleme nicht nur „wegzuüben“, sondern sie besser einordnen und gezielter verändern zu können.
 
@@ -80,4 +100,4 @@ Ein Verständnis dafür hilft, Probleme nicht nur „wegzuüben“, sondern sie 
 
 Im nächsten Abschnitt geht es etwas genauer um einen Bereich, der für dieses Zusammenspiel zentral ist und gleichzeitig häufig missverstanden wird:
 
-**Die Atmung.**
+**die Atmung.**

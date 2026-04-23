@@ -18,19 +18,27 @@ später im Gesangseinzelunterricht, begleitet durch logopädische Arbeit und reg
 Der Weg war nicht geradlinig.
 
 Er war geprägt von Fortschritten, aber auch von Rückschlägen:
-Körperliche Spannungsprobleme, Haltungsfragen, Unsicherheiten, Überlastung. Und zugleich die spannende Erfahrung, die eigene Singstimme in ihren vielen Facetten kennenlernen zu dürfen.
+körperliche Spannungsprobleme, Haltungsfragen, Unsicherheiten, Überlastung.
 
-Eine phoniatrische Untersuchung zeigte: Organisch ist alles in Ordnung. Das Entscheidende lag also nicht in einer Erkrankung,
+Und zugleich die spannende Erfahrung, die eigene Singstimme in ihren vielen Facetten kennenlernen zu dürfen.
+
+Eine phoniatrische Untersuchung zeigte: organisch ist alles in Ordnung.
+
+Das Entscheidende lag also nicht in einer Erkrankung,
 sondern im Umgang mit dem eigenen Körper.
 
-Genau hier hat sich für mich ein Zugang eröffnet,
-der meine beruflichen Erfahrungen mit meinem eigenen Lernen verbindet: Physiologie nicht als Theorie – sondern als praktisches Verständnis dessen, was beim Singen geschieht.
+Genau hier hat sich für mich ein Zugang eröffnet, der meine beruflichen Erfahrungen mit meinem eigenen Lernen verbindet: Physiologie nicht als Theorie – sondern als praktisches Verständnis dessen, was beim Singen geschieht.
 
 Diese Seite ist aus dieser Perspektive entstanden.
 Nicht als Anleitung „von oben“, sondern als Angebot:
-Dinge verständlich zu machen, die oft unnötig kompliziert erscheinen. (Physiologische) Zusammenhänge zu klären, die im Unterricht manchmal nur angedeutet werden und dabei immer den Bezug zur eigenen Erfahrung zu behalten.
+
+- Dinge verständlich zu machen, die oft unnötig kompliziert erscheinen
+- Zusammenhänge zu klären, die im Unterricht manchmal nur angedeutet werden
+- und dabei immer den Bezug zur eigenen Erfahrung zu behalten
 
 Sie richtet sich an Menschen, die ihre Stimme entwickeln möchten – unabhängig davon, ob sie am Anfang stehen oder schon länger singen.
 
-Was Sie hier finden, ist kein vollständiges System.
-Aber ein roter Faden – entstanden aus eigener Erfahrung im Lernen des Singens und aus einem physiologischen Blick auf den Körper. Und vielleicht an der einen oder anderen Stelle eine kleine Erleichterung beim eigenen Singen.
+Was Sie hier finden, ist kein vollständiges System. Aber ein roter Faden – entstanden aus eigener Erfahrung im Lernen des Singens und aus einem physiologischen Blick auf den Körper.
+
+Und vielleicht an der einen oder anderen Stelle
+eine kleine Erleichterung beim eigenen Singen.
