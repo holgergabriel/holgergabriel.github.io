@@ -10,10 +10,9 @@ description: " "
 Vielleicht haben Sie beim Singen schon bemerkt,
 dass sich die Stimme nicht jeden Tag gleich anfühlt.
 An manchen Tagen gelingt vieles fast von selbst.
-An anderen wirkt alles unsicher oder anstrengend.
+An anderen wirkt selbst Vertrautes unsicher oder anstrengend.
 Das kann irritierend oder auch verunsichernd sein.
-In diesem Abschnitt geht es darum, die Stimme nicht als etwas Festes zu betrachten,
-sondern als etwas, das sich entwickelt – über Zeit, Erfahrung und Nutzung.
+In diesem Abschnitt geht es darum, die Stimme nicht als etwas Festes zu betrachten, sondern als etwas, das sich entwickelt – über Zeit, Erfahrung und Nutzung.
 
 ## Worum es hier geht
 In diesem Abschnitt geht es weniger um schnelleres Vorankommen
