@@ -4,6 +4,7 @@ title: "Gesundheit als Wandlungsfähigkeit"
 subtitle: ""
 description: " "
 ---
+
 Für Holger Gabriel ist Gesundheit mehr als das Freisein von Krankheit: Sie zeigt sich in der **Fähigkeit zu Bewegung, Wahrnehmung und sinnvoller Lebensgestaltung**. Gesundheit entsteht im Zusammenspiel von körperlicher Funktion, subjektivem Erleben und sozialer Beziehung und bleibt ein **dynamischer Prozess** über die gesamte Lebensspanne.
 
 Mit zunehmendem Alter gewinnt dabei eine besondere Form der aktiven Lebensgestaltung an Bedeutung: **Das aktive Loslassen**, eingebunden in ein unterstützendes soziales Umfeld und die zukunftsorientierte Frage: Wohin und auf wen hin darf ich loslassen? 
