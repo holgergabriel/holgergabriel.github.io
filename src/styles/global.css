@@ -423,3 +423,92 @@ section[data-footnotes] ol li {
   line-height: 1.4;
 }
 
+/* =============================================
+   FINAL MOBILE REFINEMENT
+   ============================================= */
+
+@media (max-width: 600px) {
+
+  /* ---- Lesebreite & Padding ---- */
+  .page-content {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .container {
+    padding-inline: 1rem;
+  }
+
+  /* ---- Text ruhiger machen ---- */
+  .prose {
+    line-height: 1.8;
+  }
+
+  .prose p {
+    max-width: 100%;
+    font-size: 0.98rem;
+    margin-bottom: 0.85rem;
+  }
+
+  /* ---- Überschriften entschärfen ---- */
+  .prose :global(h2) {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    margin-top: var(--space-lg);
+    margin-bottom: var(--space-sm);
+  }
+
+  .prose :global(h3) {
+    margin-top: var(--space-md);
+  }
+
+  /* ---- Listen besser lesbar ---- */
+  .prose ul,
+  .prose ol {
+    padding-left: 1.2rem;
+  }
+
+  .prose li {
+    margin-bottom: 0.4rem;
+  }
+
+  /* ---- Navigation mobil optimieren ---- */
+  .nav-links {
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .nav-links a {
+    display: block;
+    padding: 6px 0;
+  }
+
+  .nav-next {
+    text-align: left;
+  }
+
+  .nav-progress {
+    margin-top: var(--space-md);
+  }
+
+  /* ---- Blockquotes luftiger ---- */
+  .prose blockquote {
+    padding: 0.5rem 0.8rem;
+    margin: 1.2rem 0;
+  }
+
+  /* ---- Header kompakter ---- */
+  .page-header {
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-md);
+  }
+
+  .page-title {
+    font-size: 1.5rem;
+  }
+
+  .page-subtitle {
+    font-size: 0.95rem;
+  }
+}
