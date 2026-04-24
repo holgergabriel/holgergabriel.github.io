@@ -29,10 +29,10 @@ Vielleicht entsteht dabei bereits eine erste Orientierung, die Ihnen beim Üben 
 
 Beim Singen wirken mehrere Bereiche zusammen:
 
-- die Atmung,
-- der Kehlkopf mit den Stimmlippen,
-- die Resonanzräume im Körper,
-- die Haltung und Bewegung.
+- die Atmung
+- der Kehlkopf mit den Stimmlippen
+- die Resonanzräume im Körper
+- die Haltung und Bewegung
 
 Diese Bereiche arbeiten nicht getrennt voneinander.
 
@@ -65,9 +65,9 @@ Häufig zeigt sich hier, wie gut die einzelnen Prozesse im Körper zusammenarbei
 
 Wenn Atmung, Haltung und Spannung aufeinander abgestimmt sind, entsteht oft ein Gefühl von:
 
-- Stabilität,
-- Klarheit,
-- spürbarer Mühelosigkeit.
+- Stabilität
+- Klarheit
+- spürbarer Mühelosigkeit
 
 Wenn dieses Zusammenspiel gestört ist, wird Singen schnell anstrengend.
 
@@ -80,9 +80,9 @@ Sie können einmal darauf achten:
 
 Oft sind es keine großen Unterschiede, sondern eher feine Veränderungen:
 
-- etwas mehr Spannung im Hals,
-- eine festere Atmung,
-- weniger Beweglichkeit im Körper.
+- etwas mehr Spannung im Hals
+- eine festere Atmung
+- weniger Beweglichkeit im Körper
 
 Diese Unterschiede wahrzunehmen, ist ein erster wichtiger Schritt.
 

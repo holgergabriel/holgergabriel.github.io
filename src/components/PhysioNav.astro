@@ -1,0 +1,38 @@
+---
+import { physiologieSections } from "../data/physiologie";
+
+const { currentSlug } = Astro.props;
+
+const index = physiologieSections.findIndex(
+  (s) => s.slug === currentSlug
+);
+
+const prev = physiologieSections[index - 1];
+const next = physiologieSections[index + 1];
+---
+
+<hr />
+
+<div style="display:flex; justify-content:space-between; margin-top:2rem;">
+
+  <div>
+    {prev && (
+      <a href={`/physiologie/${prev.slug}/`}>
+        ← {prev.title}
+      </a>
+    )}
+  </div>
+
+  <div style="text-align:right;">
+    {next && (
+      <a href={`/physiologie/${next.slug}/`}>
+        {next.title} →
+      </a>
+    )}
+  </div>
+
+</div>
+
+<p style="text-align:center; margin-top:1rem; font-size:0.9em; color:#666;">
+  Abschnitt {index + 1} von {physiologieSections.length}
+</p>

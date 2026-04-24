@@ -310,3 +310,116 @@ section[data-footnotes] ol li {
   line-height: 1.4;
   color: #555;                     /* Etwas dezenteres Grau */
 }
+
+/* =============================================
+   PHYSIOLOGIE NAVIGATION
+   ============================================= */
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  margin-top: var(--space-xl);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-border);
+  font-size: 0.92rem;
+}
+
+.nav-links a {
+  color: var(--color-text-muted);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.nav-links a:hover {
+  color: var(--color-text);
+  text-decoration: underline;
+}
+
+.nav-next {
+  text-align: right;
+}
+
+.nav-progress {
+  text-align: center;
+  margin-top: var(--space-sm);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  letter-spacing: 0.04em;
+}
+
+/* =============================================
+   READING FLOW REFINEMENT
+   ============================================= */
+
+.prose {
+  line-height: 1.75;
+}
+
+.prose p {
+  margin-bottom: 0.9rem;
+}
+
+.prose p + p {
+  margin-top: -0.2rem;
+}
+
+/* =============================================
+   LIST REFINEMENT
+   ============================================= */
+
+.prose ul li,
+.prose ol li {
+  margin-bottom: 0.35rem;
+}
+
+.prose ul li::marker,
+.prose ol li::marker {
+  color: var(--color-text-muted);
+}
+
+/* =============================================
+   SIGNATURE STATEMENTS
+   ============================================= */
+
+.prose blockquote {
+  border-left: 2px solid var(--color-border);
+  background: transparent;
+  padding: var(--space-sm) var(--space-md);
+  margin: var(--space-lg) 0;
+  font-style: normal;
+  color: var(--color-text);
+}
+
+/* =============================================
+   OVERVIEW LIST (PHYSIOLOGIE)
+   ============================================= */
+
+.prose ol {
+  margin-top: var(--space-md);
+  margin-bottom: var(--space-lg);
+}
+
+.prose ol li {
+  margin-bottom: var(--space-sm);
+}
+
+.prose ol a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--transition-fast);
+}
+
+.prose ol a:hover {
+  border-color: var(--color-text-muted);
+}
+
+/* =============================================
+   HEADING BALANCE
+   ============================================= */
+
+.prose h2 {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-md);
+  line-height: 1.4;
+}
+

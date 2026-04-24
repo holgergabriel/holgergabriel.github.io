@@ -1,15 +1,6 @@
 ---
 /**
  * MarkdownLayout
- *
- * Layout used by all Markdown pages in `src/pages/*.md`.
- * Reads page metadata from the markdown frontmatter and renders
- * the slotted markdown content inside a styled prose container.
- *
- * Expected frontmatter:
- *   title:       string   (required) — page title
- *   description: string?  (optional) — meta description
- *   subtitle:    string?  (optional) — shown below the main heading
  */
 
 import BaseLayout from './BaseLayout.astro';
@@ -28,6 +19,25 @@ interface Props {
 const { frontmatter } = Astro.props;
 const avatarWidth = frontmatter.avatarWidth ?? '96px';
 const avatarHeight = frontmatter.avatarHeight ?? '96px';
+
+/* ---- Navigation ---- */
+const path = Astro.url.pathname;
+
+const pages = [
+  { title: "Persönliche Vorbemerkungen", slug: "unterseite_0" },
+  { title: "Grundlagen des Singens", slug: "unterseite_1" },
+  { title: "Atmung und Ton", slug: "unterseite_2" },
+  { title: "Spannung und Leichtigkeit", slug: "unterseite_3" },
+  { title: "Stimme als Entwicklung", slug: "unterseite_4" },
+  { title: "Häufige Missverständnisse", slug: "unterseite_5" },
+  { title: "Singen im Alltag", slug: "unterseite_6" },
+  { title: "Wie man übt", slug: "unterseite_7" },
+];
+
+const currentIndex = pages.findIndex(p => path.includes(p.slug));
+
+const prev = pages[currentIndex - 1];
+const next = pages[currentIndex + 1];
 ---
 
 <BaseLayout title={frontmatter.title} description={frontmatter.description}>
@@ -44,6 +54,35 @@ const avatarHeight = frontmatter.avatarHeight ?? '96px';
 
     <article class="prose">
       <slot />
+
+      {/* ---- Navigation ---- */}
+      {currentIndex !== -1 && (
+        <>
+          <hr />
+
+          <div class="nav-links">
+            <div>
+              {prev && (
+                <a href={`/physiologie/${prev.slug}/`}>
+                  ← {prev.title}
+                </a>
+              )}
+            </div>
+
+            <div class="nav-next">
+              {next && (
+                <a href={`/physiologie/${next.slug}/`}>
+                  {next.title} →
+                </a>
+              )}
+            </div>
+          </div>
+
+          <p class="nav-progress">
+            Abschnitt {currentIndex + 1} von {pages.length}
+          </p>
+        </>
+      )}
     </article>
   </div>
 </BaseLayout>
@@ -123,11 +162,6 @@ const avatarHeight = frontmatter.avatarHeight ?? '96px';
     line-height: 1.7;
   }
 
-  .prose :global(li strong) {
-    font-family: var(--font-ui);
-    font-size: 0.92rem;
-  }
-
   .prose :global(a) {
     color: var(--color-text);
     text-decoration: underline;
@@ -146,23 +180,24 @@ const avatarHeight = frontmatter.avatarHeight ?? '96px';
     padding: var(--space-md) var(--space-lg);
     margin: var(--space-md) 0;
     font-style: italic;
-    color: var(--color-text);
   }
 
-  .prose :global(code) {
-    font-family: var(--font-mono);
-    font-size: 0.88em;
-    background: var(--color-bg-alt);
-    padding: 2px 6px;
-    border-radius: 2px;
+  /* ---- Navigation ---- */
+  .nav-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: var(--space-lg);
+    font-size: 0.95em;
   }
 
-  .prose :global(em) {
-    font-style: italic;
+  .nav-next {
+    text-align: right;
   }
 
-  .prose :global(strong) {
-    font-weight: 700;
+  .nav-progress {
+    text-align: center;
+    margin-top: var(--space-sm);
+    font-size: 0.85em;
+    color: var(--color-text-muted);
   }
 </style>
-

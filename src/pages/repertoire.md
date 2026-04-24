@@ -4,7 +4,7 @@ title: "Klassik, Lied und Geistliches"
 subtitle: ""
 description: " "
 ---
-Gesang empfinde ich als einen **gemeinschaftlichen Prozess**, bei dem das Erkunden von Atem und Klang im Mittelpunkt steht. Ob im Zusammenspiel mit anderen Musikern oder im Vortrag für ein Publikum: Das gemeinsame Musizieren stiftet **Freude** und schafft **Räume für musikalische Resonanz**.
+Das Singen empfinde ich als einen **gemeinschaftlichen Prozess**, bei dem das Erkunden von Atem und Klang im Mittelpunkt steht. Ob im Zusammenspiel mit anderen Musikern oder im Vortrag für ein Publikum: Das gemeinsame Musizieren stiftet **Freude** und schafft **Räume für musikalische Resonanz**.
 
 ## **Musikalische Schwerpunkte seit Ausbildungsbeginn 2024**
 
