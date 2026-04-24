@@ -337,35 +337,32 @@ function isActive(href: string): boolean {
   }
 
   // Mobile: accordion for dropdown items
-document.querySelectorAll<HTMLElement>('.has-dropdown .nav-link').forEach(link => {
-  link.addEventListener('click', (e) => {
-    // Only intercept on mobile (toggle is visible)
-    const toggleBtn = document.querySelector('.nav-toggle') as HTMLElement;
-    if (!toggleBtn || getComputedStyle(toggleBtn).display === 'none') return;
+  document.querySelectorAll<HTMLElement>('.has-dropdown .nav-link').forEach(link => {
+    link.addEventListener('click', (e) => {
+      const toggleBtn = document.querySelector('.nav-toggle') as HTMLElement;
+      if (!toggleBtn || getComputedStyle(toggleBtn).display === 'none') return;
 
-    const item = link.closest('.has-dropdown') as HTMLElement;
-    if (!item) return;
+      const item = link.closest('.has-dropdown') as HTMLElement;
+      if (!item) return;
 
-    if (!item.classList.contains('is-open')) {
-      e.preventDefault();
-    }
+      if (!item.classList.contains('is-open')) {
+        e.preventDefault();
+      }
 
-    const isOpen = item.classList.toggle('is-open');
-    link.setAttribute('aria-expanded', String(isOpen));
+      const isOpen = item.classList.toggle('is-open');
+      link.setAttribute('aria-expanded', String(isOpen));
+    });
   });
-});
+
+  // Close menu when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!nav || !toggle) return;
+
+    const isClickInside = nav.contains(e.target as Node) || toggle.contains(e.target as Node);
+
+    if (!isClickInside) {
+      nav.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
 </script>
-
-document.addEventListener('click', (e) => {
-  const nav = document.querySelector('.site-nav');
-  const toggle = document.querySelector('.nav-toggle');
-
-  if (!nav || !toggle) return;
-
-  const isClickInside = nav.contains(e.target) || toggle.contains(e.target);
-
-  if (!isClickInside) {
-    nav.classList.remove('is-open');
-    toggle.setAttribute('aria-expanded', 'false');
-  }
-});
