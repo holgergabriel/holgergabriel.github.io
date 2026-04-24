@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../layouts/MarkdownLayout.astro
 title: "Persönliche Vorbemerkungen"
 subtitle: ""
 description: " "
@@ -34,8 +34,7 @@ organisch ist alles in Ordnung.
 Das Entscheidende lag also nicht in einer Erkrankung,  
 sondern im Umgang mit dem eigenen Körper.
 
-Genau hier hat sich für mich ein Zugang eröffnet,  
-der meine beruflichen Erfahrungen mit meinem eigenen Lernen verbindet:
+Genau hier hat sich für mich ein Zugang eröffnet, der meine beruflichen Erfahrungen mit meinem eigenen Lernen verbindet:
 
 Physiologie nicht als Theorie – sondern als praktisches Verständnis dessen, was beim Singen geschieht.
 
@@ -52,13 +51,9 @@ Sie ist als Angebot gedacht:
 
 ## Einstieg
 
-Wenn Sie sich für das Singen interessieren oder Ihre Stimme entwickeln möchten,  
-können Sie hier beginnen:
+Wenn Sie sich vor diesem Hintergrund für das Singen interessieren oder Ihre Stimme entwickeln möchten, können Sie hier beginnen:
 
 - [Physiologie – verstehen, um leichter zu singen](/physiologie/)  
-- [Gesundheit](/gesundheit/)  
-- [Repertoire](/repertoire/)  
-
 
 Vielleicht entsteht daraus kein fester Weg, sondern eine Orientierung.
 
