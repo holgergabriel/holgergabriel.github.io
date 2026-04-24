@@ -131,7 +131,7 @@ function isActive(href: string): boolean {
     font-family: var(--font-ui);
     font-size: 0.95rem;
     font-weight: 700;
-    letter-spacing: -0.01em;
+    letter-spacing: -0.02em;
     color: var(--color-text);
     text-decoration: none;
     white-space: nowrap;
@@ -196,8 +196,8 @@ function isActive(href: string): boolean {
     margin: 0;
     position: absolute;
     top: calc(100% + 8px);
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0;
+    transform: none;
     min-width: 160px;
     background: var(--color-nav-bg);
     border: 1px solid var(--color-border);
@@ -230,7 +230,7 @@ function isActive(href: string): boolean {
     color: var(--color-text-muted);
     text-decoration: none;
     white-space: nowrap;
-    transition: color var(--transition-fast), background-color var(--transition-fast);
+    transition: color var(--transition-fast), background-color var(--color-bg-alt);
   }
 
   .dropdown-link:hover {
@@ -281,11 +281,13 @@ function isActive(href: string): boolean {
 
     .nav-list {
       flex-direction: column;
-      gap: var(--space-md);
+      gap: var(--space-lg);
     }
 
     .nav-link {
       font-size: 1rem;
+      padding: 10px 0;
+      display: block;
     }
 
     .nav-toggle {
@@ -304,7 +306,7 @@ function isActive(href: string): boolean {
       border: none;
       border-left: 2px solid var(--color-border);
       border-radius: 0;
-      padding: 0;
+      padding: var(--space-sm) 0;
       margin-left: var(--space-md);
       margin-top: var(--space-sm);
       opacity: 1;
@@ -335,18 +337,35 @@ function isActive(href: string): boolean {
   }
 
   // Mobile: accordion for dropdown items
-  document.querySelectorAll<HTMLElement>('.has-dropdown .nav-link').forEach(link => {
-    link.addEventListener('click', (e) => {
-      // Only intercept on mobile (toggle is visible)
-      const toggleBtn = document.querySelector('.nav-toggle') as HTMLElement;
-      if (!toggleBtn || getComputedStyle(toggleBtn).display === 'none') return;
+document.querySelectorAll<HTMLElement>('.has-dropdown .nav-link').forEach(link => {
+  link.addEventListener('click', (e) => {
+    // Only intercept on mobile (toggle is visible)
+    const toggleBtn = document.querySelector('.nav-toggle') as HTMLElement;
+    if (!toggleBtn || getComputedStyle(toggleBtn).display === 'none') return;
 
-      const item = link.closest('.has-dropdown') as HTMLElement;
-      if (!item) return;
+    const item = link.closest('.has-dropdown') as HTMLElement;
+    if (!item) return;
 
+    if (!item.classList.contains('is-open')) {
       e.preventDefault();
-      const isOpen = item.classList.toggle('is-open');
-      link.setAttribute('aria-expanded', String(isOpen));
-    });
+    }
+
+    const isOpen = item.classList.toggle('is-open');
+    link.setAttribute('aria-expanded', String(isOpen));
   });
+});
 </script>
+
+document.addEventListener('click', (e) => {
+  const nav = document.querySelector('.site-nav');
+  const toggle = document.querySelector('.nav-toggle');
+
+  if (!nav || !toggle) return;
+
+  const isClickInside = nav.contains(e.target) || toggle.contains(e.target);
+
+  if (!isClickInside) {
+    nav.classList.remove('is-open');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+});
