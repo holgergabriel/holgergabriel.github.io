@@ -13,7 +13,7 @@ Für mich bilden Körper, Atem und Resonanz die Grundlage für einen stimmigen A
 
 Diese Seite ist aus dem Versuch entstanden, meine eigene Arbeit und Haltung verständlich zu machen.
 
-Sie richtet sich an Menschen, die danach fragen,  an solche, die sich für Stimme und Singen interessieren,  und vielleicht auch an diejenigen, mit denen sich musikalische oder inhaltliche Begegnungen ergeben.
+Sie richtet sich an Menschen, die danach fragen, an solche, die sich für Stimme und Singen interessieren, und vielleicht auch an diejenigen, mit denen sich musikalische oder inhaltliche Begegnungen ergeben.
 
 Was daraus entsteht, bleibt offen.
 
@@ -26,7 +26,7 @@ Weiterführende Seiten:
 
 ---
 
-Die inhaltliche Ausarbeitung dieser Perspektive findet sich in den folgenden Seiten zur Physiologie des Singens.
+Die inhaltliche Ausarbeitung dieser Perspektive findet sich auf den folgenden Seiten zur Physiologie des Singens.
 
 [→ Zu den Inhalten](/physiologie)
 
