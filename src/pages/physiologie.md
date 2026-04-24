@@ -15,4 +15,5 @@ können aber auch einzeln gelesen werden.
 5. [Häufige Missverständnisse](/physiologie/unterseite_5)
 6. [Singen im Alltag](/physiologie/unterseite_6)
 7. [Wie man übt](/physiologie/unterseite_7)
+8. [Was ich nicht anbiete](/physiologie/keinangebot)
 
