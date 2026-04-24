@@ -20,17 +20,17 @@ const navLinks: NavLink[] = [
     href: '/profil',
     label: 'Profil',
     children: [
-      { href: '/profil/vorbemerkungen', label: 'Vorbemerkungen' },
+      { href: '/profil', label: 'Worum es mir auf dieser Webpage geht' },
+      { href: '/profil/vorbemerkungen', label: 'Persönliches' },
       { href: '/profil/repertoire', label: 'Repertoire' },
       { href: '/profil/hintergrund', label: 'Hintergrund' },
       { href: '/profil/gesundheit', label: 'Gesundheit' },
-      { href: '/profil/sportmedizin', label: 'Inhaltliche Brücken zur Sportmedizin' },
       
     ],
   },
   {
     href: '/physiologie',
-    label: 'Physiologie',
+    label: 'Physiologie - verstehen, um leichter zu singen',
     children: [
       
       { href: '/physiologie', label: 'Überblick' },
@@ -41,12 +41,11 @@ const navLinks: NavLink[] = [
       { href: '/physiologie/unterseite_5', label: 'Häufige Missverständnisse' },
       { href: '/physiologie/unterseite_6', label: 'Alltag' },
       { href: '/physiologie/unterseite_7', label: 'Wie man übt' },
-      { href: '/physiologie/keinangebot', label: 'Was ich nicht anbiete' },
+      { href: '/physiologie/sportmedizin', label: 'Inhaltliche Brücken zur Sportmedizin' },
+      { href: '/physiologie/keinangebot', label: 'Last but not least: Was ich nicht anbiete' },
     ],
   },
   
-  
-  { href: '/kontakt', label: 'Kontakt' },
 ];
 
 const currentPath = Astro.url.pathname;

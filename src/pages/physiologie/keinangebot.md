@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: "Was ich nicht anbiete"
+title: "Last but not least: Was ich nicht anbiete"
 subtitle: ""
 description: " "
 ---
@@ -8,6 +8,8 @@ description: " "
 ## Was ich nicht anbiete
 
 Diese Seite ist kein Unterricht.
+
+Sie ist auch keine akademischer Exkurs, keine universitäre Lehrveranstaltung und keine wissenschaftliche state-of-the-art Publikation.
 
 Sie ersetzt keinen Gesangsunterricht, keine logopädische Begleitung und keine individuelle Beratung.
 
