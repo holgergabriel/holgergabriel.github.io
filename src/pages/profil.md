@@ -5,6 +5,22 @@ subtitle: ""
 description: " "
 ---
 
-Als ehemaliger Hochschullehrer widme ich mich heute leidenschaftlich dem **lebenslangen Lernen** in Verbindung mit dem **Singen**. In diesem neuen Lebensabschnitt verschmelzen langjährige Erfahrung in der Gesundheitsförderung und die lebendige Kraft der Stimme zu einer neuen Einheit.
+Als ehemaliger Hochschullehrer widme ich mich heute dem **lebenslangen Lernen** in Verbindung mit dem **Singen**.
 
-Für mich bilden Körper, Atem und Resonanz die Grundlage für einen stimmigen Ausdruck sowie ein **gesünderes, freudvolles Älterwerden** – eine Einladung an das Leben, auf neue Art stimmig und mit Hingabe zu klingen.
+In diesem neuen Lebensabschnitt verbinden sich langjährige Erfahrung in der Gesundheitsförderung und die lebendige Kraft der Stimme.
+
+Für mich bilden Körper, Atem und Resonanz die Grundlage für einen stimmigen Ausdruck – und für ein **freudvolles, tragfähiges Älterwerden**.
+
+---
+
+Weiterführende Seiten:
+
+- [Hintergrund](/profil/hintergrund)
+- [Persönliches](/profil/vorbemerkungen)
+
+---
+
+Die inhaltliche Ausarbeitung dieser Perspektive findet sich in den folgenden Seiten zur Physiologie des Singens.
+
+[→ Zu den Inhalten](/physiologie)
+

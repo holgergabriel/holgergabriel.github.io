@@ -102,7 +102,11 @@ Entscheidend ist nicht, wie viel Luft Sie einatmen, sondern wie ruhig und kontro
 Ein bewussterer Umgang mit der Ausatmung lässt den Ton oft stabiler und freier entstehen.
 
 ## Übergang
-Im nächsten Abschnitt geht es um einen Bereich, der eng mit der Atmung verbunden ist und oft unbemerkt Einfluss nimmt:
 
-**die Spannung im Körper**.
+Atmung und Spannung lassen sich nicht voneinander trennen.
 
+Wie die Luft bewegt wird, beeinflusst unmittelbar, wie sich der Körper organisiert – und wie viel Spannung entsteht.
+
+Oft zeigt sich genau hier, warum Singen sich leicht oder anstrengend anfühlt.
+
+Im nächsten Abschnitt geht es deshalb darum, die Rolle der Spannung im Körper genauer zu betrachten.

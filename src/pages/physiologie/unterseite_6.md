@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: "Häufige Missverständnisse"
+title: "Singen im Alltag"
 subtitle: ""
 description: " "
 ---
@@ -106,6 +106,12 @@ Ein bewusster, flexibler Umgang damit kann helfen, die eigene Stimme besser zu v
 
 ## Abschluss
 
-Vielleicht entsteht daraus kein festes System, sondern eher ein Gefühl dafür, wie Singen im eigenen Leben Platz finden kann. 
+Wenn die Stimme so eng mit dem Alltag verbunden ist, stellt sich die Frage, wie Üben darin seinen Platz finden kann.
 
-Und wie sich der Umgang mit der eigenen Stimme mit der Zeit weiterentwickelt.
+Nicht unabhängig davon, sondern innerhalb der jeweiligen Situation.
+
+- Wie viel ist sinnvoll?  
+- Was ist heute möglich?  
+- Und woran merkt man, dass es zu viel wird?
+
+Im nächsten Abschnitt geht es darum, einen Umgang mit dem Üben zu finden, der sich an diesen Bedingungen orientiert.

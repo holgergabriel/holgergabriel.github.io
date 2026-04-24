@@ -4,53 +4,59 @@ title: "Persönliches"
 subtitle: ""
 description: " "
 ---
+Ich bin kein ausgebildeter Sänger.
 
-Ich bin kein früh geübter und ausgebildeter Sänger.
+Ich habe erst spät begonnen, mich ernsthaft mit meiner Stimme zu beschäftigen – obwohl ich als Hochschullehrer meine Sprechstimme über viele Jahre stark beansprucht habe.
 
-Ich habe erst spät begonnen, mich ernsthaft mit meiner Stimme zu beschäftigen –  
-obwohl ich als Hochschullehrer meine Sprechstimme über Jahrzehnte stark beansprucht habe.
+Der Zugang zur Singstimme entstand zunächst im Chor, später im Gesangseinzelunterricht, begleitet durch logopädische Arbeit und regelmäßiges Üben.
 
-Der bewußte Zugang zur Singstimme entstand zunächst im Chor, später im Gesangseinzelunterricht, begleitet durch logopädische Arbeit und regelmäßiges Üben in unterschiedlichen musikalischen Kontexten.
+Ich würde mich als Späteinsteiger bezeichnen.
 
-Ich würde mich als Späteinsteiger im Singen bezeichnen.
+---
 
 Der Weg war nicht geradlinig.
 
-Er war geprägt von Fortschritten, aber auch von Rückschlägen:
+Es gab Fortschritte, aber auch Rückschläge:
 
-- körperliche Spannungsprobleme 
+- körperliche Spannungsprobleme  
 - Haltungsfragen  
 - Unsicherheiten  
 - Überlastung  
-- Infektionen
 
 Und zugleich die Erfahrung, die eigene Stimme in ihren vielen Facetten kennenzulernen.
 
 Eine phoniatrische Untersuchung zeigte: organisch ist alles in Ordnung.
 
-Das Entscheidende lag also nicht in einer Erkrankung, sondern im Umgang mit dem eigenen Körper.
+Das Entscheidende lag also nicht in einer Erkrankung,  
+sondern im Umgang mit dem eigenen Körper.
 
-Genau hier hat sich für mich ein Zugang eröffnet, der meine beruflichen Erfahrungen mit meinem eigenen Lernen verbindet:
+---
 
-Physiologie nicht als Theorie – sondern als praktisches Verständnis dessen, was beim Singen geschieht. Mir hat es sehr geholfen.
+Hier hat sich für mich ein Zugang entwickelt, der meine beruflichen Erfahrungen mit meinem eigenen Lernen verbindet:
 
-Aus dieser Perspektive ist die Webseite entstanden.
+Physiologie nicht als Theorie – sondern als praktisches Verständnis dessen, was beim Singen geschieht.
 
-Die Intention war nicht, eine Anleitung „von oben“ zu geben. Aus eigener Erfahrung weiß ich: Zuviel theoretisches Ergründen und Nachdenken kann ziemlich hinderlich sein.
+Aus dieser Perspektive ist diese Webseite entstanden.
 
-Was Sie hier lesen ist als Angebot gedacht:
+---
+
+Sie versteht sich nicht als Anleitung „von oben“, sondern als Angebot:
 
 - Dinge verständlich zu machen, die oft unnötig kompliziert erscheinen  
 - Zusammenhänge zu klären, die im Unterricht manchmal nur angedeutet werden  
-- und dabei immer den Bezug zur eigenen Erfahrung zu behalten  
+- und dabei den Bezug zur eigenen Erfahrung zu behalten  
 
-
-## Einstieg
+---
 
 Wenn Sie sich vor diesem Hintergrund für das Singen interessieren oder Ihre Stimme entwickeln möchten, können Sie hier beginnen:
 
-- [Physiologie – verstehen, um leichter zu singen](/physiologie/)  
+- [Physiologie – verstehen, um leichter zu singen](/physiologie/)
 
 Vielleicht entsteht daraus kein fester Weg, sondern eine Orientierung.
 
-Und ein Zugang, der das Singen vielleicht ein wenig leichter macht.
+---
+
+Weiterführende Seiten:
+
+- [Repertoire](/profil/repertoire)
+- [Worum es mir auf dieser Webpage geht](/profil)

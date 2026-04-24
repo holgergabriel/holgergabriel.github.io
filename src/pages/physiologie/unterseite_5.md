@@ -95,6 +95,10 @@ Ein etwas anderes Verständnis kann helfen, mit weniger Anstrengung und etwas me
 
 ## Übergang
 
-Im nächsten Abschnitt geht es darum, wie sich Singen in den Alltag einfügt – und welchen Einfluss Faktoren wie Belastung, Erholung und Lebenssituation haben:
+Auch wenn sich einige Vorstellungen klären, bleibt Singen nicht losgelöst von der eigenen Situation.
 
-**Singen im Alltag.**
+Wie sich die Stimme anfühlt, hängt nicht nur davon ab, was man verstanden hat oder wie man übt.
+
+Sie reagiert auch auf den Alltag: auf Belastung, Erholung und die jeweilige Tagesform.
+
+Im nächsten Abschnitt geht es darum, diese Zusammenhänge etwas genauer zu betrachten.

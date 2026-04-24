@@ -6,19 +6,42 @@ description: " "
 ---
 **Woher?**
 
-Geprägt durch Jahrzehnte universitärer Forschung und Lehre in der Sportmedizin und Gesundheitsförderung[^1], verbinde ich heute wissenschaftliche Expertise mit einem ganzheitlichen Blick auf den Menschen. Die Analyse von Bewegung ist der Integration von Leib und Biografie gewichen – für einen stimmigen Umgang mit sich selbst und der Umwelt.
+Geprägt durch viele Jahre in Forschung und Lehre in der Sportmedizin und Gesundheitsförderung[^1] ist mein Blick auf den Menschen entstanden.
 
+Heute steht weniger die Analyse einzelner Funktionen im Vordergrund. Es ist vielmehr das Zusammenspiel von Körper, Erfahrung und Lebenssituation.
+
+---
 
 **Wozu?**
 
-Im klassischen Gesang werden für mich Theorie und Regulation zur unmittelbaren Praxis in Atem und Klang. Fernab von Leistungsdruck steht die Qualität des Ausdrucks im Mittelpunkt: Die Stimme dient als Medium, um Resonanzräume zu öffnen und Menschen durch Musik zu erreichen.
+Im Singen wird dieses Verständnis unmittelbar praktisch.
 
+Es geht nicht um Leistung im engeren Sinn,  
+sondern um die Qualität des Ausdrucks – getragen von Atem, Körper und Klang.
+
+Die Stimme wird dabei zu einem Medium,  
+das Verbindung ermöglicht: zum eigenen Empfinden, zum Raum und zu anderen Menschen.
+
+---
 
 **Wohin?**
 
-Seit 2024 vertiefe ich mein Handwerk und Repertoire in einem kontinuierlichen Lern- und Entwicklungsprozess. Ziel ist eine menschenzugewandte Gesangspraxis, die stimmliche Balance mit echter Hingabe verbindet und eine Brücke zwischen Text, Raum und Zuhörenden schlägt.
+Seit 2024 vertiefe ich diesen Weg in einem kontinuierlichen Lernprozess.
+
+Dabei geht es nicht um ein festes Ziel,  
+sondern um eine Entwicklung, die sich mit der Erfahrung verändert.
+
+Im Mittelpunkt steht eine Gesangspraxis,  
+die stimmliche Balance mit Aufmerksamkeit und Präsenz verbindet.
+
+---
+
+Vielleicht lässt sich daraus kein vollständiges Bild ableiten. Es ermöglcht jedoch eventuell eine Einordnung, die die eigene Entwicklung klärt.
 
 
+Weiterführende Seiten:
 
+- [Gesundheit](/profil/gesundheit)
+- [Worum es mir auf dieser Webpage geht](/profil)
 
 [^1]: [Loop](https://loop.frontiersin.org/people/357860/overview), [ResearchGate](https://www.researchgate.net/profile/Holger-Gabriel/stats), [Google Scholar](https://scholar.google.com/citations?user=TMGRi78AAAAJ&hl=de)

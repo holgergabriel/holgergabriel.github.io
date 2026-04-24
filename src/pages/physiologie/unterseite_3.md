@@ -104,6 +104,10 @@ Ein bewussterer Umgang damit kann helfen, den Körper arbeiten zu lassen, ohne i
 
 ## Übergang
 
-Im nächsten Abschnitt geht es darum, wie sich die Stimme über die Zeit entwickelt – und warum Singen weniger mit Talent als mit Anpassung und Erfahrung zu tun hat:
+Der Umgang mit Spannung lässt sich nicht einmalig „lösen“.
 
-**die Stimme als Entwicklung.**
+Er verändert sich mit der Erfahrung, mit dem Üben und mit dem, was der Körper mit der Zeit lernt.
+
+Damit rückt ein anderer Aspekt in den Vordergrund: die Stimme selbst.
+
+Im nächsten Abschnitt geht es darum, sie nicht als festen Zustand zu betrachten, sondern als etwas, das sich entwickelt.

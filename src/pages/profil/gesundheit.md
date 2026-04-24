@@ -4,14 +4,38 @@ title: "Gesundheit als Wandlungsfähigkeit"
 subtitle: ""
 description: " "
 ---
+Wie Menschen mit Bewegung und Gesundheit umgehen, hat mich von Beginn an begleitet.
 
-Wie Menschen mit Bewegung und Gesundheit umgehen, hat mich von Kindesbeinen an interessiert. 
+Gesundheit ist für mich mehr als das Freisein von Krankheit.  
+Sie zeigt sich in der Fähigkeit zu Bewegung, Wahrnehmung und einer stimmigen Lebensgestaltung.
 
-Gesundheit ist für mich mehr als das Freisein von Krankheit: Sie zeigt sich in der **Fähigkeit zu Bewegung, Wahrnehmung und sinnvoller Lebensgestaltung**. Gesundheit entsteht für mich im Zusammenspiel von körperlicher Funktion, subjektivem Erleben und sozialer Beziehung und bleibt ein **dynamischer Prozess** über die gesamte Lebensspanne. Im Kern interessiert mich weniger Gesundheit und Krankheit als ein mehr weniger messbarer Zustand. Mich interessiert vielmehr der mehr oder weniger gesunde und kranke Mensch als Individuum in seiner Entwicklung über die Lebensspanne - und wie dieses mesnchliche Individuum sein sozialen Umfeld mitgestaltet und sich entwickeln darf.
+Sie entsteht im Zusammenspiel von körperlicher Funktion, subjektivem Erleben und sozialer Beziehung – und bleibt ein dynamischer Prozess über die gesamte Lebensspanne.
 
-Mit zunehmendem Alter gewinnt dabei für mich eine Form der aktiven Lebensgestaltung an Bedeutung: **Das aktive Loslassen** als aktives Element der mit Alter sich entwickelnden Passivität bei abnehmenden Ressourcen. Im Älterwerden empfinde ich es wichtig, eingebunden in ein unterstützendes soziales Umfeld zu sein. In einer solchen Gemeinschaft darf für mich eine zentrale zukunftsorientierte Frage ausgehalten werden: Wohin und auf wen hin darf ich loslassen? 
+Dabei interessiert mich weniger ein abstrakter Zustand von „gesund“ oder „krank“, sondern der Mensch in seiner Entwicklung: wie er mit seinen Möglichkeiten umgeht und wie er sein Umfeld mitgestaltet.
 
-Angesichts der Beobachtung und Erfahrung abnehmenden körperlicher Ressourcen und zunehmender Einschränkungen wird für mich Gesundheit nicht nur durch Entwicklung und Erhalt bestimmt, sondern gerade auch durch eine **Wandlungsfähigkeit** hin auf eine sich stetig erneuernde Lebenswirklichkeit.
+---
 
-Gesundheitsförderung hat für mich die Aufgabe, diese Prozesse zu unterstützen, sowohl im Aufbau als auch im Loslassen über die gesamte Lebensspanne hinweg. In diesem Sinne können und dürfen **Musik und Gesang als Lebensmittel** wirksam werden. Dazu möchte ich, soweit es möglich ist, beitragen.
+Mit zunehmendem Alter verändert sich dieses Verhältnis.
 
+Gesundheit bedeutet dann nicht nur Aufbau und Erhalt, sondern auch die Fähigkeit, loszulassen.
+
+Dieses Loslassen ist für mich kein passiver Prozess, sondern eine aktive Form der Anpassung an veränderte Bedingungen.
+
+Dabei gewinnt das soziale Umfeld an Bedeutung: getragen zu sein und zugleich den eigenen Weg weiterzugehen.
+
+---
+
+So wird Gesundheit für mich auch zu einer Frage der Wandlungsfähigkeit – der Fähigkeit, sich auf veränderte Lebenswirklichkeiten einzulassen.
+
+Gesundheitsförderung bedeutet in diesem Sinne, diese Prozesse zu unterstützen: im Aufbau ebenso wie im Loslassen.
+
+Musik und Gesang können dabei zu einem tragenden Bestandteil werden – als Möglichkeit, Ausdruck zu finden und in Verbindung zu bleiben.
+
+---
+
+Wahrscheinlich lässt sich daraus kein Gesundheitsmodell oder Gesundheitsbegriff ableiten. Es ist eher gedachtals eine Einordnung, die den eigenen Zugang klärt.
+
+Weiterführende Seiten:
+
+- [Hintergrund](/profil/hintergrund)
+- [Persönliches](/profil/vorbemerkungen)

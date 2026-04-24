@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: "Inhaltliche Brücken zur Sportmedizin"
+title: "Bezüge zur Sportmedizin"
 subtitle: ""
 description: " "
 ---
 
-## Inhaltliche Brücken zur Sportmedizin
+## Bezüge zur Sportmedizin
 
 Ein Teil meiner beruflichen Arbeit lag über viele Jahre im Bereich der Sportmedizin.
 

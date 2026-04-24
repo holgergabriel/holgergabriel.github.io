@@ -14,3 +14,12 @@ Mein in Entwicklung befindliche Repertoire umfasst klassische Werke, geistliche 
 * **Geistliche Musik & Liturgie:** Mitgestaltung von Gottesdiensten mit Orgelbegleitung, von Taizé-Liedern über klassische Stücke wie Becker (Wo du hingehst) oder Dvořák (Der Herr ist mein Hirte) bis hin zu modernen geistlichen Gesängen (Here I am, Lord; You are my all in all; I wonder as I wander).
 * **Bühne & Ensemble:** Ausflüge in die Welt des Musicals (One hand, one heart und Somewhere von Bernstein/Sondheim) sowie moderne Vokalarrangements im Ensemble (z. B. Applaus, Applaus, Killing me softly).
 * **In Vorbereitung:** Aktuell vertiefte Auseinandersetzung mit anspruchsvolleren Werken wie Händels Comfort ye / Ev´ry valley shall be exhaulted, Schuberts Im Abendrot, Francks Panis angelicus oder Rutters A Clare Benediction.
+
+## Schlussbemerkung
+
+Vielleicht lässt sich daraus keine feste Richtung ableiten, sondern eher eine Einordnung, die den eigenen Zugang klärt.
+
+Weiterführende Seiten:
+
+- [Persönliches](/profil/vorbemerkungen)
+- [Worum es mir auf dieser Webpage geht](/profil)

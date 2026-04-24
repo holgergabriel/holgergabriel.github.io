@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: "Last but not least: Was ich nicht anbiete"
+title: "Was ich nicht anbiete"
 subtitle: ""
 description: " "
 ---

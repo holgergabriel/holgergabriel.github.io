@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: "Wie man die Seite nutzen kann"
+title: "Nutzung dieser Seiten"
 subtitle: ""
 description: " "
 ---
 
 
 
-## Wie man diese Seiten nutzen kann
+## Nutzung dieser Seiten
 
 Diese Seiten sind nicht als Lehrgang aufgebaut.
 

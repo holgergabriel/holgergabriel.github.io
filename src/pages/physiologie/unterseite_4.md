@@ -120,6 +120,8 @@ Ein Verständnis dafür kann helfen, den eigenen Weg mit der Stimme gelassener z
 
 ## Übergang
 
-Im nächsten Abschnitt geht es um Vorstellungen, die beim Singen häufig auftreten – und die den eigenen Fortschritt eher behindern als unterstützen:
+Wenn sich die Stimme über Zeit entwickelt, stellt sich nicht nur die Frage, *wie* man übt, sondern auch, *wie man darüber denkt*.
 
-**häufige Missverständnisse.**
+Viele Schwierigkeiten entstehen nicht allein im Körper, sondern auch durch Vorstellungen davon, was beim Singen „richtig“ oder „notwendig“ ist.
+
+Im nächsten Abschnitt geht es um solche Vorstellungen – und darum, warum sie manchmal mehr behindern als helfen.

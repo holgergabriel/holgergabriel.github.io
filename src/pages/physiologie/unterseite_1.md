@@ -100,4 +100,11 @@ Ein Verständnis dafür hilft, Probleme nicht nur „wegzuüben“, sondern sie 
 
 Im nächsten Abschnitt geht es etwas genauer um einen Bereich, der für dieses Zusammenspiel zentral ist und gleichzeitig häufig missverstanden wird:
 
-**die Atmung.**
+Ein Bereich spielt in diesem Zusammenspiel eine besondere Rolle –  
+auch weil er häufig missverstanden wird:
+
+*die Atmung.*
+
+Sie beeinflusst, wie der Ton entsteht, wie stabil er bleibt und wie leicht sich Singen anfühlen kann.
+
+Im nächsten Abschnitt geht es darum, diese Rolle etwas genauer zu verstehen.
