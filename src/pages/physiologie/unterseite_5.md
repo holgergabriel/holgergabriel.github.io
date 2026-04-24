@@ -71,7 +71,7 @@ Er wirkt oft sehr endgültig.
 
 Dabei beschreibt er meist keinen festen Zustand, sondern eine momentane Erfahrung. 
 
-Die Stimme ist veränderbar. Und sie entwickelt sich – manchmal langsamer, als man es sich wünscht.
+Die Stimme ist veränderbar. Und sie entwickelt sich - manchmal langsamer, als man es sich wünscht.
 
 ## „Ich bin zu alt, um das noch zu lernen“
 

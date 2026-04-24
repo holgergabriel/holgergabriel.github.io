@@ -5,8 +5,7 @@ subtitle: ""
 description: " "
 ---
 
-Die folgenden Abschnitte bauen inhaltlich aufeinander auf,  
-können aber auch einzeln gelesen werden.
+Die folgenden Abschnitte bauen inhaltlich aufeinander auf, können aber auch einzeln gelesen werden.
 
 1. [Ein Verständnis von Körper und Üben](/physiologie/verstaendnis)
 2. [Grundlagen des Singens](/physiologie/unterseite_1)

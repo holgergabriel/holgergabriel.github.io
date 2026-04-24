@@ -6,7 +6,7 @@ description: " "
 ---
 
 ## Einstieg
-Wenn es um Singen geht, fällt sehr schnell ein Stichwort: **Atmung**.
+Wenn es um Singen geht, fällt sehr schnell ein Stichwort: *Atmung*.
 
 Viele haben beim Singen den Eindruck, sie müssten vor allem „richtig atmen lernen“. Oft entsteht dabei eher mehr Anstrengung als Erleichterung. 
 

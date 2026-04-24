@@ -28,11 +28,9 @@ das Verbindung ermöglicht: zum eigenen Empfinden, zum Raum und zu anderen Mensc
 
 Seit 2024 vertiefe ich diesen Weg in einem kontinuierlichen Lernprozess.
 
-Dabei geht es nicht um ein festes Ziel,  
-sondern um eine Entwicklung, die sich mit der Erfahrung verändert.
+Dabei geht es nicht um ein festes Ziel, sondern um eine Entwicklung, die sich mit der Erfahrung verändert.
 
-Im Mittelpunkt steht eine Gesangspraxis,  
-die stimmliche Balance mit Aufmerksamkeit und Präsenz verbindet.
+Im Mittelpunkt steht eine Gesangspraxis, die stimmliche Balance mit Aufmerksamkeit und Präsenz verbindet.
 
 ---
 

@@ -11,7 +11,7 @@ Vielleicht haben Sie beim Singen schon erlebt, dass sich manche Töne frei und l
 
 Oft wird dann vermutet, es liege an der Technik, an der Atmung oder einfach an fehlender Übung. 
 
-Ein wichtiger, oft unterschätzter Faktor ist die **Spannung im Körper**.
+Ein wichtiger, oft unterschätzter Faktor ist die *Spannung im Körper*.
 
 In diesem Abschnitt geht es darum, ein Gefühl dafür zu bekommen, welche Rolle Spannung beim Singen spielt – und warum weniger manchmal mehr ist.
 

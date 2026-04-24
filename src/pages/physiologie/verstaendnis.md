@@ -8,18 +8,15 @@ description: " "
 
 ## Einstieg
 
-Wenn es um Singen geht, entsteht leicht der Eindruck,  
-dass man vor allem lernen muss, etwas „richtig“ zu machen.
+Wenn es um Singen geht, entsteht leicht der Eindruck, dass man vor allem lernen muss, etwas „richtig“ zu machen.
 
 Richtig atmen, richtig üben, die Stimme gezielt verbessern.
 
 Ein möglicher Zugang ist ein anderer.
 
-Er ist für mich im eigenen Lernen entstanden –  
-und im Versuch zu verstehen, was im Körper tatsächlich geschieht.
+Er ist für mich im eigenen Lernen entstanden – und im Versuch zu verstehen, was im Körper tatsächlich geschieht.
 
-Nicht vom „Richtigmachen“ auszugehen,  
-sondern davon, wie der Körper grundsätzlich funktioniert.
+Nicht vom „Richtigmachen“ auszugehen, sondern davon, wie der Körper grundsätzlich funktioniert.
 
 ## Der Körper ist kein Objekt
 
@@ -29,8 +26,7 @@ Er reagiert.
 Er passt sich an.  
 Und er hat Grenzen.
 
-Diese Reaktionen sind nicht immer unmittelbar sichtbar.  
-Aber sie bestimmen, was sich entwickeln kann – und was nicht.
+Diese Reaktionen sind nicht immer unmittelbar sichtbar. Aber sie bestimmen, was sich entwickeln kann – und was nicht.
 
 ## Veränderung entsteht durch Anpassung
 
@@ -49,24 +45,20 @@ sondern wie gut sie zum aktuellen Zustand passt.
 
 Der Körper ist anpassungsfähig – aber nicht unbegrenzt.
 
-Zu wenig Anforderung führt oft zu keiner Veränderung.  
-Zu viel Anforderung kann überfordern.
+- Zu wenig Anforderung führt oft zu keiner Veränderung.  
+- Zu viel Anforderung kann überfordern.
 
-Zwischen diesen beiden Polen liegt ein Bereich,  
-in dem Entwicklung möglich ist.
+Zwischen diesen beiden Polen liegt ein Bereich, in dem Entwicklung möglich ist.
 
-Diesen Bereich zu finden, ist kein einmaliger Schritt,  
-sondern ein fortlaufender Prozess.
+Diesen Bereich zu finden, ist kein einmaliger Schritt, sondern ein fortlaufender Prozess.
 
 ## Mehr ist nicht automatisch besser
 
-Es liegt nahe zu denken, dass mehr Üben, mehr Einsatz oder mehr Anstrengung  
-zu besseren Ergebnissen führen.
+Es liegt nahe zu denken, dass mehr Üben, mehr Einsatz oder mehr Anstrengung zu besseren Ergebnissen führen.
 
 Oft ist das Gegenteil der Fall.
 
-Wenn Belastung nicht mehr verarbeitet werden kann,  
-reagiert der Körper mit Spannung, Instabilität oder Ermüdung.
+Wenn Belastung nicht mehr verarbeitet werden kann, reagiert der Körper mit Spannung, Instabilität oder Ermüdung.
 
 Nicht jede Möglichkeit muss ausgeschöpft werden.
 
@@ -95,8 +87,7 @@ Das kann bedeuten, weniger zu tun – aber passender.
 
 ## Bedeutung für das Üben
 
-Üben wird damit weniger zu einer Frage von Disziplin oder Intensität,  
-sondern zu einer Frage der Abstimmung:
+Üben wird damit weniger zu einer Frage von Disziplin oder Intensität, sondern zu einer Frage der Abstimmung:
 
 - Was ist heute möglich?
 - Was ist heute sinnvoll?
@@ -108,11 +99,9 @@ sondern zu einer Frage der Abstimmung:
 
 Der Körper ist kein System, das man optimiert.  
 
-Er ist ein System, das auf Belastung reagiert –  
-und sich unter passenden Bedingungen anpasst.
+Er ist ein System, das auf Belastung reagiert – und sich unter passenden Bedingungen anpasst.
 
-Ein Verständnis dafür ist für mich im eigenen Lernen entstanden –  
-und es verändert sich bis heute.
+Ein Verständnis dafür ist für mich im eigenen Lernen entstanden – und es verändert sich bis heute.
 
 Es kann helfen, das eigene Üben ruhiger, klarer und nachhaltiger zu gestalten.
 

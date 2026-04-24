@@ -100,8 +100,7 @@ Ein Verständnis dafür hilft, Probleme nicht nur „wegzuüben“, sondern sie 
 
 Im nächsten Abschnitt geht es etwas genauer um einen Bereich, der für dieses Zusammenspiel zentral ist und gleichzeitig häufig missverstanden wird:
 
-Ein Bereich spielt in diesem Zusammenspiel eine besondere Rolle –  
-auch weil er häufig missverstanden wird:
+Ein Bereich spielt in diesem Zusammenspiel eine besondere Rolle – auch weil er häufig missverstanden wird:
 
 *die Atmung.*
 

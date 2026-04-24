@@ -9,7 +9,6 @@ description: " "
 
 Vielleicht haben Sie beim Singen schon bemerkt, dass sich die Stimme nicht jeden Tag gleich anfühlt.
 
-
 An manchen Tagen gelingt vieles fast von selbst. An anderen wirkt selbst Vertrautes unsicher oder anstrengend.
 
 Das kann irritierend oder auch verunsichernd sein.
@@ -18,8 +17,7 @@ In diesem Abschnitt geht es darum, die Stimme nicht als etwas Festes zu betracht
 
 ## Worum es hier geht
 
-In diesem Abschnitt geht es weniger um schnelleres Vorankommen
-als um ein besseres Verständnis dafür, wie sich Stimme entwickelt:
+In diesem Abschnitt geht es weniger um schnelleres Vorankommen als um ein besseres Verständnis dafür, wie sich Stimme entwickelt:
 
 - warum sich die Stimme verändert
 - warum Entwicklung Zeit braucht
@@ -39,7 +37,7 @@ Sie entsteht im Körper – und dieser Körper verändert sich ständig:
 - durch Gewöhnung,
 - durch Belastung und Erholung.
 
-*Das bedeutet: Die Stimme ist kein festes „Können“. *
+*Das bedeutet: Die Stimme ist kein festes „Können“.*
 
 *Sie ist ein Prozess.*
 
