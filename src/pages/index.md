@@ -19,4 +19,6 @@ Vielleicht geht es beim Üben weniger darum, etwas zu erzwingen,
 sondern darum, Bedingungen zu schaffen,  
 unter denen sich die Stimme entwickeln kann – und tragfähig wird.
 
+---
+
 [→ Hintergrund zu dieser Seite](/profil)
