@@ -197,10 +197,18 @@ const next = pages[currentIndex + 1];
     text-align: right;
   }
 
-  .nav-progress {
+    .nav-progress {
     text-align: center;
     margin-top: var(--space-sm);
     font-size: 0.85em;
     color: var(--color-text-muted);
+  }
+
+  /* ---- Audio ---- */
+  .prose :global(audio) {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin-top: var(--space-md);
   }
 </style>
