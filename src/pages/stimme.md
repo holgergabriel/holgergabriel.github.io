@@ -22,8 +22,4 @@ Aufnahmen und Erfahrungen können Einblick in diesen Prozess geben.
 
 Eine Aufnahme aus dem aktuellen Arbeitsprozess:
 
-<audio controls src="/audio/here-i-am-lord.mp3"></audio>
-
-<audio controls style="width:100%; max-width:500px;">
-  <source src="/audio/here-i-am-lord.mp3" type="audio/mpeg">
-</audio>
+<audio controls src="/audio/here-i-am-lord.wav"></audio>

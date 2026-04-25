@@ -19,7 +19,7 @@ In diesem Abschnitt geht es darum, ein Gefühl dafür zu bekommen, welche Rolle 
 
 Es geht nicht darum, „entspannt“ zu sein. Und auch nicht darum, Spannung grundsätzlich zu vermeiden. 
 
-Im MIttelpunkt steht die Frage, wie Spannung beim Singen wirkt:
+Im Mittelpunkt steht die Frage, wie Spannung beim Singen wirkt:
 
 - warum Spannung notwendig ist
 - wann sie hilfreich ist
@@ -79,7 +79,7 @@ Das kann bedeuten:
 
 Oft entsteht dadurch kein Kontrollverlust, sondern im Gegenteil mehr Stabilität. 
 
-## Eine kleine Wahrnehmung.
+## Eine kleine Wahrnehmung
 
 Sie können einmal darauf achten:
 
@@ -108,6 +108,6 @@ Der Umgang mit Spannung lässt sich nicht einmalig „lösen“.
 
 Er verändert sich mit der Erfahrung, mit dem Üben und mit dem, was der Körper mit der Zeit lernt.
 
-Damit rückt ein anderer Aspekt in den Vordergrund: die Stimme selbst.
+Damit rückt ein anderer Aspekt in den Vordergrund: *die Stimme* selbst.
 
 Im nächsten Abschnitt geht es darum, sie nicht als festen Zustand zu betrachten, sondern als etwas, das sich entwickelt.

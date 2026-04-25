@@ -29,13 +29,13 @@ Vielleicht entsteht dabei ein anderer Blick auf das eigene Üben.
 
 Ein Instrument wie ein Klavier ist gebaut. Es bleibt im Wesentlichen gleich.
 
-Sie Stimme ist anders. 
+Die Stimme ist anders. 
 
 Sie entsteht im Körper – und dieser Körper verändert sich ständig:
 
-- durch Nutzung,
-- durch Gewöhnung,
-- durch Belastung und Erholung.
+- durch Nutzung
+- durch Gewöhnung
+- durch Belastung und Erholung
 
 *Das bedeutet: Die Stimme ist kein festes „Können“.*
 
