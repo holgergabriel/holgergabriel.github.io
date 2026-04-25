@@ -18,7 +18,7 @@ Und er hat Grenzen.
 
 Beim Üben geht es vielleicht weniger darum, etwas zu erzwingen, als darum, Bedingungen zu schaffen, unter denen sich die Stimme entwickeln kann.
 
-Vielleicht entsteht daraus ein anderer Zugang zum Singen.
+Vielleicht entsteht daraus ein anderer Zugang zum Singen – und zu Formen des gemeinsamen Weitergehens.
 
 ---
 

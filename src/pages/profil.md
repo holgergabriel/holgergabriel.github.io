@@ -17,6 +17,8 @@ Sie richtet sich an Menschen, die danach fragen, an solche, die sich für Stimme
 
 Was daraus entsteht, bleibt offen.
 
+Vielleicht ergeben sich daraus Formen des gemeinsamen Arbeitens oder Weitergehens – wenn es für beide Seiten stimmig ist.
+
 ---
 
 Weiterführende Seiten:
