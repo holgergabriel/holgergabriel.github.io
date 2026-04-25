@@ -20,7 +20,7 @@ Ein Teil dieser Seite wird sich mit der Zeit verändern.
 
 Aufnahmen und Erfahrungen können Einblick in diesen Prozess geben.
 
-Eine Aufnahme aus dem aktuellen Arbeitsprozess.
+Eine Aufnahme aus dem aktuellen Arbeitsprozess:
 
 <audio controls>
   <source src="/audio/here-i-am-lord.wav" type="audio/wav">

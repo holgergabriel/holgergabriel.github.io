@@ -25,7 +25,7 @@ Es gab Fortschritte, aber auch Rückschläge:
 
 Und zugleich die Erfahrung, die eigene Stimme in ihren vielen Facetten kennenzulernen.
 
-Eine phoniatrische Untersuchung zeigte: organisch ist alles in Ordnung.
+Eine phoniatrische Untersuchung zeigte – organisch ist alles in Ordnung.
 
 Das Entscheidende lag also nicht in einer Erkrankung, sondern im Umgang mit dem eigenen Körper.
 

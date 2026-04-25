@@ -11,7 +11,7 @@ Sie zeigt sich in der Fähigkeit zu Bewegung, Wahrnehmung und einer stimmigen Le
 
 Sie entsteht im Zusammenspiel von körperlicher Funktion, subjektivem Erleben und sozialer Beziehung – und bleibt ein dynamischer Prozess über die gesamte Lebensspanne.
 
-Dabei interessiert mich weniger ein abstrakter Zustand von „gesund“ oder „krank“, sondern der Mensch in seiner Entwicklung: wie er mit seinen Möglichkeiten umgeht und wie er sein Umfeld mitgestaltet.
+Dabei interessiert mich weniger ein abstrakter Zustand von „gesund“ oder „krank“, sondern der Mensch in seiner Entwicklung – wie er mit seinen Möglichkeiten umgeht und wie er sein Umfeld mitgestaltet.
 
 ---
 
