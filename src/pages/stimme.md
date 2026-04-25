@@ -26,3 +26,8 @@ Eine Aufnahme aus dem aktuellen Arbeitsprozess:
   <source src="/audio/here-i-am-lord.wav" type="audio/wav">
   Ihr Browser unterstützt das Audio-Element nicht.
 </audio>
+
+<audio controls>
+  <source src="/audio/here-i-am-lord.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt das Audio-Element nicht.
+</audio>
