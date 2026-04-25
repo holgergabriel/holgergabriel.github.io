@@ -22,4 +22,4 @@ Aufnahmen und Erfahrungen können Einblick in diesen Prozess geben.
 
 Eine Aufnahme aus dem aktuellen Arbeitsprozess:
 
-<audio controls src="/audio/here-i-am-lord.wav"></audio>
+<audio controls src="/audio/Ombra mai fu 2026_04_21.wav"></audio>
