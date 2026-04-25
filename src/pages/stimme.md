@@ -23,6 +23,6 @@ Aufnahmen und Erfahrungen können Einblick in diesen Prozess geben.
 Eine Aufnahme aus dem aktuellen Arbeitsprozess:
 
 <audio controls>
-  <source src="/audio/here-i-am-lord.mp3" type="audio/wav">
+  <source src="/audio/here-i-am-lord.wav" type="audio/wav">
   Ihr Browser unterstützt das Audio-Element nicht.
 </audio>

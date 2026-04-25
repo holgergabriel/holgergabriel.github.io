@@ -43,10 +43,10 @@ sondern wie gut sie zum aktuellen Zustand passt.
 
 ## Anpassung hat Grenzen
 
-Der Körper ist anpassungsfähig – aber nicht unbegrenzt.
+Der Körper ist anpassungsfähig – aber nicht unbegrenzt:
 
-- Zu wenig Anforderung führt oft zu keiner Veränderung.  
-- Zu viel Anforderung kann überfordern.
+- zu wenig Anforderung führt oft zu keiner Veränderung.  
+- zu viel Anforderung kann überfordern.
 
 Zwischen diesen beiden Polen liegt ein Bereich, in dem Entwicklung möglich ist.
 

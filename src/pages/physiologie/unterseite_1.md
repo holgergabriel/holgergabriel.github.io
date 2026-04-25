@@ -50,8 +50,8 @@ Aber entscheidend ist nicht nur, dass ein Ton entsteht, sondern wie er entsteht 
 
 Dabei spielen zwei Dinge eine große Rolle:
 
-- wie die Luft den Ton trägt,
-- wie der Körper den Ton „zulässt“ oder behindert.
+- wie die Luft den Ton trägt
+- wie der Körper den Ton „zulässt“ oder behindert
 
 Oft liegt die Schwierigkeit nicht im Kehlkopf selbst, sondern im Zusammenspiel mit Atmung und Spannung. 
 
@@ -75,8 +75,8 @@ Wenn dieses Zusammenspiel gestört ist, wird Singen schnell anstrengend.
 
 Sie können einmal darauf achten:
 
-- was passiert in Ihrem Körper, wenn ein Ton sich leicht anfühlt?
-- was verändert sich, wenn es anstrengend wird?
+- Was passiert in Ihrem Körper, wenn ein Ton sich leicht anfühlt?
+- Was verändert sich, wenn es anstrengend wird?
 
 Oft sind es keine großen Unterschiede, sondern eher feine Veränderungen:
 
@@ -100,9 +100,7 @@ Ein Verständnis dafür hilft, Probleme nicht nur „wegzuüben“, sondern sie 
 
 Im nächsten Abschnitt geht es etwas genauer um einen Bereich, der für dieses Zusammenspiel zentral ist und gleichzeitig häufig missverstanden wird:
 
-Ein Bereich spielt in diesem Zusammenspiel eine besondere Rolle – auch weil er häufig missverstanden wird:
-
-*die Atmung.*
+*die Atmung*
 
 Sie beeinflusst, wie der Ton entsteht, wie stabil er bleibt und wie leicht sich Singen anfühlen kann.
 
