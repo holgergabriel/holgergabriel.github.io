@@ -44,4 +44,4 @@ Weiterführende Seiten:
 - [Gesundheit](/profil/gesundheit)
 - [Worum es mir auf dieser Webpage geht](/profil)
 
-[^1]: [Loop](https://loop.frontiersin.org/people/357860/overview), [ResearchGate](https://www.researchgate.net/profile/Holger-Gabriel/stats), [Google Scholar](https://scholar.google.com/citations?user=TMGRi78AAAAJ&hl=de)
+[^1]: <a href="https://loop.frontiersin.org/people/357860/overview" target="_blank" rel="noopener noreferrer">Loop</a>, <a href="https://www.researchgate.net/profile/Holger-Gabriel/stats" target="_blank" rel="noopener noreferrer">ResearchGate</a>, <a href="https://scholar.google.com/citations?user=TMGRi78AAAAJ&hl=de" target="_blank" rel="noopener noreferrer">Google Scholar</a>
