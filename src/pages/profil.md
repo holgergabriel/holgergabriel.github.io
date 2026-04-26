@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Worum es mir auf dieser Webpage geht"
+title: "Kontext dieser Seite"
 subtitle: ""
 description: " "
 ---

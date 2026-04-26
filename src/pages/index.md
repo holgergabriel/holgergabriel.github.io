@@ -22,4 +22,4 @@ Daraus entsteht ein anderer Zugang zum Singen.
 
 ---
 
-[→ Worum es mir auf dieser Webpage geht](/profil)
+[→ Kontext dieser Seite](/profil)

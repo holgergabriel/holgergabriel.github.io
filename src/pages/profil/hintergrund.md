@@ -7,7 +7,7 @@ description: " "
 
 **Woher**
 
-Mein Blick auf den Menschen ist durch viele Jahre in Forschung und Lehre in der Sportmedizin und Gesundheitsförderung[^1] entstanden.
+Mein Blick auf den Menschen ist durch viele Jahre in Forschung und Lehre in der Sportmedizin und Gesundheitsförderung entstanden (<a href="https://loop.frontiersin.org/people/357860/overview" target="_blank" rel="noopener noreferrer">Loop</a>, <a href="https://www.researchgate.net/profile/Holger-Gabriel/stats" target="_blank" rel="noopener noreferrer">ResearchGate</a>, <a href="https://scholar.google.com/citations?user=TMGRi78AAAAJ&hl=de" target="_blank" rel="noopener noreferrer">Google Scholar</a>).
 
 Heute steht weniger die Analyse einzelner Funktionen im Vordergrund als das Zusammenspiel von Körper, Erfahrung und Lebenssituation.
 
@@ -34,5 +34,3 @@ Im Mittelpunkt steht eine Gesangspraxis, die stimmliche Balance mit Aufmerksamke
 
 Vielleicht lässt sich daraus kein vollständiges Bild ableiten.  
 Es kann jedoch helfen, den eigenen Zugang zu klären und weiterzuentwickeln.
-
-[^1]: <a href="https://loop.frontiersin.org/people/357860/overview" target="_blank" rel="noopener noreferrer">Loop</a>, <a href="https://www.researchgate.net/profile/Holger-Gabriel/stats" target="_blank" rel="noopener noreferrer">ResearchGate</a>, <a href="https://scholar.google.com/citations?user=TMGRi78AAAAJ&hl=de" target="_blank" rel="noopener noreferrer">Google Scholar</a>
