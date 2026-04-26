@@ -1,42 +1,43 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: "Was ich nicht anbiete"
+title: "Einordnung dieser Seiten"
 subtitle: ""
 description: " "
 ---
 
-## Was ich nicht anbiete
+## Was diese Seite nicht ist
 
 Diese Seite ist kein Unterricht.
 
-Sie ist auch kein akademischer Exkurs, keine universitäre Lehrveranstaltung und keine wissenschaftliche state-of-the-art Publikation.
+Sie ist keine wissenschaftliche Darstellung im akademischen Sinn
+und keine vollständige Methode.
 
-Sie ersetzt keinen Gesangsunterricht, keine logopädische Begleitung und keine individuelle Beratung.
+Sie ersetzt weder Gesangsunterricht noch logopädische Begleitung
+und auch keine individuelle Beratung.
 
-Sie gibt keine festen Übungen vor und keine Schritt-für-Schritt-Anleitungen, die unabhängig von der eigenen Situation funktionieren sollen.
+Die Inhalte sind nicht als feste Übungen oder Schritt-für-Schritt-Anleitungen gedacht,
+die unabhängig von der eigenen Situation funktionieren sollen.
 
-Auch biete ich hier keine vollständige Methode an.
+Auch medizinische oder therapeutische Abklärungen können und sollen sie nicht ersetzen.
 
-Es gibt viele unterschiedliche Wege, mit der Stimme zu arbeiten. Diese Seite stellt keinen davon als den „richtigen“ dar.
+## Grenzen dieses Zugangs
 
-Ich gebe auch keine medizinischen Empfehlungen.
+Die Entwicklung der Stimme braucht Zeit.
+Und sie verläuft bei jedem Menschen unterschiedlich.
 
-Die Inhalte ersetzen keine ärztliche oder therapeutische Abklärung, wenn Beschwerden bestehen.
-
-Was Sie hier ebenfalls nicht finden, sind schnelle Lösungen.
-
-Die Entwicklung der Stimme braucht Zeit. Und sie verläuft nicht bei allen Menschen gleich.
+Schnelle Lösungen lassen sich daraus nicht ableiten.
 
 ## Worum es stattdessen geht
 
 Diese Seite versteht sich als Ergänzung.
 
-Sie möchte dabei helfen,
+Sie möchte dabei helfen, 
 
-- Zusammenhänge besser zu verstehen  
-- eigene Erfahrungen einzuordnen  
-- und den eigenen Weg bewusster zu gehen  
+- Zusammenhänge verständlicher zu machen
+- eigene Erfahrungen einzuordnen
+- und den eigenen Zugang bewusster wahrzunehmen
 
 Vielleicht entsteht daraus kein festes Vorgehen.
 
-Aber eine Orientierung, die das eigene Singen ein wenig klarer und ruhiger werden lässt.
+Aber eine Orientierung, die das eigene Singen etwas klarer und ruhiger werden lässt.
+

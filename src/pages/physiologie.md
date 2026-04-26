@@ -4,8 +4,9 @@ title: "Physiologie – verstehen, um leichter zu singen"
 subtitle: ""
 description: " "
 ---
+Die folgenden Seiten greifen zentrale Zusammenhänge des Singens auf.
 
-Die folgenden Abschnitte bauen inhaltlich aufeinander auf, können aber auch einzeln gelesen werden.
+Sie können in der angegebenen Reihenfolge gelesen werden, bauen aber nicht zwingend aufeinander auf.
 
 1. [Ein Verständnis von Körper und Üben](/physiologie/verstaendnis)
 2. [Grundlagen des Singens](/physiologie/unterseite_1)
@@ -17,7 +18,7 @@ Die folgenden Abschnitte bauen inhaltlich aufeinander auf, können aber auch ein
 8. [Wie man übt](/physiologie/unterseite_7)
 9. [Bezüge zur Sportmedizin](/physiologie/nutzung)
 10. [Nutzung dieser Seiten](/physiologie/nutzung)
-11. [Was ich nicht anbiete](/physiologie/keinangebot)
+11. [Einordnung dieser Seite](/physiologie/keinangebot)
 
 ---
 

@@ -5,7 +5,6 @@ subtitle: ""
 description: " "
 ---
 
-
 ## Einstieg
 
 Wenn es um Singen geht, entsteht leicht der Eindruck, dass man vor allem lernen muss, etwas „richtig“ zu machen.
@@ -18,6 +17,7 @@ Er ist für mich im eigenen Lernen entstanden – und im Versuch zu verstehen, w
 
 Nicht vom „Richtigmachen“ auszugehen, sondern davon, wie der Körper grundsätzlich funktioniert.
 
+
 ## Der Körper ist kein Objekt
 
 Der Körper ist kein Instrument, das man beliebig einstellen kann.
@@ -26,31 +26,35 @@ Er reagiert.
 Er passt sich an.  
 Und er hat Grenzen.
 
-Diese Reaktionen sind nicht immer unmittelbar sichtbar. Aber sie bestimmen, was sich entwickeln kann – und was nicht.
+Diese Reaktionen sind nicht immer unmittelbar sichtbar.  
+Aber sie beeinflussen, was sich entwickeln kann – und was nicht.
 
-## Veränderung entsteht durch Anpassung
+
+## Veränderung entsteht im Zusammenspiel von Belastung und Anpassung
 
 Wenn wir singen oder üben, setzen wir den Körper einer Belastung aus.
 
 Der Körper reagiert darauf:
 
-- er passt sich an
-- er verändert sich
-- oder er wird überfordert
+- er passt sich an  
+- er verändert sich  
+- oder er wird überfordert  
 
 Entscheidend ist dabei nicht die Belastung allein,  
 sondern wie gut sie zum aktuellen Zustand passt.
+
 
 ## Anpassung hat Grenzen
 
 Der Körper ist anpassungsfähig – aber nicht unbegrenzt:
 
-- zu wenig Anforderung führt oft zu keiner Veränderung.  
-- zu viel Anforderung kann überfordern.
+- zu wenig Anforderung führt oft zu keiner Veränderung  
+- zu viel Anforderung kann überfordern  
 
 Zwischen diesen beiden Polen liegt ein Bereich, in dem Entwicklung möglich ist.
 
 Diesen Bereich zu finden, ist kein einmaliger Schritt, sondern ein fortlaufender Prozess.
+
 
 ## Mehr ist nicht automatisch besser
 
@@ -62,6 +66,7 @@ Wenn Belastung nicht mehr verarbeitet werden kann, reagiert der Körper mit Span
 
 Nicht jede Möglichkeit muss ausgeschöpft werden.
 
+
 ## Der Körper arbeitet als Ganzes
 
 Singen betrifft nicht nur die Stimme.
@@ -72,6 +77,7 @@ Veränderungen an einer Stelle beeinflussen das Ganze.
 
 Deshalb lassen sich Schwierigkeiten selten isoliert lösen.
 
+
 ## Ziel ist nicht Maximierung
 
 Es geht beim Singen nicht darum, möglichst viel zu leisten.
@@ -81,19 +87,21 @@ dass Singen tragfähig wird:
 
 - im Körper  
 - im Alltag  
-- über längere Zeit
+- über längere Zeit  
 
 Das kann bedeuten, weniger zu tun – aber passender.
+
 
 ## Bedeutung für das Üben
 
 Üben wird damit weniger zu einer Frage von Disziplin oder Intensität, sondern zu einer Frage der Abstimmung:
 
-- Was ist heute möglich?
-- Was ist heute sinnvoll?
-- Was kann der Körper verarbeiten?
+- Was ist heute möglich?  
+- Was ist heute sinnvoll?  
+- Was kann der Körper verarbeiten?  
 
 Üben wirkt dann, wenn es zum aktuellen Zustand passt.
+
 
 ## Vielleicht lässt sich das so zusammenfassen
 

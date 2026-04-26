@@ -7,11 +7,12 @@ description: " "
 
 ## Einstieg
 
-Beim Singen entstehen mit der Zeit viele Vorstellungen darüber, was „richtig“ oder „notwendig“ ist. 
+Beim Singen entstehen mit der Zeit viele Vorstellungen darüber, was „richtig“ oder „notwendig“ ist.
 
 Einige davon können hilfreich sein. Andere führen eher zu Anstrengung oder Unsicherheit.
 
-In diesem Abschnitt geht es darum, einige dieser Vorstellungen näher anzuschauen. Nicht um sie einfach zu ersetzen, sondern um sie besser einordnen zu können.
+In diesem Abschnitt geht es darum, einige dieser Vorstellungen näher anzuschauen – nicht um sie zu ersetzen, sondern um sie besser einordnen zu können.
+
 
 ## Worum es hier geht
 
@@ -19,77 +20,77 @@ Es geht nicht darum, alles anders zu machen.
 
 Vielmehr ist es eine Einladung zum besseren Verständnis:
 
-- welche Vorstellungen beim Singen häufig auftreten
-- warum sie plausibel erscheinen
-- und warum sie trotzdem nicht immer hilfreich sind
+- welche Vorstellungen beim Singen häufig auftreten  
+- warum sie plausibel erscheinen  
+- und in welche Richtung sie wirken können  
 
 Vielleicht entsteht dabei etwas mehr Klarheit für den eigenen Umgang mit der Stimme.
 
 ## „Ich brauche mehr Luft“
 
-Das Gefühl, nicht genug Luft zu haben, tritt beim Singen häufig auf. 
+Das Gefühl, nicht genug Luft zu haben, tritt beim Singen häufig auf.
 
-Naheliegend ist dann, einfach mehr einzuatmen. 
+Naheliegend ist dann, einfach mehr einzuatmen.
 
-Oft führt genau das jedoch zu mehr Spannung:
+Dabei entsteht oft mehr Aktivität im Körper – und damit auch mehr Spannung:
 
-- die Schultern heben sich
-- der Brustkorb wird fest
-- die Atmung verliert ihre Ruhe
+- die Schultern heben sich  
+- der Brustkorb wird fester  
+- die Atmung verliert ihre Ruhe  
 
-Das eigentliche Problem liegt häufig nicht in der Menge der Luft, sondern in ihrer Abgabe.
+Das eigentliche Thema liegt häufig nicht in der Menge der Luft, sondern in ihrer Abgabe.
 
 ## „Ich muss tiefer einatmen“
 
-Auch diese Vorstellung ist weit verbreitet. 
+Auch diese Vorstellung ist weit verbreitet.
 
-Sie kann dazu führen, dass die Einatmung aktiv gesteuert oder sogar erzwungen wird. 
+Sie kann dazu führen, dass die Einatmung aktiv gesteuert oder sogar erzwungen wird.
 
-Dadurch entsteht oft ein „Zuviel“ an Bewegung im Körper, das den Körper eher unruhig macht als stabilisiert. 
+Dadurch entsteht oft ein „Zuviel“ an Bewegung im Körper, das eher Unruhe erzeugt als Stabilität.
 
-Hilfreich ist häufig weniger das aktive Einatmen, sondern das Zulassen der Einatmung.
+Hilfreich ist häufig weniger das aktive Einatmen als das Zulassen der Einatmung.
 
 ## „Für hohe Töne muss ich mehr Kraft einsetzen“
 
-Hohe Töne werden oft mit Anstrengung verbunden. 
+Hohe Töne werden oft mit Anstrengung verbunden.
 
-Der Versuch, sie mit mehr Kraft zu erreichen, führt jedoch häufig zu Druck:
+Der Versuch, sie mit mehr Kraft zu erreichen, führt häufig zu Druck:
 
-- im Hals
-- im Kiefer
-- oder in der gesamten Körperhaltung
+- im Hals  
+- im Kiefer  
+- oder in der gesamten Körperhaltung  
 
-Das kann die Höhe eher erschweren als erleichtern. 
+Das kann die Höhe eher erschweren als erleichtern.
 
 Oft geht es weniger um mehr Kraft als um eine andere Koordination.
 
 ## „Ich habe keine Stimme“
 
-Dieser Gedanke entsteht leicht, wenn Singen sich unsicher oder anstrengend anfühlt. 
+Dieser Gedanke entsteht leicht, wenn Singen sich unsicher oder anstrengend anfühlt.
 
-Er wirkt oft sehr endgültig. 
+Er wirkt oft sehr endgültig.
 
-Dabei beschreibt er meist keinen festen Zustand, sondern eine momentane Erfahrung. 
+Dabei beschreibt er meist keinen festen Zustand, sondern eine momentane Erfahrung.
 
-Die Stimme ist veränderbar. Und sie entwickelt sich - manchmal langsamer, als man es sich wünscht.
+Die Stimme ist veränderbar – und sie entwickelt sich, manchmal langsamer, als man es sich wünscht.
 
 ## „Ich bin zu alt, um das noch zu lernen“
 
-Auch diese Vorstellung taucht immer wieder auf. 
+Auch diese Vorstellung taucht immer wieder auf.
 
 Der Körper verändert sich mit dem Alter – das gilt auch für die Stimme.
 
-Gleichzeitig bleibt er anpassungsfähig. 
+Gleichzeitig bleibt er anpassungsfähig.
 
-Lernen ist weiterhin möglich, wenn auch oft anders als in jüngeren Jahren. 
+Lernen ist weiterhin möglich, wenn auch oft anders als in jüngeren Jahren.
 
-Erfahrung, Wahrnehmung und ein bewusster Umgang können dabei sogar unterstützend wirken.
+Erfahrung, Wahrnehmung und ein bewusster Umgang können dabei unterstützend wirken.
 
 ## Vielleicht lässt sich das so zusammenfassen
 
-Viele Vorstellungen beim Singen entstehen aus nachvollziehbaren Erfahrungen. 
+Viele Vorstellungen beim Singen entstehen aus nachvollziehbaren Erfahrungen.
 
-Sie sind nicht „falsch“ im engeren Sinne, können aber in eine Richtung führen, die das Singen unnötig erschwert. 
+Sie sind nicht „falsch“ im engeren Sinne, können aber in eine Richtung führen, die das Singen unnötig erschwert.
 
 Ein etwas anderes Verständnis kann helfen, mit weniger Anstrengung und etwas mehr Klarheit zu singen.
 

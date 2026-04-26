@@ -9,9 +9,10 @@ description: " "
 
 ## Nutzung dieser Seiten
 
-Diese Seiten sind nicht als Lehrgang aufgebaut.
+Diese Seiten sind nicht als Lehrgang gedacht.
 
-Sie folgen keiner festen Reihenfolge, die eingehalten werden muss. Und sie enthalten keine Übungen, die Schritt für Schritt abgearbeitet werden sollen.
+Sie folgen keiner festen Reihenfolge.
+Und sie enthalten keine Übungen, die Schritt für Schritt abgearbeitet werden sollen.
 
 ## Lesen in eigenem Tempo
 
@@ -51,6 +52,8 @@ Manches wird vertraut erscheinen. Anderes vielleicht zunächst ungewohnt.
 
 Die Inhalte sind nicht als Ersatz gedacht, sondern als Möglichkeit, bestimmte Erfahrungen anders einzuordnen.
 
+Was hier steht, versteht sich nicht als Korrektur, sondern als mögliche Ergänzung.
+
 ## Wiederkommen ist sinnvoll
 
 Einige Inhalte verändern ihre Bedeutung, wenn sich die eigene Erfahrung verändert.
@@ -61,7 +64,7 @@ Es kann sich daher lohnen, einzelne Abschnitte noch einmal zu lesen.
 
 ## Vielleicht lässt sich das so zusammenfassen
 
-Diese Seiten sind kein System, das vollständig verstanden werden muss.
+Diese Seiten sind kein System, das vollständig verstanden werden muss - eher ein Angebot, das sich mit der eigenen Erfahrung verändert.
 
 Sie sind eher eine Begleitung.
 

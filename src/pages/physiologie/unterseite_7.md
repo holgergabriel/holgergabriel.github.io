@@ -38,7 +38,7 @@ Entscheidend ist:
 - wie sich etwas anfühlt
 - und ob der Körper neue Erfahrungen machen kann
 
-Der Körper reagiert nicht auf Menge, sondern auf das, was er tatsächlich verarbeiten kann.
+Der Körper reagiert weniger auf die Menge als auf das, was er tatsächlich verarbeiten kann.
 
 Manchmal ist weniger Wiederholung hilfreicher – wenn sie bewusster geschieht.
 
@@ -49,8 +49,7 @@ Längeres Üben ist nicht immer effektiver.
 Oft sind kürzere Einheiten sinnvoller:
 
 - 10–20 Minuten konzentriertes Üben 
-- mit Pausen dazwischen
-- statt längerer, ermüdender Phasen
+- mit Pausen dazwischen statt längerer, ermüdender Phasen
 
 Der Körper kann so Eindrücke besser aufnehmen und verarbeiten, ohne in Überlastung zu geraten.
 
@@ -130,7 +129,7 @@ Hilfreich sind:
 - Pausen als Teil des Übens
 - und ein flexibler Umgang mit der eigenen Situation
 
-Üben wirkt dann, wenn es zum aktuellen Zustand des Körpers passt.
+Üben wirkt oft dann, wenn es zum aktuellen Zustand des Körpers passt.
 
 Ein solcher Zugang kann helfen, die Stimme kontinuierlich zu entwickeln, ohne sie zu überfordern.
 

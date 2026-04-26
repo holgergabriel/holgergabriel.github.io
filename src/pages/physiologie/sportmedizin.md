@@ -7,7 +7,7 @@ description: " "
 
 ## Bezüge zur Sportmedizin
 
-Ein Teil meiner beruflichen Arbeit lag über viele Jahre im Bereich der Sportmedizin.
+Ein Teil meines beruflichen Weges lag über viele Jahre im Bereich der Sportmedizin.
 
 Dabei ging es unter anderem um:
 
@@ -18,7 +18,7 @@ Dabei ging es unter anderem um:
 
 Diese Themen haben zunächst keinen direkten Bezug zum Singen.
 
-Und doch zeigen sich bei genauerem Hinsehen deutliche Parallelen.
+Und doch zeigen sich bei genauerem Hinsehen deutliche Parallelen. Vieles davon ist mir erst im eigenen Singen wieder begegnet – in einer anderen Form.
 
 
 ## Der Körper passt sich an
@@ -27,7 +27,8 @@ Im Sport ist es selbstverständlich: Der Körper verändert sich durch das, was 
 
 Das gilt auch für die Stimme.
 
-Entwicklung entsteht nicht durch einmalige Anstrengung. Wiederholte, angepasste Belastungen führen zu Anpassungserscheinungen.
+Entwicklung entsteht nicht durch einmalige Anstrengung.
+Oft sind es wiederholte, angepasste Belastungen, die Veränderungen ermöglichen.
 
 
 ## Belastung und Erholung gehören zusammen
