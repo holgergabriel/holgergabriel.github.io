@@ -37,11 +37,4 @@ Im Mittelpunkt steht eine Gesangspraxis, die stimmliche Balance mit Aufmerksamke
 Vielleicht lässt sich daraus kein vollständiges Bild ableiten.  
 Es kann jedoch helfen, den eigenen Zugang zu klären und weiterzuentwickeln.
 
----
-
-Weiterführende Seiten:
-
-- [Gesundheit](/profil/gesundheit)
-- [Worum es mir auf dieser Webpage geht](/profil)
-
 [^1]: <a href="https://loop.frontiersin.org/people/357860/overview" target="_blank" rel="noopener noreferrer">Loop</a>, <a href="https://www.researchgate.net/profile/Holger-Gabriel/stats" target="_blank" rel="noopener noreferrer">ResearchGate</a>, <a href="https://scholar.google.com/citations?user=TMGRi78AAAAJ&hl=de" target="_blank" rel="noopener noreferrer">Google Scholar</a>

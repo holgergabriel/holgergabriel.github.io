@@ -15,6 +15,20 @@ interface NavLink {
 const navLinks: NavLink[] = [
   { href: '/', label: 'Home' },
 
+
+    {
+    href: '/profil',
+    label: 'Kontext',
+    children: [
+  { href: '/profil', label: 'Worum es mir auf dieser Webpage geht' },
+  { href: '/profil/hintergrund', label: 'Hintergrund' },
+  { href: '/profil/gesundheit', label: 'Gesundheit' },
+  { href: '/profil/vorbemerkungen', label: 'Persönliches' },
+  { href: '/profil/repertoire', label: 'Repertoireentwicklung' },
+  { href: '/stimme', label: 'Stimme' }, 
+],
+  },
+
   {
     href: '/physiologie',
     label: 'Physiologie - verstehen, um leichter zu singen',
@@ -34,18 +48,7 @@ const navLinks: NavLink[] = [
 ],
   },
 
-    {
-    href: '/profil',
-    label: 'Kontext',
-    children: [
-  { href: '/profil', label: 'Worum es mir auf dieser Webpage geht' },
-  { href: '/profil/hintergrund', label: 'Hintergrund' },
-  { href: '/profil/gesundheit', label: 'Gesundheit' },
-  { href: '/profil/vorbemerkungen', label: 'Persönliches' },
-  { href: '/profil/repertoire', label: 'Repertoire' },
-],
-  },
-   { href: '/stimme', label: 'Stimme' }, 
+
   
 ];
 

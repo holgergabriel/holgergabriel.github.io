@@ -21,10 +21,9 @@ Vielleicht ergeben sich Formen des gemeinsamen Arbeitens oder Weitergehens – w
 
 ---
 
-Weiterführende Seiten:
+Weiterführende Seite:
 
 - [Hintergrund](/profil/hintergrund)
-- [Persönliches](/profil/vorbemerkungen)
 
 ---
 

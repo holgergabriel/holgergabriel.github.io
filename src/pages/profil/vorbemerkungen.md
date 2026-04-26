@@ -45,10 +45,3 @@ Wenn Sie sich für das Singen interessieren oder Ihre Stimme entwickeln möchten
 - [Physiologie – verstehen, um leichter zu singen](/physiologie/)
 
 Vielleicht entsteht daraus kein fester Weg, sondern eine Orientierung.
-
----
-
-Weiterführende Seiten:
-
-- [Repertoire](/profil/repertoire)
-- [Worum es mir auf dieser Webpage geht](/profil)

@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: "Repertoire"
+title: "Repertoireentwicklung"
 subtitle: ""
 description: " "
 ---
@@ -32,10 +32,3 @@ Vertiefte Arbeit an anspruchsvolleren Werken
 ---
 
 Das Repertoire entwickelt sich weiter mit den Erfahrungen im Singen und im musikalischen Miteinander.
-
----
-
-Weiterführende Seiten:
-
-- [Persönliches](/profil/vorbemerkungen)
-- [Worum es mir auf dieser Webpage geht](/profil)

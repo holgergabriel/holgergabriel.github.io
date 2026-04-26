@@ -36,10 +36,3 @@ Musik und Gesang können dabei zu einem tragenden Bestandteil werden – als Mö
 
 Vielleicht lässt sich daraus kein vollständiger Gesundheitsbegriff ableiten.  
 Es kann jedoch helfen, den eigenen Zugang zu klären.
-
----
-
-Weiterführende Seiten:
-
-- [Hintergrund](/profil/hintergrund)
-- [Persönliches](/profil/vorbemerkungen)
