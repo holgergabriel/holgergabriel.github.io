@@ -223,7 +223,7 @@ p {
 
 /* Überschriften mehr Luft geben */
 h2 {
-  margin-top: var(--space-xl);
+  margin-top: var(--space-lg);
   margin-bottom: var(--space-md);
 }
 
