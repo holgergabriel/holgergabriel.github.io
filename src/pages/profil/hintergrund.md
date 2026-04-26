@@ -32,8 +32,6 @@ Dabei geht es nicht um ein festes Ziel, sondern um eine Entwicklung, die sich mi
 
 Im Mittelpunkt steht eine Gesangspraxis, die stimmliche Balance mit Aufmerksamkeit und Präsenz verbindet.
 
----
-
 Vielleicht lässt sich daraus kein vollständiges Bild ableiten.  
 Es kann jedoch helfen, den eigenen Zugang zu klären und weiterzuentwickeln.
 

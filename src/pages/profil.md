@@ -21,12 +21,6 @@ Vielleicht ergeben sich Formen des gemeinsamen Arbeitens oder Weitergehens – w
 
 ---
 
-Weiterführende Seite:
-
-- [Hintergrund](/profil/hintergrund)
-
----
-
 Die inhaltliche Ausarbeitung dieser Perspektive findet sich auf den folgenden Seiten zur Physiologie des Singens.
 
 [→ Zu den Inhalten](/physiologie)
