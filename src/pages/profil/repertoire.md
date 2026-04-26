@@ -27,7 +27,7 @@ Ausflüge in die Welt des Musicals sowie Ensemblearbeit mit modernen Vokalarrang
 
 **In Vorbereitung**  
 Vertiefte Arbeit an anspruchsvolleren Werken  
-(z. B. Händel: *Comfort ye*, *Ev’ry valley shall be exalted*, Schubert: *Im Abendrot* und *Ave Maria*, Franck: *Panis angelicus*, Rutter: *A Clare Benediction*)
+(z. B. Händel: *Comfort ye*, *Ev’ry valley shall be exalted*, Schubert: *Im Abendrot* und *Ave Maria*, Franck: *Panis angelicus*, Boublil & Schönberg: Bring him home, Rutter: *A Clare Benediction*)
 
 ---
 

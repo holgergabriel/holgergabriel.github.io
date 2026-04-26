@@ -20,7 +20,7 @@ Im Singen wird dieses Verständnis unmittelbar praktisch.
 Es geht nicht um Leistung im engeren Sinn,  
 sondern um die Qualität des Ausdrucks – getragen von Atem, Körper und Klang.
 
-Die Stimme wird dabei zu einem Medium, das Verbindung ermöglicht: zum eigenen Empfinden, zum Raum und zu anderen Menschen.
+Die Stimme wird dabei zu einem Medium, das Verbindung ermöglicht – zum eigenen Empfinden, zum Raum und zu anderen Menschen.
 
 ---
 

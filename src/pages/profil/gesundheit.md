@@ -30,7 +30,7 @@ So wird Gesundheit zu einer Frage der Wandlungsfähigkeit – der Fähigkeit, si
 
 Gesundheitsförderung heißt in diesem Zusammenhang, diese Prozesse zu unterstützen – im Aufbau ebenso wie im Loslassen.
 
-Musik und Gesang können dabei zu einem tragenden Bestandteil werden: als Möglichkeit, Ausdruck zu finden und in Verbindung zu bleiben.
+Musik und Gesang können dabei zu einem tragenden Bestandteil werden – als Möglichkeit, Ausdruck zu finden und in Verbindung zu bleiben.
 
 ---
 
