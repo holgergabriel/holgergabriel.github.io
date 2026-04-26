@@ -23,9 +23,8 @@ const avatarHeight = frontmatter.avatarHeight ?? '96px';
 /* ---- Navigation ---- */
 const path = Astro.url.pathname;
 
-
-const pages = [
-
+/* ---- Seitenlisten ---- */
+const physiologiePages = [
   { title: "Ein Verständnis von Körper und Üben", slug: "verstaendnis" },
   { title: "Grundlagen des Singens", slug: "unterseite_1" },
   { title: "Atmung und Ton", slug: "unterseite_2" },
@@ -39,7 +38,31 @@ const pages = [
   { title: "Einordnung dieser Seiten", slug: "keinangebot" },
 ];
 
-const currentIndex = pages.findIndex(p => path.includes(p.slug));
+const profilPages = [
+  { title: "Worum es mir auf dieser Webpage geht", slug: "" },
+  { title: "Hintergrund", slug: "hintergrund" },
+  { title: "Gesundheit", slug: "gesundheit" },
+  { title: "Persönliches", slug: "vorbemerkungen" },
+  { title: "Repertoire", slug: "repertoire" },
+];
+
+/* ---- Bereich erkennen ---- */
+let pages = [];
+let basePath = "";
+
+if (path.startsWith('/physiologie')) {
+  pages = physiologiePages;
+  basePath = '/physiologie';
+} else if (path.startsWith('/profil')) {
+  pages = profilPages;
+  basePath = '/profil';
+}
+
+/* ---- aktuelle Position ---- */
+const currentIndex = pages.findIndex(p => {
+  if (p.slug === "") return path === basePath || path === basePath + "/";
+  return path.includes(p.slug);
+});
 
 const prev = pages[currentIndex - 1];
 const next = pages[currentIndex + 1];
@@ -68,7 +91,7 @@ const next = pages[currentIndex + 1];
           <div class="nav-links">
             <div>
               {prev && (
-                <a href={`/physiologie/${prev.slug}/`}>
+                <a href={`${basePath}/${prev.slug ? prev.slug + '/' : ''}`}>
                   ← {prev.title}
                 </a>
               )}
@@ -76,7 +99,7 @@ const next = pages[currentIndex + 1];
 
             <div class="nav-next">
               {next && (
-                <a href={`/physiologie/${next.slug}/`}>
+                <a href={`${basePath}/${next.slug ? next.slug + '/' : ''}`}>
                   {next.title} →
                 </a>
               )}
