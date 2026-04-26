@@ -21,9 +21,9 @@ In diesem Abschnitt geht es weniger darum, den Alltag zu optimieren, als darum, 
 
 Dabei stehen drei Fragen im Vordergrund:
 
-- welchen Einfluss der Alltag auf die Stimme hat,
-- wie sich Belastung und Erholung auswirken,
-- und wie sich ein realistischer Umgang damit entwickeln kann.
+- welchen Einfluss der Alltag auf die Stimme hat
+- wie sich Belastung und Erholung auswirken
+- und wie sich ein realistischer Umgang damit entwickeln kann
 
 Vielleicht entsteht dabei mehr Gelassenheit im Umgang mit der eigenen Stimme.
 

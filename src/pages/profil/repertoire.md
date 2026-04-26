@@ -4,20 +4,33 @@ title: "Klassik, Lied und Geistliches"
 subtitle: ""
 description: " "
 ---
-Das Singen empfinde ich als einen **gemeinschaftlichen Prozess**, bei dem das Erkunden von Atem und Klang im Mittelpunkt steht. Ob im Zusammenspiel mit anderen Musikern oder im Vortrag für ein Publikum: Das gemeinsame Musizieren stiftet **Freude** und schafft **Räume für musikalische Resonanz**.
 
-## **Musikalische Schwerpunkte seit Ausbildungsbeginn 2024**
+Das Singen empfinde ich als einen **gemeinschaftlichen Prozess**, bei dem das Erkunden von Atem und Klang im Mittelpunkt steht.  
+Ob im Zusammenspiel mit anderen Musikern oder im Vortrag für ein Publikum: Gemeinsames Musizieren stiftet **Freude** und schafft **Räume für musikalische Resonanz**.
 
-Mein in Entwicklung befindliches Repertoire umfasst klassische Werke, geistliche Musik und ausgewählte Ensemblestücke, die in unterschiedlichen Kontexten zum Klingen kommen:
+## Musikalische Entwicklung seit 2024
 
-* **Klassik & Lied:** Werke von Schubert, Händel und Giordani, die eine intensive Arbeit an der musikalischen Linie und Textverständlichkeit ermöglichen (z. B. An die Musik | Ombra mai fù | Total eclipse | Verdi prati | Caro mio ben).
-* **Geistliche Musik & Liturgie:** Mitgestaltung von Gottesdiensten mit Orgelbegleitung, von Taizé-Liedern über klassische Stücke wie Becker (Wo du hingehst) oder Dvořák (Der Herr ist mein Hirte) bis hin zu modernen geistlichen Gesängen (Here I am, Lord | You are my all in all | I wonder as I wander).
-* **Bühne & Ensemble:** Ausflüge in die Welt des Musicals (One hand, one heart | Somewhere von Bernstein/Sondheim) sowie moderne Vokalarrangements im Ensemble (z. B. Applaus, Applaus | Killing me softly).
-* **In Vorbereitung:** Aktuell vertiefte Auseinandersetzung mit anspruchsvolleren Werken (z.B. Händels Comfort ye | Ev´ry valley shall be exhaulted | Schuberts Im Abendrot | Francks Panis angelicus | Rutters A Clare Benediction).
+Mein Repertoire entsteht im Verlauf dieses Lernprozesses. Es umfasst klassische Werke, geistliche Musik und Ensembleliteratur, die in unterschiedlichen Kontexten zum Klingen kommen.
 
-## Schlussbemerkung
+**Klassik & Lied**  
+Werke von Schubert, Händel und Giordani, die eine intensive Arbeit an musikalischer Linie und Text ermöglichen  
+(z. B. *An die Musik*, *Ombra mai fù*, *Total eclipse*, *Verdi prati*, *Caro mio ben*)
 
-Vielleicht lässt sich daraus keine feste Richtung ableiten, sondern eher eine Einordnung, die den eigenen Zugang klärt.
+**Geistliche Musik & Liturgie**  
+Mitgestaltung von Gottesdiensten mit Orgelbegleitung – von Taizé-Liedern über klassische Stücke bis hin zu modernen geistlichen Gesängen  
+(z. B. Becker: *Wo du hingehst*, Dvořák: *Der Herr ist mein Hirte*, *Here I am, Lord*, *You are my all in all*, *I wonder as I wander*)
+
+**Bühne & Ensemble**  
+Ausflüge in die Welt des Musicals sowie Ensemblearbeit mit modernen Vokalarrangements  
+(z. B. *One hand, one heart*, *Somewhere*, *Applaus, Applaus*, *Killing me softly*)
+
+**In Vorbereitung**  
+Vertiefte Arbeit an anspruchsvolleren Werken  
+(z. B. Händel: *Comfort ye*, *Ev’ry valley shall be exalted*, Schubert: *Im Abendrot*, Franck: *Panis angelicus*, Rutter: *A Clare Benediction*)
+
+---
+
+Das Repertoire entwickelt sich weiter mit den Erfahrungen im Singen und im musikalischen Miteinander.
 
 ---
 

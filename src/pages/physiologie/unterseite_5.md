@@ -99,6 +99,6 @@ Auch wenn sich einige Vorstellungen klären, bleibt Singen nicht losgelöst von 
 
 Wie sich die Stimme anfühlt, hängt nicht nur davon ab, was man verstanden hat oder wie man übt.
 
-Sie reagiert auch auf den Alltag: auf Belastung, Erholung und die jeweilige Tagesform.
+Sie reagiert auch auf den Alltag – auf Belastung, Erholung und die jeweilige Tagesform.
 
 Im nächsten Abschnitt geht es darum, diese Zusammenhänge etwas genauer zu betrachten.

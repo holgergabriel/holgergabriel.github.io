@@ -4,26 +4,27 @@ title: "Hintergrund"
 subtitle: ""
 description: " "
 ---
-**Woher?**
 
-Geprägt durch viele Jahre in Forschung und Lehre in der Sportmedizin und Gesundheitsförderung[^1] ist mein Blick auf den Menschen entstanden.
+**Woher**
 
-Heute steht weniger die Analyse einzelner Funktionen im Vordergrund. Es ist vielmehr das Zusammenspiel von Körper, Erfahrung und Lebenssituation.
+Mein Blick auf den Menschen ist durch viele Jahre in Forschung und Lehre in der Sportmedizin und Gesundheitsförderung[^1] entstanden.
+
+Heute steht weniger die Analyse einzelner Funktionen im Vordergrund als das Zusammenspiel von Körper, Erfahrung und Lebenssituation.
 
 ---
 
-**Wozu?**
+**Wozu**
 
 Im Singen wird dieses Verständnis unmittelbar praktisch.
 
 Es geht nicht um Leistung im engeren Sinn,  
 sondern um die Qualität des Ausdrucks – getragen von Atem, Körper und Klang.
 
-Die Stimme wird dabei zu einem Medium, das Verbindung ermöglicht – zum eigenen Empfinden, zum Raum und zu anderen Menschen.
+Die Stimme wird dabei zu einem Medium, das Verbindung ermöglicht: zum eigenen Empfinden, zum Raum und zu anderen Menschen.
 
 ---
 
-**Wohin?**
+**Wohin**
 
 Seit 2024 vertiefe ich diesen Weg in einem kontinuierlichen Lernprozess.
 
@@ -33,7 +34,8 @@ Im Mittelpunkt steht eine Gesangspraxis, die stimmliche Balance mit Aufmerksamke
 
 ---
 
-Vielleicht lässt sich daraus kein vollständiges Bild ableiten. Es ermöglcht jedoch eventuell eine Einordnung, die die eigene Entwicklung klärt.
+Vielleicht lässt sich daraus kein vollständiges Bild ableiten.  
+Es kann jedoch helfen, den eigenen Zugang zu klären und weiterzuentwickeln.
 
 
 Weiterführende Seiten:

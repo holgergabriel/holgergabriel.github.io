@@ -9,7 +9,7 @@ description: " "
 
 Diese Seite ist kein Unterricht.
 
-Sie ist auch keine akademischer Exkurs, keine universitäre Lehrveranstaltung und keine wissenschaftliche state-of-the-art Publikation.
+Sie ist auch kein akademischer Exkurs, keine universitäre Lehrveranstaltung und keine wissenschaftliche state-of-the-art Publikation.
 
 Sie ersetzt keinen Gesangsunterricht, keine logopädische Begleitung und keine individuelle Beratung.
 

@@ -15,10 +15,10 @@ Der Körper reagiert.
 Er passt sich an.  
 Und er hat Grenzen.
 
+Beim Üben geht es weniger darum, etwas zu erzwingen, als darum, Bedingungen zu schaffen, unter denen sich die Stimme entwickeln kann.
 
-Beim Üben geht es vielleicht weniger darum, etwas zu erzwingen, als darum, Bedingungen zu schaffen, unter denen sich die Stimme entwickeln kann.
+Daraus entsteht ein anderer Zugang zum Singen.
 
-Vielleicht entsteht daraus ein anderer Zugang zum Singen.
 
 ---
 

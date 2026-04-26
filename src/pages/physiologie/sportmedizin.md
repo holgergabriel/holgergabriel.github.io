@@ -36,7 +36,7 @@ Im Training ist bekannt, dass Fortschritt durch Belastung im angemessenen Wechse
 
 Auch beim Singen zeigt sich:  
 
-- Zu viel Üben kann überfordern  
+- zu viel Üben kann überfordern  
 - zu wenig verhindert Entwicklung
 
 Ein ausgewogenes Verhältnis ist entscheidend.

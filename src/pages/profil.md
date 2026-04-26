@@ -5,19 +5,19 @@ subtitle: ""
 description: " "
 ---
 
-Als ehemaliger Hochschullehrer widme ich mich heute dem **lebenslangen Lernen** in Verbindung mit dem **Singen**.
+Ich widme mich dem **lebenslangen Lernen** – in Verbindung mit dem **Singen**.
 
-In diesem neuen Lebensabschnitt verbinden sich langjährige Erfahrung in der Gesundheitsförderung und die lebendige Kraft der Stimme.
+Erfahrungen aus der Gesundheitsförderung und die lebendige Kraft der Stimme kommen dabei zusammen.
 
-Für mich bilden Körper, Atem und Resonanz die Grundlage für einen stimmigen Ausdruck – und für ein **freudvolles, tragfähiges Älterwerden**.
+Körper, Atem und Resonanz bilden für mich die Grundlage eines stimmigen Ausdrucks – und eines **freudvollen, tragfähigen Älterwerdens**.
 
-Diese Seite ist aus dem Versuch entstanden, meine eigene Arbeit und Haltung verständlich zu machen.
+Diese Seite ist daraus entstanden, diesen Zusammenhang sichtbar zu machen.
 
-Sie richtet sich an Menschen, die danach fragen, an solche, die sich für Stimme und Singen interessieren, und vielleicht auch an diejenigen, mit denen sich musikalische oder inhaltliche Begegnungen ergeben.
+Sie richtet sich an Menschen, die sich für Stimme und Singen interessieren – und an diejenigen, mit denen sich daraus Begegnungen ergeben.
 
 Was daraus entsteht, bleibt offen.
 
-Vielleicht ergeben sich daraus Formen des gemeinsamen Arbeitens oder Weitergehens – wenn es für beide Seiten stimmig ist.
+Vielleicht ergeben sich Formen des gemeinsamen Arbeitens oder Weitergehens – wenn es für beide Seiten stimmig ist.
 
 ---
 

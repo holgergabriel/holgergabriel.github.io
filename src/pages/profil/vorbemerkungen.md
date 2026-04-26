@@ -4,13 +4,10 @@ title: "Persönliches"
 subtitle: ""
 description: " "
 ---
-Ich bin kein ausgebildeter Sänger.
 
-Ich habe erst spät begonnen, mich ernsthaft mit meiner Stimme zu beschäftigen – obwohl ich als Hochschullehrer meine Sprechstimme über viele Jahre stark beansprucht habe.
+Ich habe erst spät begonnen, mich ernsthaft mit meiner Stimme zu beschäftigen.
 
-Der Zugang zur Singstimme entstand zunächst im Chor, später im Gesangseinzelunterricht, begleitet durch logopädische Arbeit und regelmäßiges Üben.
-
-Ich würde mich als Späteinsteiger bezeichnen.
+Über viele Jahre hinweg war meine Sprechstimme im beruflichen Alltag stark gefordert. Der Zugang zur Singstimme entstand zunächst im Chor, später im Gesangseinzelunterricht – begleitet durch logopädische Arbeit und regelmäßiges Üben.
 
 ---
 
@@ -27,27 +24,23 @@ Und zugleich die Erfahrung, die eigene Stimme in ihren vielen Facetten kennenzul
 
 Eine phoniatrische Untersuchung zeigte – organisch ist alles in Ordnung.
 
-Das Entscheidende lag also nicht in einer Erkrankung, sondern im Umgang mit dem eigenen Körper.
+Das Entscheidende lag damit nicht in einer Erkrankung, sondern im Umgang mit dem eigenen Körper.
 
 ---
 
-Hier hat sich für mich ein Zugang entwickelt, der meine beruflichen Erfahrungen mit meinem eigenen Lernen verbindet:
+Im eigenen Lernen hat sich ein Zugang entwickelt, der meine beruflichen Erfahrungen mit der Stimme verbindet:
 
-Physiologie nicht als Theorie – sondern als praktisches Verständnis dessen, was beim Singen geschieht.
+Physiologie nicht als Theorie, sondern als praktisches Verständnis dessen, was beim Singen geschieht.
 
 Aus dieser Perspektive ist diese Webseite entstanden.
 
 ---
 
-Sie versteht sich nicht als Anleitung „von oben“, sondern als Angebot:
-
-- Dinge verständlich zu machen, die oft unnötig kompliziert erscheinen  
-- Zusammenhänge zu klären, die im Unterricht manchmal nur angedeutet werden  
-- und dabei den Bezug zur eigenen Erfahrung zu behalten  
+Sie möchte Zusammenhänge verständlich machen, die oft unnötig kompliziert erscheinen, und dabei den Bezug zur eigenen Erfahrung zu behalten.
 
 ---
 
-Wenn Sie sich vor diesem Hintergrund für das Singen interessieren oder Ihre Stimme entwickeln möchten, können Sie hier beginnen:
+Wenn Sie sich für das Singen interessieren oder Ihre Stimme entwickeln möchten, können Sie hier beginnen:
 
 - [Physiologie – verstehen, um leichter zu singen](/physiologie/)
 
