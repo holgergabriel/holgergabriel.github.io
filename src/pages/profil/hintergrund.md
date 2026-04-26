@@ -37,6 +37,7 @@ Im Mittelpunkt steht eine Gesangspraxis, die stimmliche Balance mit Aufmerksamke
 Vielleicht lässt sich daraus kein vollständiges Bild ableiten.  
 Es kann jedoch helfen, den eigenen Zugang zu klären und weiterzuentwickeln.
 
+---
 
 Weiterführende Seiten:
 
