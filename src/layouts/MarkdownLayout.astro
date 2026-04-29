@@ -13,6 +13,7 @@ interface Props {
     avatar?: string;
     avatarWidth?: string;
     avatarHeight?: string;
+    highlight?: string;
   };
 }
 
@@ -46,6 +47,7 @@ const profilPages = [
   { title: "Repertoire", slug: "repertoire" },
 ];
 
+
 /* ---- Bereich erkennen ---- */
 let pages = [];
 let basePath = "";
@@ -77,6 +79,10 @@ const next = pages[currentIndex + 1];
       <div>
         <h1 class="page-title">{frontmatter.title}</h1>
         {frontmatter.subtitle && <p class="page-subtitle">{frontmatter.subtitle}</p>}
+
+        {frontmatter.highlight && (
+            <p class="highlight">{frontmatter.highlight}</p>
+  )}
       </div>
     </div>
 

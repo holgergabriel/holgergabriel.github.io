@@ -1,0 +1,748 @@
+---
+import Layout from "../layouts/BaseLayout.astro";
+---
+
+<Layout title="Analyse">
+
+  <main class="analysis">
+
+    <!-- Einstieg -->
+    <section>
+      <p class="title">Analyse</p>
+      <p>Es kann etwas sichtbar werden.</p>
+      <p>Aus Daten.<br/>Oder aus Wahrnehmung.</p>
+      <p>Beides steht nebeneinander.</p>
+    </section>
+
+    <!-- Daten -->
+    <section class="spaced">
+      <p>Daten</p>
+
+      <p class="muted">
+        Die Daten können nacheinander geladen werden.<br/>
+        Jeder Upload wird als eigener Zustand hinzugefügt.
+      </p>
+
+      <label class="link">
+        → Datei auswählen
+        <input id="file-input" type="file" accept=".csv" hidden />
+      </label>
+
+      <input id="dataset-label" class="label-input" placeholder="Zustand (optional)" />
+
+      <p id="data-feedback" class="note"></p>
+
+      <p id="reset-all" class="link muted">→ neu beginnen</p>
+
+      <p class="note">
+        Erwartet werden RR-Intervalle (ms).<br/>
+        Weitere Daten werden derzeit nicht einbezogen.
+      </p>
+    </section>
+
+    <!-- Wahrnehmung -->
+    <section class="spaced">
+
+      <div class="scale">
+        <p>Atmung</p>
+        <input id="breathing" type="range" min="1" max="10" value="5" />
+        <div class="labels"><span>frei</span><span>eingeengt</span></div>
+      </div>
+
+      <div class="scale">
+        <p>Körper</p>
+        <input id="body" type="range" min="1" max="10" value="5" />
+        <div class="labels"><span>leicht</span><span>gespannt</span></div>
+      </div>
+
+      <div class="scale">
+        <p>Aufmerksamkeit</p>
+        <input id="attention" type="range" min="1" max="10" value="5" />
+        <div class="labels"><span>offen</span><span>gerichtet</span></div>
+      </div>
+
+      <div class="text">
+        <p>Wenn es Worte gibt</p>
+        <textarea id="free-text" rows="3"></textarea>
+      </div>
+
+    </section>
+
+    <!-- Ergebnis -->
+    <section class="result spaced">
+
+      <p>System</p>
+<p id="system-text"></p>
+
+<canvas id="rsa-canvas" width="600" height="120"></canvas>
+
+<p id="breathing-rate" class="muted spaced-top"></p>
+
+
+<p class="spaced-top">Wahrnehmung</p>
+<p id="perception-text"></p>
+<p id="free-text-output" class="muted"></p>
+
+<p class="relation">Beziehung</p>
+<p id="relation-text"></p>
+
+      <!-- Verlauf -->
+      <section id="compare-text" class="spaced"></section>
+
+      <!-- Übergänge -->
+      <section id="transitions" class="spaced"></section>
+
+      <p id="print-btn" class="spaced-top link">→ mitnehmen</p>
+
+    </section>
+
+  </main>
+
+</Layout>
+
+<style>
+.analysis {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+.title { font-size: 1.6rem; margin-bottom: 1.5rem; }
+p { line-height: 1.7; margin: 0.6rem 0; }
+
+.muted { color: #666; }
+.note { font-size: 0.85rem; color: #888; }
+
+.spaced { margin-top: 3rem; }
+.spaced-top { margin-top: 2.5rem; }
+
+.scale { margin: 2.5rem 0; }
+
+/* Slider */
+input[type="range"] {
+  width: 100%;
+  appearance: none;
+  background: transparent;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  height: 1px;
+  background: #bbb;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #2a6df4;
+  margin-top: -5px;
+}
+
+/* Labels */
+.labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  color: #777;
+}
+
+/* Inputs */
+textarea {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+}
+
+.label-input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  margin-top: 0.5rem;
+  font-family: inherit;
+  padding: 0.3rem 0;
+  outline: none;
+}
+
+/* Links */
+.link { cursor: pointer; text-decoration: underline; }
+
+/* Ergebnis */
+.result { margin-top: 4rem; }
+.relation { margin-top: 3.5rem; }
+
+/* Canvas */
+#rsa-canvas {
+  width: 100%;
+  height: 80px;
+  margin-top: 1.5rem;
+}
+
+/* Print */
+@media print {
+  input, textarea, canvas, .scale, .labels, .link {
+    display: none;
+  }
+
+  body {
+    margin: 40px;
+  }
+}
+</style>
+
+<script>
+const fileInput = document.getElementById("file-input");
+const labelInput = document.getElementById("dataset-label");
+const feedback = document.getElementById("data-feedback");
+
+const compareText = document.getElementById("compare-text");
+const transitionsEl = document.getElementById("transitions");
+
+const system = document.getElementById("system-text");
+const relation = document.getElementById("relation-text");
+const perception = document.getElementById("perception-text");
+const freeTextOutput = document.getElementById("free-text-output");
+const breathing = document.getElementById("breathing");
+const body = document.getElementById("body");
+const attention = document.getElementById("attention");
+const freeText = document.getElementById("free-text");
+breathing.addEventListener("input", render);
+body.addEventListener("input", render);
+attention.addEventListener("input", render);
+freeText.addEventListener("input", render);
+
+
+let datasets = [];
+
+/* CSV */
+fileInput.addEventListener("change", function () {
+
+  const file = fileInput.files[0];
+  const reader = new FileReader();
+
+  reader.onload = function (e) {
+
+    const text = e.target.result;
+    const delimiter = text.includes(";") ? ";" : ",";
+    const lines = text.split("\n").map(l=>l.trim()).filter(l=>l);
+
+    let start = 0;
+    let rrIndex = 0;
+
+    if (lines[0].toLowerCase().includes("rr")) {
+      start = 1;
+      const headers = lines[0].split(delimiter);
+      rrIndex = headers.findIndex(h => h.toLowerCase().includes("rr"));
+    }
+
+    let rr = [];
+
+    for (let i=start;i<lines.length;i++){
+      const val = parseFloat(lines[i].split(delimiter)[rrIndex]);
+      if(!isNaN(val)) rr.push(val);
+    }
+
+    feedback.innerHTML = rr.length + " RR-Werte erkannt.";
+
+    const result = processRR(rr);
+
+    if(result){
+      datasets.push({
+  label: labelInput.value || "Zustand "+(datasets.length+1),
+  ...result,
+
+  breathingWave: result.breathingWave || result.centered, 
+
+  perception: {
+    breathing: breathing.value,
+    body: body.value,
+    attention: attention.value,
+    text: freeText.value
+  }
+});
+    }
+
+    labelInput.value="";
+    render();
+  };
+
+  reader.readAsText(file);
+});
+
+/* Verarbeitung */
+function processRR(data){
+  if(data.length<5) return null;
+
+  const avgRR = data.reduce((a,b)=>a+b,0)/data.length;
+  const hr = data.map(r => 60000 / r);
+  const sampleRate = 1000 / avgRR;
+
+  const smooth = hr.map((_,i)=>{
+  const s = hr.slice(Math.max(0,i-10),i+10);
+  return s.reduce((a,b)=>a+b,0)/s.length;
+});
+
+// 🔥 Atemwelle korrekt berechnen
+  // langsamer Trend
+  const slow = smoothData(hr, 50);
+
+  // schneller Trend
+  const fast = smoothData(hr, 5);
+
+  // Differenz = Atemband
+  const breathingWave = fast.map((v,i) => v - slow[i]);
+
+  const min=Math.min(...smooth);
+  const max=Math.max(...smooth);
+
+  // RMSSD
+let diffs = [];
+for (let i = 1; i < data.length; i++) {
+  diffs.push(data[i] - data[i - 1]);
+}
+
+const rmssd = Math.sqrt(
+  diffs.reduce((a, b) => a + b * b, 0) / diffs.length
+);
+
+const mean = smooth.reduce((a,b)=>a+b,0)/smooth.length;
+
+const centered = smooth.map(v => v - mean);
+
+return { 
+  avgRR, 
+  smooth, 
+  centered, 
+  breathingWave,
+  sampleRate, // 👈 NEU
+  rsaAmplitude:max-min, 
+  rmssd 
+};
+}
+
+function smoothData(data, window = 20){
+  return data.map((_,i)=>{
+    const start = Math.max(0, i - window);
+    const end = Math.min(data.length, i + window);
+    const slice = data.slice(start, end);
+    return slice.reduce((a,b)=>a+b,0)/slice.length;
+  });
+}
+
+function findPeaks(data, sampleRate = 4){
+
+  let peaks = [];
+  let lastPeak = -Infinity;
+
+  const maxVal = Math.max(...data);
+  const threshold = maxVal * 0.3;
+  const minDistance = sampleRate * 1.5;
+
+  for(let i=1; i<data.length-1; i++){
+
+    const isPeak = data[i] > data[i-1] && data[i] > data[i+1];
+    const farEnough = (i - lastPeak) > minDistance;
+    const highEnough = data[i] > threshold;
+
+    if(isPeak && farEnough && highEnough){
+      peaks.push(i);
+      lastPeak = i;
+    }
+  }
+
+  return peaks;
+}
+
+function findPhases(data){
+
+  let phases = [];
+
+  for(let i=1; i<data.length; i++){
+
+    const rising = data[i] > data[i-1];
+
+    phases.push({
+      index: i,
+      rising
+    });
+  }
+
+  return phases;
+}
+
+
+/* Draw */
+function drawSingle(canvas, data, lineWidth = 1, peaks = [], phases = []){
+
+  const ctx = canvas.getContext("2d");
+
+  const w = canvas.width;
+  const h = canvas.height;
+
+  ctx.clearRect(0,0,w,h);
+  ctx.beginPath();
+
+  // 🔥 entscheidend:
+  const maxAbs = Math.max(...data.map(v => Math.abs(v)));
+  const scale = (h * 0.4) / (maxAbs || 1); // 40% Höhe nutzen
+
+  for(let i=1; i<data.length; i++){
+
+  const x1 = ((i-1)/data.length)*w;
+  const y1 = h/2 - data[i-1] * scale;
+
+  const x2 = (i/data.length)*w;
+  const y2 = h/2 - data[i] * scale;
+
+  const rising = data[i] > data[i-1];
+
+  ctx.beginPath();
+  ctx.moveTo(x1,y1);
+  ctx.lineTo(x2,y2);
+
+  ctx.strokeStyle = rising ? "#e63946" : "#457b9d"; // 🔴 / 🔵
+  ctx.lineWidth = lineWidth;
+  ctx.stroke();
+}
+
+  ctx.strokeStyle = "#333";
+  ctx.lineWidth = lineWidth;
+  ctx.stroke();
+
+// 🔴 Peaks einzeichnen
+ctx.fillStyle = "#e63946";
+
+peaks.forEach(i=>{
+  const x = (i/data.length)*w;
+  const y = h/2 - data[i] * scale;
+
+  ctx.beginPath();
+  ctx.arc(x, y, 3, 0, Math.PI*2);
+  ctx.fill();
+});
+}
+
+  // Wahrnehmung IMMER anzeigen
+function updatePerception(){
+
+  const b = breathing.value;
+  const bodyV = body.value;
+  const att = attention.value;
+
+  let pText = "";
+
+  pText += b < 4
+    ? "Die Atmung wird als frei erlebt.<br/>"
+    : b > 7
+    ? "Die Atmung wirkt eingeengt.<br/>"
+    : "Die Atmung zeigt keine klare Tendenz.<br/>";
+
+  pText += bodyV < 4
+    ? "Der Körper wirkt leicht organisiert.<br/>"
+    : bodyV > 7
+    ? "Spannung ist spürbar.<br/>"
+    : "Der Körper zeigt keine klare Tendenz.<br/>";
+
+  pText += att < 4
+    ? "Die Aufmerksamkeit bleibt offen."
+    : att > 7
+    ? "Die Aufmerksamkeit ist gerichtet."
+    : "Die Aufmerksamkeit ist ausgeglichen.";
+
+  perception.innerHTML = pText;
+
+  freeTextOutput.innerHTML = freeText.value
+    ? "„" + freeText.value + "“"
+    : "";
+}
+
+/* Render */
+function render(){
+
+updatePerception();
+
+const canvas = document.getElementById("rsa-canvas");
+
+// System nur wenn Daten da
+if(datasets.length===0) return;
+
+  const last = datasets[datasets.length-1];
+const hr = Math.round(60000/last.avgRR);
+
+// SYSTEM (mit HRV)
+let systemText = "";
+
+if (last.rmssd > 50) {
+  systemText =
+    "Die Herzfrequenz liegt bei etwa " + hr + ".<br/>" +
+    "Die Variabilität ist deutlich ausgeprägt.<br/>" +
+    "Das System wirkt beweglich.";
+}
+else if (last.rmssd > 25) {
+  systemText =
+    "Die Herzfrequenz liegt bei etwa " + hr + ".<br/>" +
+    "Die Variabilität ist vorhanden.<br/>" +
+    "Das System wirkt stabil.";
+}
+else {
+  systemText =
+    "Die Herzfrequenz liegt bei etwa " + hr + ".<br/>" +
+    "Die Variabilität ist reduziert.<br/>" +
+    "Das System wirkt gleichmäßiger organisiert.";
+}
+
+system.innerHTML = systemText;
+
+const wave = last.breathingWave || last.centered;
+
+const phases = findPhases(wave);
+drawSingle(canvas, wave, 2, [], phases);
+
+const rsa = analyzeRSA(last.breathingWave, last.sampleRate);
+const rateEl = document.getElementById("breathing-rate");
+
+if(rsa){
+  rateEl.innerHTML = interpretRSA(rsa);
+} else {
+  rateEl.innerHTML = "";
+}
+
+const b = breathing.value;
+
+let relationText = "";
+
+if (last.rmssd > 50 && b < 4) {
+  relationText =
+    "Eine frei erlebte Atmung und eine hohe Variabilität treten gemeinsam auf.";
+}
+else if (last.rmssd < 25 && b < 4) {
+  relationText =
+    "Als frei erlebte Atmung und eine geringe Variabilität treten gleichzeitig auf.";
+}
+else {
+  relationText =
+    "Wahrnehmung und physiologische Organisation stehen nebeneinander.";
+}
+
+relation.innerHTML = relationText;
+
+
+  /* Verlauf */
+
+if(datasets.length>0){
+
+  compareText.innerHTML = "<p>Verlauf</p>";
+
+  datasets.forEach((d,i)=>{
+
+    const hr = Math.round(60000/d.avgRR);
+
+    // SYSTEM pro Zustand
+let systemText = "";
+
+if (d.rmssd > 50) {
+  systemText = "Variabilität hoch. System beweglich.";
+} else if (d.rmssd > 25) {
+  systemText = "Variabilität vorhanden. System stabil.";
+} else {
+  systemText = "Variabilität reduziert. System gleichmäßiger.";
+}
+
+// WAHRNEHMUNG (wichtig: aktuell global – später Zustand-spezifisch)
+const p = d.perception;
+
+let pText = "";
+
+pText += p.breathing < 4
+  ? "Atmung frei.<br/>"
+  : p.breathing > 7
+  ? "Atmung eingeengt.<br/>"
+  : "Atmung ohne klare Tendenz.<br/>";
+
+pText += p.body < 4
+  ? "Körper leicht.<br/>"
+  : p.body > 7
+  ? "Körper angespannt.<br/>"
+  : "Körper ohne klare Tendenz.<br/>";
+
+pText += p.attention < 4
+  ? "Aufmerksamkeit offen.<br/>"
+  : p.attention > 7
+  ? "Aufmerksamkeit gerichtet.<br/>"
+  : "Aufmerksamkeit ausgeglichen.";
+
+if (p.text) {
+  pText += `<br/>„${p.text}”`;
+};
+
+// BEZIEHUNG
+let relationText = "";
+
+if (d.rmssd > 50) {
+  relationText = "Hohe Variabilität deutet auf Anpassungsfähigkeit.";
+} else {
+  relationText = "Geringere Variabilität zeigt reduzierte Dynamik.";
+}
+
+    const block = document.createElement("div");
+
+    block.innerHTML = `
+  <p><strong>${d.label}</strong></p>
+
+  <p>
+    Herzfrequenz etwa ${hr}<br/>
+    ${systemText}
+  </p>
+
+  <p class="muted">${pText}</p>
+
+  <p class="muted">${relationText}</p>
+
+  <canvas class="mini-canvas" width="600" height="50"></canvas>
+
+  <p class="link remove" data-index="${i}">→ entfernen</p>
+`;
+
+    compareText.appendChild(block);
+
+    const canvas = block.querySelector("canvas");
+
+    const phases = findPhases(d.breathingWave || d.centered);
+    drawSingle(canvas, d.breathingWave || d.centered, 1, [], phases);
+  });
+
+  document.querySelectorAll(".remove").forEach(el=>{
+    el.onclick=(e)=>{
+      datasets.splice(e.target.dataset.index,1);
+      render();
+    };
+  });
+}
+
+
+  /* Übergänge */
+  if(datasets.length>1){
+
+    let html="<p>Übergänge</p>";
+
+    for(let i=1;i<datasets.length;i++){
+      const a=datasets[i-1];
+      const b=datasets[i];
+
+      let text = "";
+
+if (b.avgRR < a.avgRR) {
+  text += "Die Herzfrequenz steigt.<br/>";
+} else {
+  text += "Die Herzfrequenz sinkt.<br/>";
+}
+
+if (b.rmssd < a.rmssd) {
+  text += "Die Variabilität nimmt ab.";
+} else {
+  text += "Die Variabilität nimmt zu.";
+}
+
+html += `<p>${a.label} → ${b.label}<br/>${text}</p>`;
+    }
+
+    transitionsEl.innerHTML=html;
+  }
+}
+
+function analyzeRSA(data, sampleRate){
+
+  const N = data.length;
+
+  const windowed = data.map((v,i)=>{
+    const w = 0.5 * (1 - Math.cos((2*Math.PI*i)/(N-1)));
+    return v * w;
+  });
+
+  let spectrum = [];
+
+  for(let k=0; k<N/2; k++){
+
+    let re = 0;
+    let im = 0;
+
+    for(let n=0; n<N; n++){
+      const angle = (2*Math.PI*k*n)/N;
+      re += windowed[n] * Math.cos(angle);
+      im -= windowed[n] * Math.sin(angle);
+    }
+
+    const power = re*re + im*im;
+    const freq = k * sampleRate / N;
+
+    spectrum.push({ freq, power });
+  }
+
+  // respiratorisches Band
+  const band = spectrum.filter(f => f.freq > 0.1 && f.freq < 0.4);
+
+  if(band.length === 0) return null;
+
+  // Peak
+  band.sort((a,b)=>b.power - a.power);
+  const peak = band[0];
+
+  // Gesamtpower im Band
+  const totalPower = band.reduce((a,b)=>a + b.power, 0);
+
+  // Kohärenz (Peak relativ zur Gesamtenergie)
+  const coherence = peak.power / totalPower;
+
+  return {
+    frequency: peak.freq * 60,     // nur als Lage
+    power: peak.power,
+    coherence
+  };
+}
+
+function interpretRSA(rsa){
+
+  let text = "";
+
+  if (rsa.coherence > 0.6) {
+    text += "Die rhythmische Aktivität ist klar organisiert.<br/>";
+  } else if (rsa.coherence > 0.35) {
+    text += "Eine rhythmische Organisation ist vorhanden, aber variabel.<br/>";
+  } else {
+    text += "Die rhythmische Aktivität wirkt fragmentiert.<br/>";
+  }
+
+  if (rsa.power > 10000) {
+    text += "Die Modulation ist deutlich ausgeprägt.<br/>";
+  } else if (rsa.power > 3000) {
+    text += "Die Modulation ist vorhanden.<br/>";
+  } else {
+    text += "Die Modulation ist gering.<br/>";
+  }
+
+  if (rsa.frequency > 15) {
+    text += "Die Aktivität liegt in einem eher schnellen Bereich.";
+  } else if (rsa.frequency < 6) {
+    text += "Die Aktivität liegt in einem eher langsamen Bereich.";
+  } else {
+    text += "Die Aktivität liegt im typischen respiratorischen Bereich.";
+  }
+
+  return text;
+}
+
+/* Reset */
+document.getElementById("reset-all").onclick=()=>{
+  datasets=[];
+  feedback.innerHTML="";
+  compareText.innerHTML="";
+  transitionsEl.innerHTML="";
+  system.innerHTML="";
+  relation.innerHTML="";
+  freeTextOutput.innerHTML="";
+};
+
+/* Print */
+document.getElementById("print-btn").onclick=()=>window.print();
+</script>

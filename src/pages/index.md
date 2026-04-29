@@ -1,8 +1,9 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
 title: "Holger Gabriel"
+highlight: ""
 subtitle: ""
-avatar: "/Holli_IMG_3811.JPG"
+avatar: "/bilder/Holli_IMG_3811.JPG"
 avatarWidth: "240px"
 avatarHeight: "240px"
 description: "Über Holger Gabriel."
