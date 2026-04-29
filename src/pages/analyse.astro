@@ -11,7 +11,7 @@ import Layout from "../layouts/BaseLayout.astro";
       <!-- INPUT -->
       <section id="input">
         <p>RR-Datei hochladen</p>
-        <input type="file" />
+        <input type="file" id="rrFile" accept=".csv" />
 
         <p>Wahrnehmung</p>
         <input type="range" min="0" max="10" />
@@ -61,11 +61,30 @@ import Layout from "../layouts/BaseLayout.astro";
 </style>
 
 <script>
+  let line1 = "";
+
   const TEXT = {
-    line1: "Die rhythmische Dynamik im Körper ist klar organisiert und deutlich ausgeprägt.",
+    /*line1: "Die rhythmische Dynamik im Körper ist klar organisiert und deutlich ausgeprägt.",*/
     line2: "Zwischen dieser Organisation und deiner wahrgenommenen Atmung besteht Übereinstimmung.",
     line3: "Deine Stimme und diese Dynamik bewegen sich in enger Abstimmung."
   };
+
+  function generateLine1(level, organization) {
+
+    if (level === "hoch" && organization === "hoch") {
+      return "Die rhythmische Dynamik im Körper ist klar organisiert und deutlich ausgeprägt.";
+    }
+
+    if (level === "mittel" && organization === "hoch") {
+      return "Die rhythmische Dynamik im Körper ist klar organisiert und erkennbar ausgeprägt.";
+    }
+
+    if (organization === "niedrig") {
+      return "Die rhythmische Dynamik im Körper wirkt wenig organisiert und nur schwach ausgeprägt.";
+    }
+
+    return "Die rhythmische Dynamik im Körper zeigt eine mittlere Organisation und Ausprägung.";
+}
 
   function wait(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -93,29 +112,286 @@ function readingTime(text) {
   async function showResult() {
     show("result");
 
-    setText("line1", TEXT.line1);
-await wait(readingTime(TEXT.line1));
+    setText("line1", line1);
+    await wait(readingTime(line1));
 
-setText("line2", TEXT.line2);
-await wait(readingTime(TEXT.line2));
+    setText("line2", TEXT.line2);
+    await wait(readingTime(TEXT.line2));
 
-setText("line3", TEXT.line3);
+    setText("line3", TEXT.line3);
 
     show("detailsTrigger");
   }
 
   async function startAnalysis() {
+
+    const fileInput = document.getElementById("rrFile");
+    const file = fileInput.files[0];
+
+    if (!file) {
+      alert("Bitte eine RR-Datei auswählen.");
+      return;
+    }
+
     hide("input");
     show("processing");
+
+    // 👉 RR-Daten einlesen
+    const { headers, data } = await readCSV(file);
+
+    let rrColumn = findRRColumn(headers, data);
+
+    if (!rrColumn) {
+      alert("RR-Spalte nicht automatisch erkannt.");
+      console.log("Spalten:", headers);
+      return;
+    }
+
+      const rrData = extractRR(data, rrColumn);
+
+      console.log("RR Spalte:", rrColumn);
+      console.log("RR Daten:", rrData);
+      
+      const rmssd = calculateRMSSD(rrData);
+      console.log("RMSSD:", rmssd);
+
+      const level = classifyRMSSD(rmssd);
+      console.log("Level:", level);
+
+      const ratio = estimateRhythmicity(rrData);
+      console.log("Rhythm ratio:", ratio);
+
+      const organization = classifyOrganizationSimple(ratio);
+      console.log("Organisation:", organization);
+
+      console.log("Organisation:", organization);
+
+      line1 = generateLine1(level, organization);
+
 
     await wait(1200);
 
     hide("processing");
 
-    hide("result");
-
     await showResult();
   }
+
+  async function readCSV(file) {
+    const text = await file.text();
+
+    const rows = text.trim().split("\n");
+
+    const headers = rows[0].split(",").map(h => h.trim());
+
+    const data = rows.slice(1).map(row => {
+    const values = row.split(",");
+    return Object.fromEntries(
+      headers.map((h, i) => [h, values[i]])
+    );
+  });
+
+  return { headers, data };
+}
+
+function findRRColumn(headers, data) {
+
+  // typische Namen zuerst
+  const preferred = ["rr", "rr_ms", "ibi", "rr_interval"];
+
+  for (const p of preferred) {
+    const found = headers.find(h => h.toLowerCase() === p);
+    if (found) return found;
+  }
+
+  // 👉 intelligente Erkennung über Werte
+  for (const h of headers) {
+
+    const values = data
+      .slice(0, 50)
+      .map(row => parseFloat(row[h]))
+      .filter(v => !isNaN(v));
+
+    if (values.length < 10) continue;
+
+    const avg = values.reduce((a, b) => a + b, 0) / values.length;
+
+    // RR typisch: 300–2000 ms
+    if (avg > 300 && avg < 2000) {
+      return h;
+    }
+  }
+
+  return null;
+}
+
+function extractRR(data, column) {
+  return data
+    .map(row => parseFloat(row[column]))
+    .filter(v => !isNaN(v));
+}
+
+function calculateRMSSD(rr) {
+  if (rr.length < 2) return null;
+
+  let sum = 0;
+
+  for (let i = 1; i < rr.length; i++) {
+    const diff = rr[i] - rr[i - 1];
+    sum += diff * diff;
+  }
+
+  const mean = sum / (rr.length - 1);
+  return Math.sqrt(mean);
+}
+
+function classifyRMSSD(rmssd) {
+  if (rmssd === null) return "unbekannt";
+
+  if (rmssd > 40) return "hoch";
+  if (rmssd > 20) return "mittel";
+  return "niedrig";
+}
+
+/*function interpolateRR(rr) {
+
+  let time = [0];
+  for (let i = 1; i < rr.length; i++) {
+    time[i] = time[i - 1] + rr[i] / 1000;
+  }
+
+  const dt = 0.25; // 4 Hz Sampling
+  const newTime = [];
+  const newRR = [];
+
+  let t = 0;
+  let i = 0;
+
+  while (t < time[time.length - 1]) {
+
+    while (i < time.length - 1 && time[i + 1] < t) {
+      i++;
+    }
+
+    const t1 = time[i];
+    const t2 = time[i + 1];
+    const v1 = rr[i];
+    const v2 = rr[i + 1];
+
+    const frac = (t - t1) / (t2 - t1);
+    const v = v1 + frac * (v2 - v1);
+
+    newTime.push(t);
+    newRR.push(v);
+
+    t += dt;
+  }
+
+  return newRR;
+}*/
+
+/*function computeFFT(signal) {
+
+  const N = signal.length;
+  const re = new Array(N).fill(0);
+  const im = new Array(N).fill(0);
+
+  for (let k = 0; k < N; k++) {
+    for (let n = 0; n < N; n++) {
+      const angle = (2 * Math.PI * k * n) / N;
+      re[k] += signal[n] * Math.cos(angle);
+      im[k] -= signal[n] * Math.sin(angle);
+    }
+  }
+
+  return re.map((r, i) => Math.sqrt(r*r + im[i]*im[i]));
+}*/
+
+/*function analyzeBreathingBand(signal, fs = 4) {
+
+  const fft = computeFFT(signal);
+  const N = fft.length;
+
+  let maxPower = 0;
+  let maxIndex = 0;
+
+  // Peak finden (nur 0.1–0.4 Hz)
+  for (let i = 1; i < N/2; i++) {
+
+    const freq = (i * fs) / N;
+    const power = fft[i];
+
+    if (freq >= 0.1 && freq <= 0.4) {
+      if (power > maxPower) {
+        maxPower = power;
+        maxIndex = i;
+      }
+    }
+  }
+
+  // 🔥 lokale Energie um den Peak
+  let localPower = 0;
+  let totalPower = 0;
+
+  for (let i = 1; i < N/2; i++) {
+
+    const freq = (i * fs) / N;
+    const power = fft[i];
+
+    // nur physiologisches Band
+    if (freq >= 0.04 && freq <= 0.4) {
+
+      totalPower += power;
+
+      // Umgebung des Peaks (±2 Indizes)
+      if (Math.abs(i - maxIndex) <= 2) {
+        localPower += power;
+      }
+    }
+  }
+
+  const coherence = localPower / totalPower;
+  const maxFreq = (maxIndex * fs) / N;
+
+  return { maxFreq, maxPower, coherence };
+}*/
+
+/*function classifyOrganization(coherence) {
+
+  if (coherence > 0.3) return "hoch";
+  if (coherence > 0.15) return "mittel";
+  return "niedrig";
+}*/
+
+function estimateRhythmicity(rr) {
+
+  let diffs = [];
+
+  for (let i = 1; i < rr.length; i++) {
+    diffs.push(Math.abs(rr[i] - rr[i-1]));
+  }
+
+  const mean = diffs.reduce((a,b)=>a+b,0)/diffs.length;
+
+  const variance = diffs
+    .map(d => (d - mean) ** 2)
+    .reduce((a,b)=>a+b,0) / diffs.length;
+
+  const std = Math.sqrt(variance);
+
+  // Verhältnis: Streuung vs. Mittel
+  const ratio = std / mean;
+
+  return ratio;
+}
+
+function classifyOrganizationSimple(ratio) {
+  if (ratio < 0.5) return "hoch";
+  if (ratio < 1) return "mittel";
+  return "niedrig";
+}
+
+
+
 
   document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("startBtn")
@@ -127,10 +403,6 @@ setText("line3", TEXT.line3);
     });
 });
 
-  document.getElementById("detailsTrigger")
-    .addEventListener("click", () => {
-      show("details");
-    });
 </script>
 
 </Layout>
