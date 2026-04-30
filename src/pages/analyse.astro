@@ -104,10 +104,10 @@ import Layout from "../layouts/BaseLayout.astro";
     document.getElementById(id).hidden = true;
   }
 
-function readingTime(text) {
+  function readingTime(text) {
   const words = text.split(" ").length;
   return words * 200;
-}
+  }
 
   async function showResult() {
     show("result");
@@ -164,7 +164,22 @@ function readingTime(text) {
       const organization = classifyOrganizationSimple(ratio);
       console.log("Organisation:", organization);
 
-      console.log("Organisation:", organization);
+
+      // 👉 FFT im Hintergrund mitlaufen lassen
+
+      const interpolated = interpolateRR(rrData);
+
+      const mean = interpolated.reduce((a, b) => a + b, 0) / interpolated.length;
+      const centered = interpolated.map(v => v - mean);
+
+      const { maxFreq, coherence } = analyzeBreathingBand(centered);
+
+      const organization_fft = classifyOrganization(coherence);
+
+  console.log("Freq:", maxFreq);
+  console.log("Coherence:", coherence);
+
+  console.log("Organisation (FFT):", organization_fft);
 
       line1 = generateLine1(level, organization);
 
@@ -191,9 +206,9 @@ function readingTime(text) {
   });
 
   return { headers, data };
-}
+  }
 
-function findRRColumn(headers, data) {
+  function findRRColumn(headers, data) {
 
   // typische Namen zuerst
   const preferred = ["rr", "rr_ms", "ibi", "rr_interval"];
@@ -222,15 +237,15 @@ function findRRColumn(headers, data) {
   }
 
   return null;
-}
-
-function extractRR(data, column) {
+  }
+  function extractRR(data, column) {
   return data
     .map(row => parseFloat(row[column]))
-    .filter(v => !isNaN(v));
-}
+    .filter(v => !isNaN(v) && v > 0);
+  }
 
-function calculateRMSSD(rr) {
+
+  function calculateRMSSD(rr) {
   if (rr.length < 2) return null;
 
   let sum = 0;
@@ -242,17 +257,65 @@ function calculateRMSSD(rr) {
 
   const mean = sum / (rr.length - 1);
   return Math.sqrt(mean);
-}
+  }
+  function estimateRhythmicity(rr) {
 
-function classifyRMSSD(rmssd) {
+  let diffs = [];
+
+  for (let i = 1; i < rr.length; i++) {
+    diffs.push(Math.abs(rr[i] - rr[i-1]));
+  }
+
+  const mean = diffs.reduce((a,b)=>a+b,0)/diffs.length;
+
+  const variance = diffs
+    .map(d => (d - mean) ** 2)
+    .reduce((a,b)=>a+b,0) / diffs.length;
+
+  const std = Math.sqrt(variance);
+
+  // Verhältnis: Streuung vs. Mittel
+  if (mean === 0) return 0;
+    const ratio = std / mean;
+
+  return ratio;
+  }
+
+
+  function classifyRMSSD(rmssd) {
   if (rmssd === null) return "unbekannt";
 
   if (rmssd > 40) return "hoch";
   if (rmssd > 20) return "mittel";
   return "niedrig";
-}
+  }
+  function classifyOrganizationSimple(ratio) {
+  if (ratio < 0.5) return "hoch";
+  if (ratio < 1) return "mittel";
+  return "niedrig";
+  }
 
-/*function interpolateRR(rr) {
+
+
+
+  document.addEventListener("DOMContentLoaded", () => {
+  document.getElementById("startBtn")
+    .addEventListener("click", startAnalysis);
+
+  document.getElementById("detailsTrigger")
+    .addEventListener("click", () => {
+      show("details");
+    });
+  });
+  function classifyOrganization(coherence) {
+
+  if (coherence > 0.3) return "hoch";
+  if (coherence > 0.15) return "mittel";
+  return "niedrig";
+  }
+
+
+  function interpolateRR(rr) {
 
   let time = [0];
   for (let i = 1; i < rr.length; i++) {
@@ -287,9 +350,8 @@ function classifyRMSSD(rmssd) {
   }
 
   return newRR;
-}*/
-
-/*function computeFFT(signal) {
+  }
+  function computeFFT(signal) {
 
   const N = signal.length;
   const re = new Array(N).fill(0);
@@ -304,9 +366,8 @@ function classifyRMSSD(rmssd) {
   }
 
   return re.map((r, i) => Math.sqrt(r*r + im[i]*im[i]));
-}*/
-
-/*function analyzeBreathingBand(signal, fs = 4) {
+  }
+  function analyzeBreathingBand(signal, fs = 4) {
 
   const fft = computeFFT(signal);
   const N = fft.length;
@@ -349,59 +410,11 @@ function classifyRMSSD(rmssd) {
     }
   }
 
-  const coherence = localPower / totalPower;
+  const coherence = totalPower > 0 ? localPower / totalPower : 0;
   const maxFreq = (maxIndex * fs) / N;
 
   return { maxFreq, maxPower, coherence };
-}*/
-
-/*function classifyOrganization(coherence) {
-
-  if (coherence > 0.3) return "hoch";
-  if (coherence > 0.15) return "mittel";
-  return "niedrig";
-}*/
-
-function estimateRhythmicity(rr) {
-
-  let diffs = [];
-
-  for (let i = 1; i < rr.length; i++) {
-    diffs.push(Math.abs(rr[i] - rr[i-1]));
   }
-
-  const mean = diffs.reduce((a,b)=>a+b,0)/diffs.length;
-
-  const variance = diffs
-    .map(d => (d - mean) ** 2)
-    .reduce((a,b)=>a+b,0) / diffs.length;
-
-  const std = Math.sqrt(variance);
-
-  // Verhältnis: Streuung vs. Mittel
-  const ratio = std / mean;
-
-  return ratio;
-}
-
-function classifyOrganizationSimple(ratio) {
-  if (ratio < 0.5) return "hoch";
-  if (ratio < 1) return "mittel";
-  return "niedrig";
-}
-
-
-
-
-  document.addEventListener("DOMContentLoaded", () => {
-  document.getElementById("startBtn")
-    .addEventListener("click", startAnalysis);
-
-  document.getElementById("detailsTrigger")
-    .addEventListener("click", () => {
-      show("details");
-    });
-});
 
 </script>
 
