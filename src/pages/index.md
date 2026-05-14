@@ -10,11 +10,13 @@ description: "Über Holger Gabriel."
 ---
 Ich habe erst spät begonnen, zu singen.
 
-Mit der Zeit ist für mich ein Zugang entstanden, der beim Körper ansetzt – nicht bei der Technik.
+Mit der Zeit ist daraus ein Zugang entstanden, der Stimme nicht isoliert betrachtet, sondern im Zusammenhang von Körper, Wahrnehmung und Leben.
 
 Der Körper reagiert.  
 Er passt sich an.  
 Und er hat Grenzen.
+
+Singen betrifft dabei nicht nur die Stimme selbst, sondern bewegt den ganzen Menschen: Kraftvoll, empfindsam, einfach.
 
 Beim Üben geht es weniger darum, etwas zu erzwingen, als darum, Bedingungen zu schaffen, unter denen sich die Stimme entwickeln kann.
 
