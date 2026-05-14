@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: "Physiologie – verstehen, um leichter zu singen"
+title: "Stimme und Organismus"
 subtitle: ""
 description: " "
 ---
@@ -13,12 +13,13 @@ Sie können in der angegebenen Reihenfolge gelesen werden, bauen aber nicht zwin
 3. [Atmung und Ton](/physiologie/unterseite_2)
 4. [Spannung und Leichtigkeit](/physiologie/unterseite_3)
 5. [Stimme als Entwicklung](/physiologie/unterseite_4)
-6. [Häufige Missverständnisse](/physiologie/unterseite_5)
-7. [Singen im Alltag](/physiologie/unterseite_6)
-8. [Wie man übt](/physiologie/unterseite_7)
-9. [Bezüge zur Sportmedizin](/physiologie/nutzung)
-10. [Nutzung dieser Seiten](/physiologie/nutzung)
-11. [Einordnung dieser Seite](/physiologie/keinangebot)
+6. [Regulation und Übergänge](/physiologie/regulation_und_uebergaenge)
+7. [Häufige Missverständnisse](/physiologie/unterseite_5)
+8. [Singen im Alltag](/physiologie/unterseite_6)
+9. [Wie man übt](/physiologie/unterseite_7)
+10. [Bezüge zur Sportmedizin](/physiologie/nutzung)
+11. [Nutzung dieser Seiten](/physiologie/nutzung)
+12. [Einordnung dieser Seite](/physiologie/keinangebot)
 
 ---
 
