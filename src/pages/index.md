@@ -16,7 +16,9 @@ Der Körper reagiert.
 Er passt sich an.  
 Und er hat Grenzen.
 
-Singen betrifft dabei nicht nur die Stimme selbst, sondern bewegt den ganzen Menschen: Kraftvoll, empfindsam, einfach.
+Singen betrifft dabei nicht nur die Stimme selbst, sondern bewegt den ganzen Menschen: 
+
+Kraftvoll, empfindsam, einfach.
 
 Beim Üben geht es weniger darum, etwas zu erzwingen, als darum, Bedingungen zu schaffen, unter denen sich die Stimme entwickeln kann.
 
