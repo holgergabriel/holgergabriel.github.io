@@ -42,6 +42,6 @@ Sie möchte Zusammenhänge verständlich machen, die oft unnötig kompliziert er
 
 Wenn Sie sich für das Singen interessieren oder Ihre Stimme entwickeln möchten, können Sie hier beginnen:
 
-- [Physiologie – verstehen, um leichter zu singen](/physiologie/)
+- [Stimme und Organismus](/physiologie/)
 
 Vielleicht entsteht daraus kein fester Weg, sondern eine Orientierung.
