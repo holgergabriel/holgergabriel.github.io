@@ -120,6 +120,16 @@ hr {
 }
 
 /* =============================================
+   WRITING SPACES
+   ============================================= */
+
+.writing-space {
+  height: 2.2rem;
+  border-bottom: 1px solid var(--color-border);
+  margin-bottom: 1.4rem;
+}
+
+/* =============================================
    LAYOUT UTILITIES
    ============================================= */
 .container {
@@ -133,6 +143,10 @@ hr {
   flex: 1;
   padding-top: var(--space-xl);
   padding-bottom: var(--space-2xl);
+}
+
+.page-break {
+  page-break-before: always;
 }
 
 /* =============================================
@@ -422,6 +436,40 @@ section[data-footnotes] ol li {
   margin-bottom: var(--space-md);
   line-height: 1.4;
 }
+
+/* =============================================
+   DOWNLOAD LINKS
+   ============================================= */
+
+.download-links {
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+.download-links a {
+  display: block;
+  width: fit-content;
+  margin-bottom: 0.9rem;
+
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-border);
+
+  padding-bottom: 0.08rem;
+
+  color: var(--color-text-muted);
+
+  transition:
+    opacity var(--transition-fast),
+    border-color var(--transition-fast),
+    color var(--transition-fast);
+}
+
+.download-links a:hover {
+  opacity: 1;
+  color: var(--color-text);
+  border-color: var(--color-text-muted);
+}
+
 
 /* =============================================
    FINAL MOBILE REFINEMENT
