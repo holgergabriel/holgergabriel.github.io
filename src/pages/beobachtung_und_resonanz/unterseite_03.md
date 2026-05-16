@@ -6,8 +6,10 @@ subtitle: " "
 description: " "
 ----------------
 
+<div class="section-break">
+  Ein erster Anfang
+</div>
 
-## Ein erster Anfang
 
 Ein Resonanzbuch muss nicht vollständig sein.
 
@@ -28,7 +30,9 @@ Es genügt oft,
 mit wenigen Worten zu beginnen.
 
 
-## Eine mögliche erste Frage
+<div class="section-break">
+  Eine mögliche erste Frage
+</div> 
 
 Zum Beispiel:
 
@@ -43,7 +47,9 @@ Oder:
 > Was hat sich heute verändert?
 
 
-## Eine einfache Form
+<div class="section-break">
+  Eine einfache Form
+</div> 
 
 Für manche Menschen genügt zunächst:
 - ein Blatt Papier,
@@ -58,7 +64,9 @@ sondern eine Form,
 die im Alltag ruhig und tragfähig bleibt.
 
 
-## Erste Vorlagen
+<div class="section-break">
+  Erste Vorlagen
+</div> 
 
 Diese Webseite wird schrittweise einfache Vorlagen und praktische Hilfen zur Verfügung stellen.
 
@@ -81,7 +89,9 @@ Wahrnehmung
 und Orientierung.
 
 
-## Eigene Wege sichtbar machen
+<div class="section-break">
+  Eigene Wege sichtbar machen
+</div> 
 
 Mit der Zeit können aus einzelnen Beobachtungen Zusammenhänge entstehen.
 
@@ -100,7 +110,9 @@ sondern auch als Möglichkeit,
 eine persönliche Wahrnehmungs- und Resonanzgeschichte sichtbar werden zu lassen.
 
 
-## Graphische Wegdarstellungen
+<div class="section-break">
+  Graphische Wegdarstellungen
+</div> 
 
 Die Webseite wird schrittweise Möglichkeiten entwickeln,
 eigene Wege und Entwicklungen graphisch darzustellen.
@@ -131,7 +143,9 @@ die hilft:
 und Erfahrungen mit anderen Menschen leichter zu teilen.
 
 
-## Begleitung
+<div class="section-break">
+  Begleitung
+</div> 
 
 Die einzelnen Angebote dieser Seiten verstehen sich als Formen der Begleitung.
 

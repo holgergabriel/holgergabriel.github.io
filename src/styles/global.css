@@ -84,7 +84,7 @@ a:hover {
    TYPOGRAPHY
    ============================================= */
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-ui);
+  font-family: var(--font-sans);
   font-weight: 600;
   line-height: 1.3;
   color: var(--color-text);
@@ -149,6 +149,7 @@ hr {
   page-break-before: always;
 }
 
+
 /* =============================================
    SECTION UTILITY CLASSES
    ============================================= */
@@ -159,13 +160,30 @@ hr {
 .section-title {
   font-family: var(--font-ui);
   font-size: 0.75rem;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--color-text-muted);
   margin-bottom: var(--space-lg);
   padding-bottom: var(--space-sm);
   border-bottom: 1px solid var(--color-border);
+}
+
+.section-break {
+  font-family: var(--font-sans);
+
+  font-size: clamp(1.45rem, 2.6vw, 2.1rem);
+
+  font-weight: 400;
+
+  line-height: 1.12;
+
+  letter-spacing: -0.015em;
+
+  margin-top: 4.5rem;
+  margin-bottom: 2rem;
+
+  color: var(--color-text);
 }
 
 /* =============================================
@@ -240,6 +258,28 @@ h2 {
   margin-top: var(--space-lg);
   margin-bottom: var(--space-md);
 }
+
+/* =============================================
+   Resonance path styling
+   ============================================= */
+.resonance-path {
+  font-family: var(--font-sans);
+
+  font-size: 1.2rem;
+
+  line-height: 2.3;
+
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+
+  padding-left: 1.5rem;
+
+  color: var(--color-text);
+
+  max-width: 32ch;
+}
+
+
 
 /* =============================================
    IMAGE + TEXT FLOW (Float Layout)

@@ -6,6 +6,9 @@ subtitle: " "
 description: " "
 ----------------
 
+<div class="section-break">
+  Ein Buch öffnen
+</div> 
 
 Singen geschieht nicht nur im Moment.
 
@@ -36,7 +39,9 @@ beobachtet
 und reflektiert werden können.
 
 
-## Ausgangspunkt ist die eigene Wahrnehmung
+<div class="section-break">
+  Ausgangspunkt ist die eigene Wahrnehmung
+</div> 
 
 Viele Sängerinnen und Sänger kennen Erfahrungen wie:
 
@@ -64,7 +69,9 @@ beschäftigt
 oder besser verstehen möchten.
 
 
-## Wahrnehmung darf zunächst stehen bleiben
+<div class="section-break">
+  Wahrnehmung darf zunächst stehen bleiben
+</div> 
 
 Nicht jede Wahrnehmung muss sofort erklärt werden.
 
@@ -84,7 +91,9 @@ Dabei geht es nicht um „richtig“ oder „falsch“.
 Die eigene Wahrnehmung bildet den Ausgangspunkt weiterer Beobachtung.
 
 
-## Beobachtung ergänzen
+<div class="section-break">
+  Beobachtung ergänzen
+</div> 
 
 Manche Menschen möchten bestimmte Erfahrungen genauer beobachten.
 
@@ -119,7 +128,9 @@ wird unmittelbar gespürt.
 Beides gehört zusammen.
 
 
-## Ein möglicher erster Zugang
+<div class="section-break">
+  Ein möglicher erster Zugang
+</div> 
 
 Manche Menschen beginnen mit wenigen Minuten Aufmerksamkeit
 vor oder nach dem Singen.
@@ -145,7 +156,9 @@ Weitere Beobachtungen können später hinzukommen,
 wenn sie hilfreich werden.
 
 
-## Über die Zeit verstehen
+<div class="section-break">
+  Über die Zeit verstehen
+</div> 
 
 Manche Zusammenhänge werden erst über längere Zeiträume sichtbar.
 
@@ -167,7 +180,9 @@ Umgangsmöglichkeiten
 und Wandlungsfähigkeit.
 
 
-## Grundfragen des menschlichen Lebensvollzugs
+<div class="section-break">
+  Grundfragen des menschlichen Lebensvollzugs
+</div> 
 
 Im Hintergrund stehen einfache,
 aber grundlegende Fragen:
@@ -192,7 +207,9 @@ nicht nur Funktionen,
 sondern auch die eigene Lebenssituation und den eigenen Umgang mit dem Singen wahrzunehmen.
 
 
-## Resonanz und Begegnung
+<div class="section-break">
+  Resonanz und Begegnung
+</div> 
 
 Manche Erfahrungen lassen sich leichter verstehen,
 wenn sie gemeinsam betrachtet werden.
@@ -211,7 +228,9 @@ Orientierung
 und menschenangemessenen Umgang mit dem eigenen Singen.
 
 
-## Kein fertiges Bild
+<div class="section-break">
+  Kein fertiges Bild
+</div> 
 
 Der Mensch bleibt wandelbar.
 

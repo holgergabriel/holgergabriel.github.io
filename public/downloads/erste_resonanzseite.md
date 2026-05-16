@@ -1,5 +1,9 @@
 # ERSTE RESONANZSEITE
 
+Ort: ____________________
+
+Datum: __________________
+
 ## Stimme. Wahrnehmung. Resonanz.
 
 Diese Seite versteht sich als möglicher erster Zugang zum Resonanzbuch.
@@ -15,9 +19,9 @@ Oft genügt zunächst:
 > Nicht Vollständigkeit,
 > sondern Aufmerksamkeit steht im Mittelpunkt.
 
+<div style="height: 2.2rem; border-bottom: 1px solid #FFFFFF; margin-bottom: 1.4rem;"></div>
 
-
-## VOR DEM SINGEN
+## Ankommen
 
 ### Wie komme ich heute hier an?
 
@@ -35,14 +39,12 @@ Zum Beispiel:
 <div style="height: 2.2rem; border-bottom: 1px solid #D8D0C4; margin-bottom: 1.4rem;"></div>
 
 
-## HEUTE WICHTIG
 <div style="page-break-before: always;"></div>
+<div style="height: 2rem;"></div>
 
 
 
-## STIMME UND KÖRPER
-
-### Was nehme ich im Moment wahr?
+### Was nehme ich im Moment von Stimme und Körper wahr?
 
 Zum Beispiel:
 - Stimme
@@ -62,9 +64,6 @@ Zum Beispiel:
 <div style="height: 2.2rem; border-bottom: 1px solid #D8D0C4; margin-bottom: 1.4rem;"></div>
 
 
-
-## HEUTE WICHTIG
-<div style="page-break-before: always;"></div>
 
 ### Gibt es etwas, das heute für das Singen bedeutsam erscheint?
 
@@ -86,6 +85,9 @@ Zum Beispiel:
 <div style="height: 2.2rem; border-bottom: 1px solid #D8D0C4; margin-bottom: 1.4rem;"></div>
 <div style="height: 2.2rem; border-bottom: 1px solid #D8D0C4; margin-bottom: 1.4rem;"></div>
 
+
+<div style="page-break-before: always;"></div>
+<div style="height: 2rem;"></div>
 
 ## NACH DEM SINGEN
 
@@ -111,7 +113,7 @@ Zum Beispiel:
 
 
 
-## WAS KLINGT NACH?
+### Was klingt nach?
 
 Vielleicht:
 - ein Ton,
@@ -130,6 +132,9 @@ Vielleicht:
 
 
 
+<div style="page-break-before: always;"></div>
+<div style="height: 2rem;"></div>
+
 ## OPTIONALE BEOBACHTUNGEN
 
 Zum Beispiel:
@@ -137,9 +142,9 @@ Zum Beispiel:
 - Tageszeit
 - Atembeobachtungen
 - Audioaufnahmen
-- RR-Zeiten
+- Herzschlagfolge (Herzratenvariabilität)
 - besondere körperliche Veränderungen
-- Erholung oder Belastung
+- Erholung, Beanspruchung oder Belastung
 
 
 ### Eigene Notizen
@@ -150,7 +155,7 @@ Zum Beispiel:
 
 
 
-Einzelne Einträge müssen zunächst nichts erklären.
+## Einzelne Einträge müssen zunächst nichts erklären.
 
 Oft werden Zusammenhänge erst über längere Zeiträume sichtbar:
 - Veränderungen,
@@ -159,5 +164,7 @@ Oft werden Zusammenhänge erst über längere Zeiträume sichtbar:
 - neue Zugänge,
 - Resonanzmomente
 - oder Veränderungen des Umgangs mit dem eigenen Singen.
+
+<div style="height: 2.2rem; border-bottom: 1px solid #FFFFFF; margin-bottom: 2.8rem;"></div>
 
 > Der eigene Weg entsteht oft erst im Gehen.

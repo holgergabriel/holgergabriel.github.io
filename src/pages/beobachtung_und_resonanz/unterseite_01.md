@@ -29,7 +29,9 @@ sondern zur Reflexion,
 zum besseren Verstehen
 und zur menschenangemessenen Gestaltung des Singens im Alltag.
 
-## Worum es hier geht
+<div class="section-break">
+  Ein Buch öffnen
+</div>  Worum es hier geht
 
 Singen ist ein leiblicher Vollzug.
 
@@ -64,7 +66,9 @@ sondern:
 und der praktische Lebensvollzug singender Menschen.
 
 
-## Wahrnehmung und Beobachtung
+<div class="section-break">
+  Wahrnehmung und Beobachtung
+</div>  
 
 Die Wahrnehmung des Menschen bleibt Ausgangspunkt.
 
@@ -89,7 +93,9 @@ und
 - dienlich.
 
 
-## Die Grundbewegung
+<div class="section-break">
+  Die Grundbewegung
+</div>  
 
 Wahrnehmung  
 ↓  
@@ -111,7 +117,9 @@ Nicht Kontrolle,
 sondern Orientierung steht im Mittelpunkt.
 
 
-## Was hier möglich ist
+<div class="section-break">
+  Was hier möglich ist
+</div>  
 
 Mögliche Zugänge dieser Seiten sind:
 - subjektive Reflexion,
@@ -127,7 +135,9 @@ Die einzelnen Methoden verstehen sich dabei nicht als Diagnostik,
 sondern als Formen aufmerksam geleiteter Beobachtung.
 
 
-## Der singende Mensch ist mehr als seine Funktionen
+<div class="section-break">
+  Der singende Mensch ist mehr als seine Funktionen
+</div>  
 
 Atmung,
 Stimme,

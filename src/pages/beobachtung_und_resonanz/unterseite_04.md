@@ -5,9 +5,10 @@ subtitle: " "
 description: " "
 ---
 
-# Erste Resonanzseite
+<div class="section-break">
+  Ein ruhiger erster Schritt
+</div>
 
-## Ein ruhiger erster Schritt
 
 Diese Seite versteht sich als möglicher erster Zugang zum Resonanzbuch.
 
@@ -28,9 +29,10 @@ Sie sollen helfen,
 Aufmerksamkeit zu sammeln
 und erste Zusammenhänge wahrzunehmen.
 
----
+<div class="section-break">
+  Die erste Resonanzseite nutzen
+</div>
 
-# Die erste Resonanzseite nutzen
 
 Manche Menschen nutzen diese Seite direkt digital.
 Andere drucken sie aus oder übernehmen einzelne Fragen in ein eigenes Heft oder Dokument.
@@ -48,8 +50,9 @@ wenige Worte festzuhalten.
 Nicht Vollständigkeit,
 sondern Aufmerksamkeit steht im Mittelpunkt.
 
-
-## Downloadmöglichkeiten
+<div class="section-break">
+  Downloadmöglichkeiten
+</div>
 
 <div class="download-links">
 
@@ -59,11 +62,10 @@ PDF herunterladen
 
 </div>
 
----
+<div class="section-break">
+  Vor dem Singen
+</div>
 
-# Erste Resonanzseite
-
-## Vor dem Singen
 
 ### Wie komme ich heute hier an?
 
@@ -82,7 +84,10 @@ Freier Raum für eigene Worte:
 
 ---
 
-## Stimme und Körper
+<div class="section-break">
+  Stimme und Körper
+</div>
+
 
 Was nehme ich im Moment wahr?
 
@@ -104,10 +109,11 @@ Freier Raum:
 
 ---
 
-## Heute wichtig
+<div class="section-break">
+  Heute wichtig
+</div>
 
-Gibt es etwas,
-das heute für das Singen bedeutsam erscheint?
+Gibt es etwas, das heute für das Singen bedeutsam erscheint?
 
 Zum Beispiel:
 - Alltag
@@ -128,7 +134,9 @@ Freier Raum:
 
 ---
 
-## Nach dem Singen
+<div class="section-break">
+  Nach dem Singen
+</div>
 
 ### Was hat sich verändert?
 
@@ -151,7 +159,9 @@ Freier Raum:
 
 ---
 
-## Was klingt nach?
+<div class="section-break">
+  Was klingt nach?
+</div>
 
 Vielleicht:
 - ein Ton,
@@ -170,7 +180,9 @@ Freier Raum:
 
 ---
 
-## Mögliche ergänzende Beobachtungen
+<div class="section-break">
+  Mögliche ergänzende Beobachtungen
+</div>
 
 Manche Menschen möchten zusätzlich einzelne Beobachtungen festhalten.
 
@@ -187,9 +199,11 @@ Dies ist freiwillig.
 
 Nicht jede Beobachtung ist in jeder Situation hilfreich.
 
----
 
-# Über die Zeit
+<div class="section-break">
+  Über die Zeit
+</div>
+
 
 Einzelne Einträge müssen zunächst nichts erklären.
 
@@ -202,9 +216,10 @@ Oft werden Zusammenhänge erst über längere Zeiträume sichtbar:
 - Phasen größerer Resonanz
 oder Veränderungen des Umgangs mit dem eigenen Singen.
 
----
 
-# Kein richtig oder falsch
+<div class="section-break">
+  Kein richtig oder falsch
+</div>
 
 Das Resonanzbuch dient nicht der Bewertung.
 
@@ -215,13 +230,15 @@ Wichtiger ist:
 - Aufmerksamkeit,
 - Wahrnehmung,
 - Offenheit
+
 und ein menschenangemessener Umgang mit dem eigenen Singen.
 
----
-
-# Weitergehen
+<div class="section-break">
+  Weitergehen
+</div>
 
 Mit der Zeit können weitere Formen der Beobachtung hinzukommen:
+
 - Resonanzseiten über mehrere Tage oder Wochen,
 - Atem- und Rhythmusbeobachtungen,
 - Audioaufnahmen,
