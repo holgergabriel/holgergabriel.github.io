@@ -61,60 +61,57 @@ Sie zeigt eher:
 - Öffnungen
 oder neue Möglichkeiten.
 
-Zum Beispiel:
+<p class="example-label">
+Eine mögliche Resonanzskizze:
+</p>
+
+<p class="example-label">
+Eine mögliche Resonanzskizze:
+</p>
 
 <div class="resonance-path">
-Unsicherheit
-    →
-Begegnung
-    →
-vorsichtiges Vertrauen
-</div>
 
-<div class="resonance-path">
-Unsicherheit  
-→ Begegnung  
-→ vorsichtiges Vertrauen  
-→ Krise  
-→ neuer Zugang
-</div>
+erste Freude
 
-<div class="resonance-path">
-Freude am Singen
-        ↓
+↓
+
+gemeinsames Singen
+
+↓
+
+Überforderung
+
+↓
 
 Pause
 
-        ↓
+↓
 
 anderer Zugang
+
 </div>
 
+<p class="example-label">
 Oder:
+</p>
 
 <div class="resonance-path">
-erste Freude
-      ↓
-gemeinsames Singen
-      ↓
-Überforderung
-      ↓
-Pause
-      ↓
-anderes Verhältnis zur Stimme
+
+Unsicherheit
+
+→ Begegnung
+
+→ vorsichtiges Vertrauen
+
+→ Krise
+
+→ neuer Zugang
+
 </div>
 
 
-Oder:
 
-<div class="resonance-path">
-Unsicherheit  
-→ Körper  
-→ Stimme  
-→ Wahrnehmung  
-→ Beziehung
-→ neues Singen
-</div>
+<p class="example-label">
 
 ---
 
