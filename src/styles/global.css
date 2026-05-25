@@ -1,0 +1,178 @@
+@import "./variables.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-background);
+
+  background-image:
+    radial-gradient(
+      circle at top left,
+      rgba(255,255,255,0.35),
+      transparent 40%
+    );
+
+  color: var(--color-text);
+
+  font-family: var(--font-sans);
+  line-height: var(--line-height);
+
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  width: 100%;
+}
+
+section {
+  padding:
+    var(--space-section)
+    2rem;
+}
+
+
+/* HERO */
+
+.hero {
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+
+  width: 100%;
+
+  padding-left: clamp(2rem, 10vw, 12rem);
+  padding-right: 2rem;
+
+  padding-bottom: 18vh;
+}
+
+.origin {
+  font-size: 0.9rem;
+
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+
+  color: var(--color-muted);
+
+  margin-bottom: 2rem;
+
+  opacity: 0.7;
+}
+
+.hero h1 {
+  font-family: var(--font-serif);
+
+  font-size: clamp(3rem, 7vw, 6rem);
+
+  font-weight: 300;
+
+  line-height: 1.1;
+
+  max-width: 12ch;
+
+  margin-bottom: 3.5rem;
+}
+
+.hero p {
+  max-width: 30rem;
+
+  font-size: 1.25rem;
+
+  color: var(--color-muted);
+
+  line-height: 2.15;
+}
+
+
+/* BREATHING SPACE */
+
+.breathing-space {
+  height: 25vh;
+}
+
+
+/* PHILOSOPHY */
+
+.philosophy {
+  min-height: 80vh;
+
+  display: flex;
+  align-items: center;
+
+  width: 100%;
+
+  padding-left: clamp(2rem, 10vw, 12rem);
+  padding-right: 2rem;
+}
+
+.text-block {
+  max-width: 42rem;
+}
+
+.text-block p {
+  font-size: 1.2rem;
+
+  line-height: 2;
+
+  margin-bottom: 2.5rem;
+
+  color: var(--color-muted);
+}
+
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+
+  html {
+    font-size: 16px;
+  }
+
+  section {
+    padding:
+      8rem 1.5rem;
+  }
+
+  .hero {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+
+    padding-bottom: 18vh;
+  }
+
+  .origin {
+    font-size: 0.8rem;
+  }
+
+  .hero h1 {
+    font-size: clamp(2.8rem, 13vw, 5rem);
+
+    max-width: 100%;
+  }
+
+  .hero p,
+  .text-block p {
+    font-size: 1.1rem;
+  }
+
+  .philosophy {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .breathing-space {
+    height: 12vh;
+  }
+
+}

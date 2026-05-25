@@ -1,0 +1,15 @@
+:root {
+  --color-background: #f5f2eb;
+  --color-text: #1f1f1f;
+  --color-muted: #6b6b6b;
+
+  --font-serif: "Cormorant Garamond", serif;
+  --font-sans: "Inter", sans-serif;
+
+  --container-width: 1200px;
+
+  --space-section: 12rem;
+  --space-content: 2rem;
+
+  --line-height: 1.7;
+}
