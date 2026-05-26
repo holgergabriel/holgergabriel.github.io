@@ -1,0 +1,335 @@
+/* =======================================================
+   GEISTLICHE KONZERTFORMEN
+   Resonanz · Präsenz · Durchlässigkeit
+======================================================= */
+
+.spiritual-space {
+  position: relative;
+
+  background: var(--color-background);
+
+  color: var(--color-text);
+
+  overflow-x: hidden;
+}
+
+
+
+/* =======================================================
+   HERO
+======================================================= */
+
+.spiritual-hero {
+  padding-top: 15rem;
+  padding-left: 8vw;
+  padding-right: 8vw;
+  padding-bottom: 14rem;
+}
+
+.spiritual-hero h1 {
+  font-family: var(--font-serif);
+
+  font-size: clamp(3.5rem, 8vw, 7rem);
+
+  font-weight: 300;
+
+  line-height: 0.95;
+
+  margin-bottom: 5rem;
+}
+
+.hero-subline {
+  max-width: 28rem;
+
+  font-size: 1.08rem;
+
+  line-height: 2.2;
+
+  opacity: 0.78;
+}
+
+
+
+/* =======================================================
+   THRESHOLD
+======================================================= */
+
+.spiritual-threshold {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.threshold-text {
+  max-width: 16ch;
+}
+
+
+
+/* =======================================================
+   SILENCE
+======================================================= */
+
+.spiritual-silence {
+  padding-left: 18vw;
+  padding-right: 10vw;
+}
+
+.silence-text {
+  max-width: 14ch;
+
+  opacity: 0.9;
+}
+
+
+
+/* =======================================================
+   PRESENCE
+======================================================= */
+
+.spiritual-presence {
+  padding-left: 12vw;
+  padding-right: 10vw;
+}
+
+.presence-text {
+  max-width: 28rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 7rem;
+
+  font-size: 1.18rem;
+
+  line-height: 2.25;
+}
+
+
+
+/* =======================================================
+   RESONANCE
+======================================================= */
+
+.spiritual-resonance {
+  padding-left: 14vw;
+  padding-right: 10vw;
+}
+
+.resonance-text {
+  max-width: 22rem;
+
+  font-family: var(--font-serif);
+
+  font-size: clamp(2rem, 4vw, 3.4rem);
+
+  line-height: 1.75;
+
+  font-weight: 300;
+
+  opacity: 0.94;
+}
+
+
+
+/* =======================================================
+   COMMUNITY
+======================================================= */
+
+.spiritual-community {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.community-text {
+  max-width: 30rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 7rem;
+
+  line-height: 2.2;
+}
+
+
+
+/* =======================================================
+   TRANSPARENCY
+======================================================= */
+
+.spiritual-transparency {
+  padding-left: 18vw;
+  padding-right: 10vw;
+}
+
+.transparency-text {
+  max-width: 18ch;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 8rem;
+
+  opacity: 0.92;
+}
+
+
+
+/* =======================================================
+   FAITH
+======================================================= */
+
+.spiritual-faith {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.faith-text {
+  max-width: 34rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 8rem;
+
+  font-size: 1.14rem;
+
+  line-height: 2.3;
+}
+
+
+
+/* =======================================================
+   ANTHROPOLOGY
+======================================================= */
+
+.spiritual-anthropology {
+  padding-left: 14vw;
+  padding-right: 10vw;
+}
+
+.anthropology-text {
+  max-width: 24rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 6rem;
+
+  font-size: 1.14rem;
+
+  line-height: 2.25;
+}
+
+
+
+/* =======================================================
+   OPENING
+======================================================= */
+
+.spiritual-opening {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.opening-text {
+  max-width: 15ch;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 7rem;
+}
+
+
+
+/* =======================================================
+   THRESHOLD NAVIGATION
+======================================================= */
+
+.threshold-space {
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+}
+
+
+
+/* =======================================================
+   END SPACE
+======================================================= */
+
+.spiritual-end-space {
+  height: 30vh;
+}
+
+
+
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width: 768px) {
+
+  .spiritual-hero {
+    padding-top: 10rem;
+    padding-bottom: 8rem;
+  }
+
+  .spiritual-hero h1 {
+    font-size: clamp(3rem, 14vw, 5rem);
+
+    line-height: 1;
+  }
+
+  .hero-subline {
+    font-size: 1rem;
+
+    line-height: 2;
+  }
+
+  .spiritual-threshold,
+  .spiritual-presence,
+  .spiritual-community,
+  .spiritual-faith,
+  .spiritual-opening {
+    padding-left: 8vw;
+    padding-right: 8vw;
+  }
+
+  .spiritual-silence,
+  .spiritual-resonance,
+  .spiritual-transparency,
+  .spiritual-anthropology {
+    padding-left: 10vw;
+    padding-right: 8vw;
+  }
+
+  .presence-text,
+  .community-text,
+  .faith-text,
+  .anthropology-text {
+    font-size: 1.05rem;
+
+    line-height: 2.1;
+  }
+
+  .resonance-text {
+    font-size: clamp(1.8rem, 9vw, 3rem);
+
+    line-height: 1.7;
+  }
+
+  .presence-text,
+  .community-text,
+  .transparency-text,
+  .faith-text,
+  .anthropology-text,
+  .opening-text {
+    gap: 5rem;
+  }
+
+  .spiritual-end-space {
+    height: 18vh;
+  }
+
+}
