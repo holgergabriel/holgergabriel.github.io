@@ -52,18 +52,23 @@ em {
 }
 
 .room-link {
-  margin-top: 7rem;
+  display: inline-block;
+
+  margin-top: 10rem;
 
   font-size: 0.72rem;
 
   letter-spacing: 0.18em;
   text-transform: uppercase;
 
+  text-decoration: none;
+
   color: var(--color-muted);
 
   opacity: 0.55;
-}
 
+  transition: opacity 0.4s ease;
+}
 
 /* HERO */
 
@@ -423,19 +428,7 @@ em {
     font-size: 1.05rem;
 
     line-height: 2.1;
-  }
-
-  .room-link {
-    display: inline-block;
-
-    text-decoration: none;
-
-    transition: opacity 0.4s ease;
-
-    margin-top: 4rem;
-
-    font-size: 0.68rem;
-  }
+  } 
 
   .room-link:hover {
     opacity: 0.9;
@@ -844,38 +837,96 @@ em {
 .threshold-links {
   display: flex;
   flex-direction: column;
-  gap: 2.5rem;
+
+  gap: 2.2rem;
+
+  margin-top: 12rem;
+
+  padding-bottom: 10rem;
 }
 
 .resonance-threshold a {
-  font-size: 0.72rem;
+  display: inline-block;
 
-  letter-spacing: 0.16em;
+  width: fit-content;
+
+  font-size: 0.74rem;
+
+  letter-spacing: 0.18em;
 
   text-transform: uppercase;
 
   text-decoration: none;
 
-  color: var(--color-muted);
+  color: rgba(40, 40, 40, 0.42);
 
-  opacity: 0.5;
-
-  transition: opacity 0.4s ease;
-
-  display: inline-block;
-
-  width: fit-content;
+  transition:
+    color 0.4s ease,
+    opacity 0.4s ease,
+    transform 0.4s ease,
+    letter-spacing 0.4s ease;
 }
 
 .resonance-threshold a:hover {
-  opacity: 0.9;
+  color: rgba(40, 40, 40, 0.82);
+
+  opacity: 1;
+
+  transform: translateX(0.35rem);
+
+  letter-spacing: 0.22em;
 }
 
 
+/* =======================================================
+   BACK LINK
+======================================================= */
+
+.back-link {
+  position: fixed;
+
+  top: 3rem;
+  left: 3rem;
+
+  z-index: 100;
+
+  font-size: 0.72rem;
+
+  letter-spacing: 0.18em;
+
+  text-transform: uppercase;
+
+  text-decoration: none;
+
+  color: rgba(40, 40, 40, 0.38);
+
+  transition:
+    opacity 0.4s ease,
+    letter-spacing 0.4s ease;
+}
+
+.back-link:hover {
+  opacity: 0.82;
+
+  letter-spacing: 0.28em;
+}
 
 /* MOBILE */
 
 @media (max-width: 768px) {
+
+  .back-link {
+    top: 1.6rem;
+    left: 1.4rem;
+
+    font-size: 0.62rem;
+  }
+
+  .home-threshold-links {
+    gap: 1.8rem;
+
+    margin-top: 7rem;
+  }
 
   .resonance-fragment,
   .resonance-threshold {
@@ -893,8 +944,33 @@ em {
     padding-right: 2rem;
   }
 
+  .threshold-links {
+    margin-top: 8rem;
+
+    gap: 1.4rem;
+
+    padding-bottom: 6rem;
+  }
+
+  .resonance-threshold a {
+    font-size: 0.66rem;
+
+    letter-spacing: 0.18em;
+  }
+
 }
 
 .resonance-fragment p {
   max-width: 14rem;
+}
+
+/* HOME THRESHOLDS */
+
+.home-threshold-links {
+  display: flex;
+  flex-direction: column;
+
+  gap: 2.8rem;
+
+  margin-top: 10rem;
 }

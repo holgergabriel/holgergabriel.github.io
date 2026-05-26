@@ -1,0 +1,468 @@
+/* =======================================================
+   EXPERIENCE SPACE
+======================================================= */
+
+.experience-space {
+  width: 100%;
+}
+
+
+
+/* =======================================================
+   BACK LINK
+======================================================= */
+
+.back-link {
+  position: fixed;
+
+  top: 2rem;
+  left: 2rem;
+
+  z-index: 100;
+
+  font-size: 0.72rem;
+
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+
+  text-decoration: none;
+
+  color: var(--color-muted);
+
+  opacity: 0.45;
+
+  transition: opacity 0.4s ease;
+}
+
+.back-link:hover {
+  opacity: 0.85;
+}
+
+
+
+/* =======================================================
+   HERO
+======================================================= */
+
+.experience-hero {
+  min-height: 88vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding-left: clamp(2rem, 10vw, 12rem);
+  padding-right: 2rem;
+
+  padding-top: 6rem;
+  padding-bottom: 10rem;
+}
+
+.experience-hero h1 {
+  font-family: var(--font-serif);
+
+  font-size: clamp(3.5rem, 7vw, 6.5rem);
+
+  font-weight: 300;
+
+  line-height: 1.05;
+
+  letter-spacing: -0.03em;
+
+  margin-bottom: 5rem;
+}
+
+.hero-subline {
+  max-width: 28rem;
+
+  font-size: 1.3rem;
+
+  line-height: 2.1;
+
+  color: var(--color-muted);
+}
+
+
+
+/* =======================================================
+   OPENING
+======================================================= */
+
+.opening-space {
+  min-height: 90vh;
+
+  display: flex;
+  align-items: center;
+
+  padding-left: clamp(3rem, 12vw, 14rem);
+  padding-right: 2rem;
+}
+
+.opening-text {
+  max-width: 28rem;
+}
+
+.opening-text p {
+  font-family: var(--font-serif);
+
+  font-size: clamp(1.9rem, 3vw, 3rem);
+
+  line-height: 1.7;
+
+  font-weight: 300;
+
+  margin-bottom: 5rem;
+}
+
+.opening-text p:last-child {
+  margin-bottom: 0;
+}
+
+
+
+/* =======================================================
+   BIOGRAPHY
+======================================================= */
+
+.biography-space {
+  min-height: 110vh;
+
+  display: flex;
+  align-items: center;
+
+  padding-left: clamp(2rem, 10vw, 12rem);
+  padding-right: 2rem;
+}
+
+.biography-text {
+  max-width: 38rem;
+}
+
+.biography-text p:first-child {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2.2rem, 4vw, 3.8rem);
+
+  line-height: 1.35;
+
+  font-weight: 300;
+
+  margin-bottom: 6rem;
+}
+
+.biography-text p:last-child {
+  font-size: 1.18rem;
+
+  line-height: 2.25;
+
+  color: var(--color-muted);
+}
+
+
+
+/* =======================================================
+   PERSPECTIVES
+======================================================= */
+
+.perspective-space {
+  min-height: 180vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  gap: 16rem;
+
+  padding-left: clamp(2rem, 10vw, 12rem);
+  padding-right: 2rem;
+}
+
+.perspective-block {
+  max-width: 30rem;
+}
+
+.perspective-label {
+  font-size: 0.72rem;
+
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+
+  color: var(--color-muted);
+
+  opacity: 0.55;
+
+  margin-bottom: 5rem;
+}
+
+.perspective-block p:not(.perspective-label) {
+  font-size: 1.15rem;
+
+  line-height: 2.2;
+
+  margin-bottom: 3rem;
+}
+
+.perspective-block p:last-child {
+  margin-bottom: 0;
+}
+
+
+
+/* =======================================================
+   MODAL SPACE
+======================================================= */
+
+.modal-space {
+  min-height: 160vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  gap: 10rem;
+
+  padding: 10rem 2rem;
+}
+
+.modal-word {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2rem, 5vw, 4rem);
+
+  font-weight: 300;
+
+  line-height: 1;
+
+  letter-spacing: -0.02em;
+
+  opacity: 0.75;
+}
+
+
+
+/* =======================================================
+   COMMUNITY
+======================================================= */
+
+.community-space {
+  min-height: 120vh;
+
+  display: flex;
+  align-items: center;
+
+  padding-left: clamp(2rem, 10vw, 12rem);
+  padding-right: 2rem;
+}
+
+.community-text {
+  max-width: 36rem;
+}
+
+.community-text p {
+  font-size: 1.2rem;
+
+  line-height: 2.25;
+
+  margin-bottom: 5rem;
+}
+
+.community-text p:last-child {
+  margin-bottom: 0;
+}
+
+
+
+/* =======================================================
+   TRANSFORMATION
+======================================================= */
+
+.transformation-space {
+  min-height: 110vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.transformation-text {
+  max-width: 34rem;
+}
+
+.transformation-text p {
+  font-size: 1.2rem;
+
+  line-height: 2.3;
+
+  margin-bottom: 4rem;
+}
+
+.transformation-text p:first-child {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2rem, 4vw, 3.4rem);
+
+  line-height: 1.45;
+
+  font-weight: 300;
+}
+
+
+
+/* =======================================================
+   FINAL
+======================================================= */
+
+.final-space {
+  min-height: 90vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.final-text {
+  max-width: 26rem;
+
+  text-align: center;
+}
+
+.final-text p {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2rem, 4vw, 3.5rem);
+
+  line-height: 1.5;
+
+  font-weight: 300;
+}
+
+
+
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width: 768px) {
+
+  .experience-hero,
+  .opening-space,
+  .biography-space,
+  .perspective-space,
+  .community-space,
+  .transformation-space,
+  .final-space {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .experience-hero {
+    min-height: 72vh;
+
+    padding-top: 8rem;
+  }
+
+  .experience-hero h1 {
+    font-size: clamp(3rem, 13vw, 5rem);
+  }
+
+  .hero-subline {
+    font-size: 1.12rem;
+  }
+
+  .experience-navigation {
+    margin-left: 1.6rem;
+  }
+
+  .experience-threshold {
+    padding-left: 1.5rem;
+    padding-bottom: 5rem;
+  }
+
+  .opening-space {
+    min-height: 70vh;
+  }
+
+  .opening-text p {
+    font-size: clamp(1.7rem, 8vw, 2.6rem);
+  }
+
+  .perspective-space {
+    gap: 10rem;
+
+    min-height: auto;
+
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+
+  .modal-space {
+    gap: 7rem;
+
+    min-height: 120vh;
+  }
+
+  .modal-word {
+    font-size: clamp(2rem, 12vw, 3.5rem);
+  }
+
+  .back-link {
+    top: 1.5rem;
+    left: 1.5rem;
+  }
+
+  .final-text {
+    text-align: left;
+  }
+
+}
+
+/* =======================================================
+   EXPERIENCE NAVIGATION
+======================================================= */
+
+.experience-threshold {
+  min-height: 55vh;
+
+  display: flex;
+  align-items: flex-end;
+
+  padding-left: clamp(3rem, 10vw, 8rem);
+  padding-bottom: 8rem;
+}
+
+.experience-navigation {
+  display: flex;
+  flex-direction: column;
+
+  gap: 3.2rem;
+}
+
+.experience-navigation a {
+  font-family: var(--font-sans);
+
+  font-size: 0.82rem;
+
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+
+  color: rgba(40, 40, 40, 0.42);
+
+  text-decoration: none;
+
+  transition:
+    color 0.6s ease,
+    letter-spacing 0.6s ease;
+}
+
+.experience-navigation a:hover {
+  color: rgba(40, 40, 40, 0.72);
+
+  letter-spacing: 0.28em;
+}
