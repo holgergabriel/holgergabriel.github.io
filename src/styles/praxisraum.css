@@ -1,0 +1,338 @@
+/* =======================================================
+   PRAXISRAUM
+   Verkörperte Wahrnehmung
+======================================================= */
+
+.practice-space {
+  position: relative;
+
+  background: var(--color-background);
+
+  color: var(--color-text);
+
+  overflow-x: hidden;
+}
+
+
+
+/* =======================================================
+   HERO
+======================================================= */
+
+.practice-hero {
+  padding-top: 14rem;
+  padding-left: 8vw;
+  padding-right: 8vw;
+  padding-bottom: 10rem;
+}
+
+.practice-hero h1 {
+  font-family: var(--font-serif);
+
+  font-size: clamp(3.5rem, 8vw, 7rem);
+
+  font-weight: 300;
+
+  line-height: 0.95;
+
+  margin-bottom: 4rem;
+}
+
+.hero-subline {
+  max-width: 24rem;
+
+  font-size: 1.1rem;
+
+  line-height: 2;
+
+  opacity: 0.8;
+}
+
+
+
+/* =======================================================
+   ENTRY
+======================================================= */
+
+.practice-entry {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.practice-entry-text {
+  max-width: 18ch;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 6rem;
+}
+
+
+
+/* =======================================================
+   BODY
+======================================================= */
+
+.practice-body {
+  padding-left: 12vw;
+  padding-right: 10vw;
+}
+
+.practice-body-text {
+  max-width: 34rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 5rem;
+
+  font-size: 1.22rem;
+
+  line-height: 2.2;
+}
+
+
+
+/* =======================================================
+   RESONANCE
+======================================================= */
+
+.practice-resonance {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+
+  padding-left: 18vw;
+  padding-right: 10vw;
+}
+
+.practice-resonance-text {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2rem, 4vw, 3.5rem);
+
+  line-height: 1.9;
+
+  font-weight: 300;
+
+  opacity: 0.92;
+}
+
+
+
+/* =======================================================
+   EXPLORATION
+======================================================= */
+
+.practice-exploration {
+  padding-left: 8vw;
+  padding-right: 12vw;
+}
+
+.practice-exploration-text {
+  max-width: 40rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 7rem;
+
+  font-size: 1.18rem;
+
+  line-height: 2.25;
+}
+
+
+
+/* =======================================================
+   EVERYDAY
+======================================================= */
+
+.practice-everyday {
+  padding-top: 14rem;
+  padding-bottom: 14rem;
+
+  padding-left: 14vw;
+  padding-right: 10vw;
+}
+
+.practice-everyday-text {
+  max-width: 32rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 6rem;
+
+  line-height: 2.15;
+}
+
+
+
+/* =======================================================
+   CULTURE
+======================================================= */
+
+.practice-culture {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.practice-culture-text {
+  max-width: 38rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 6rem;
+
+  font-size: 1.15rem;
+
+  line-height: 2.2;
+}
+
+
+
+/* =======================================================
+   REGENERATION
+======================================================= */
+
+.practice-regeneration {
+  padding-top: 16rem;
+  padding-bottom: 16rem;
+
+  padding-left: 18vw;
+  padding-right: 10vw;
+}
+
+.practice-regeneration-text {
+  max-width: 28rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 6rem;
+
+  line-height: 2.2;
+}
+
+
+
+/* =======================================================
+   OPENING
+======================================================= */
+
+.practice-opening {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.practice-opening-text {
+  max-width: 18ch;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 6rem;
+}
+
+
+
+/* =======================================================
+   THRESHOLD
+======================================================= */
+
+.threshold-space {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+
+
+/* =======================================================
+   END SPACE
+======================================================= */
+
+.practice-end-space {
+  height: 25vh;
+}
+
+
+
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width: 768px) {
+
+  .practice-hero {
+    padding-top: 9rem;
+    padding-bottom: 7rem;
+  }
+
+  .practice-hero h1 {
+    font-size: clamp(3rem, 14vw, 5rem);
+
+    line-height: 1;
+  }
+
+  .hero-subline {
+    font-size: 1rem;
+
+    line-height: 1.9;
+  }
+
+  .practice-entry,
+  .practice-body,
+  .practice-exploration,
+  .practice-culture,
+  .practice-opening {
+    padding-left: 8vw;
+    padding-right: 8vw;
+  }
+
+  .practice-resonance,
+  .practice-regeneration {
+    padding-left: 10vw;
+    padding-right: 8vw;
+  }
+
+  .practice-everyday {
+    padding-left: 8vw;
+    padding-right: 8vw;
+  }
+
+  .practice-body-text,
+  .practice-exploration-text,
+  .practice-everyday-text,
+  .practice-culture-text,
+  .practice-regeneration-text {
+    font-size: 1.08rem;
+
+    line-height: 2;
+  }
+
+  .practice-resonance-text {
+    font-size: clamp(1.8rem, 9vw, 3rem);
+
+    line-height: 1.8;
+  }
+
+  .practice-entry-text,
+  .practice-opening-text {
+    gap: 4rem;
+  }
+
+  .practice-body-text,
+  .practice-exploration-text,
+  .practice-everyday-text,
+  .practice-culture-text,
+  .practice-regeneration-text {
+    gap: 4.5rem;
+  }
+
+  .practice-end-space {
+    height: 18vh;
+  }
+
+}
