@@ -974,3 +974,38 @@ em {
 
   margin-top: 10rem;
 }
+
+/* =======================================================
+   FOOTER
+======================================================= */
+
+.site-footer {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+
+  padding-left: 8vw;
+  padding-right: 8vw;
+}
+
+.footer-navigation {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 2rem;
+
+  font-size: 0.9rem;
+
+  opacity: 0.65;
+}
+
+.footer-navigation a {
+  text-decoration: none;
+
+  color: inherit;
+
+  transition: opacity 0.3s ease;
+}
+
+.footer-navigation a:hover {
+  opacity: 0.6;
+}

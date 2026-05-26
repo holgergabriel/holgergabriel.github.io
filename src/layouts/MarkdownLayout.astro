@@ -1,0 +1,128 @@
+---
+import "../styles/global.css";
+
+const { frontmatter } = Astro.props;
+---
+
+<html lang="de">
+  <head>
+
+    <meta charset="UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+
+    <title>
+      {frontmatter.title} – PExOL
+    </title>
+
+  </head>
+
+  <body>
+
+    <main class="markdown-space">
+
+      <a href="/" class="back-link">
+        Zur Startseite
+      </a>
+
+      <article class="markdown-content">
+
+        <h1>
+          {frontmatter.title}
+        </h1>
+
+        <slot />
+
+      </article>
+
+    </main>
+
+  </body>
+</html>
+
+<style>
+
+  .markdown-space {
+    min-height: 100vh;
+
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+
+    padding-left: 8vw;
+    padding-right: 8vw;
+
+    background: var(--color-background);
+
+    color: var(--color-text);
+  }
+
+  .markdown-content {
+    max-width: 42rem;
+  }
+
+  .markdown-content h1 {
+    font-family: var(--font-serif);
+
+    font-size: clamp(2.8rem, 6vw, 4.8rem);
+
+    font-weight: 300;
+
+    line-height: 1.05;
+
+    margin-bottom: 5rem;
+  }
+
+  .markdown-content h2 {
+    font-size: 1rem;
+
+    letter-spacing: 0.08em;
+
+    text-transform: uppercase;
+
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+
+    opacity: 0.72;
+  }
+
+  .markdown-content p,
+  .markdown-content li {
+    font-size: 1.08rem;
+
+    line-height: 2.15;
+
+    opacity: 0.92;
+  }
+
+  .markdown-content ul {
+    padding-left: 1.2rem;
+  }
+
+  .markdown-content a {
+    color: inherit;
+  }
+
+  @media (max-width: 768px) {
+
+    .markdown-space {
+      padding-top: 7rem;
+      padding-bottom: 7rem;
+    }
+
+    .markdown-content h1 {
+      font-size: clamp(2.4rem, 10vw, 4rem);
+    }
+
+    .markdown-content p,
+    .markdown-content li {
+      font-size: 1rem;
+
+      line-height: 2;
+    }
+
+  }
+
+</style>
