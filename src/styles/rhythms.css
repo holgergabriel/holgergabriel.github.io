@@ -1,0 +1,276 @@
+/* =======================================================
+   GLOBAL RHYTHM SYSTEM
+   PExOL — Spatial and Temporal Architecture
+======================================================= */
+
+
+
+/* =======================================================
+   OPEN SPACE
+   Wahrnehmung / Atem / Resonanz
+======================================================= */
+
+.space-open {
+  min-height: 90vh;
+
+  display: flex;
+  align-items: center;
+
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+
+
+/* =======================================================
+   DENSE SPACE
+   Erfahrung / Nähe / Verkörperung
+======================================================= */
+
+.space-dense {
+  min-height: 110vh;
+
+  display: flex;
+  align-items: center;
+
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+}
+
+
+
+/* =======================================================
+   FLOATING SPACE
+   Kontemplation / Auflösung / geistliche Offenheit
+======================================================= */
+
+.space-floating {
+  min-height: 120vh;
+
+  display: flex;
+  align-items: center;
+
+  padding-top: 14rem;
+  padding-bottom: 14rem;
+
+  opacity: 0.96;
+}
+
+
+
+/* =======================================================
+   BREATH TEXT — LARGE
+======================================================= */
+
+.text-breath-large {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2.2rem, 4vw, 4rem);
+
+  line-height: 1.45;
+
+  font-weight: 300;
+
+  letter-spacing: -0.02em;
+}
+
+
+
+/* =======================================================
+   BREATH TEXT — MEDIUM
+======================================================= */
+
+.text-breath-medium {
+  max-width: 38rem;
+
+  font-size: 1.18rem;
+
+  line-height: 2.2;
+}
+
+
+
+/* =======================================================
+   RHYTHMIC TRANSITION
+======================================================= */
+
+.rhythm-transition {
+  min-height: 30vh;
+}
+
+
+
+/* =======================================================
+   WHITE SPACE — DEEP
+======================================================= */
+
+.white-space-deep {
+  height: 35vh;
+}
+
+
+
+/* =======================================================
+   WHITE SPACE — LIGHT
+======================================================= */
+
+.white-space-light {
+  height: 16vh;
+}
+
+
+
+/* =======================================================
+   MOBILE RHYTHMS
+======================================================= */
+
+@media (max-width: 768px) {
+
+  .space-open,
+  .space-dense,
+  .space-floating {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+
+  .space-open {
+    min-height: 70vh;
+  }
+
+  .space-dense {
+    min-height: 85vh;
+  }
+
+  .space-floating {
+    min-height: 95vh;
+  }
+
+  .text-breath-large {
+    font-size: clamp(2rem, 9vw, 3.4rem);
+
+    line-height: 1.5;
+  }
+
+  .text-breath-medium {
+    font-size: 1.08rem;
+
+    line-height: 2;
+  }
+
+  .white-space-deep {
+    height: 22vh;
+  }
+
+  .white-space-light {
+    height: 10vh;
+  }
+
+}
+
+/* =======================================================
+   TYPOGRAPHY — RESONANCE LARGE
+======================================================= */
+
+.type-resonance-large {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2.2rem, 4vw, 4rem);
+
+  line-height: 1.45;
+
+  font-weight: 300;
+
+  letter-spacing: -0.02em;
+
+  max-width: 14ch;
+}
+
+/* =======================================================
+   TYPOGRAPHY — REFLECTION
+======================================================= */
+
+.type-reflection {
+  max-width: 38rem;
+
+  font-size: 1.18rem;
+
+  line-height: 2.2;
+
+  color: var(--color-muted);
+}
+
+/* =======================================================
+   TYPOGRAPHY — FRAGMENT
+======================================================= */
+
+.type-fragment {
+  font-family: var(--font-serif);
+
+  font-size: clamp(1.7rem, 3vw, 2.8rem);
+
+  line-height: 1.6;
+
+  font-weight: 300;
+
+  letter-spacing: -0.015em;
+
+  opacity: 0.92;
+}
+
+/* =======================================================
+   TYPOGRAPHY — THRESHOLD
+======================================================= */
+
+.type-threshold {
+  font-size: 0.72rem;
+
+  letter-spacing: 0.22em;
+
+  text-transform: uppercase;
+}
+
+/* =======================================================
+   TYPOGRAPHY — FLOATING
+======================================================= */
+
+.type-floating {
+  font-family: var(--font-serif);
+
+  font-size: clamp(2rem, 4vw, 3.4rem);
+
+  line-height: 1.55;
+
+  font-weight: 300;
+
+  opacity: 0.9;
+}
+
+/* =======================================================
+   MOBILE TYPOGRAPHY
+======================================================= */
+
+@media (max-width: 768px) {
+
+  .type-resonance-large {
+    font-size: clamp(2rem, 9vw, 3.4rem);
+
+    line-height: 1.5;
+  }
+
+  .type-reflection {
+    font-size: 1.08rem;
+
+    line-height: 2;
+  }
+
+  .type-fragment {
+    font-size: clamp(1.6rem, 7vw, 2.3rem);
+
+    line-height: 1.55;
+  }
+
+  .type-floating {
+    font-size: clamp(1.9rem, 8vw, 3rem);
+  }
+
+}
