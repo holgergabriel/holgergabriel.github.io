@@ -72,9 +72,9 @@ em {
 
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
 
-  padding-top: 6vh;
+  padding-top: 4vh;
   padding-bottom: 10vh;
 
   padding-left: clamp(2rem, 10vw, 12rem);
