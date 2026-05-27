@@ -4,34 +4,28 @@ title: "Impressum"
 description: "Impressum der Website"
 ---
 
-## Angaben gemäß § 5 DDG
+# Impressum
 
+## Angaben gemäß § 5 DDG
 Holger Gabriel  
 Alexanderstraße 71  
 46562 Voerde  
-Deutschland
+Deutschland  
 
 ## Kontakt
-
-E-Mail: holger.gabriel@magenta.de
+Telefon: 015179924477  
+E-Mail: holger.gabriel@magenta.de  
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
-
 Holger Gabriel  
 Alexanderstraße 71  
-46562 Voerde 
-Deutschland
-
-## Haftung für Inhalte
-
-Die Inhalte dieser Website werden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte wird jedoch keine Gewähr übernommen.
-
-## Haftung für Links
-
-Diese Website enthält gegebenenfalls Links zu externen Websites Dritter. Auf deren Inhalte besteht kein Einfluss. Deshalb kann für diese fremden Inhalte keine Gewähr übernommen werden. Für die Inhalte der verlinkten Seiten sind stets deren jeweilige Anbieter oder Betreiber verantwortlich.
+46562 Voerde  
+Deutschland  
 
 ## Urheberrecht
+Die auf dieser Website veröffentlichten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der vorherigen schriftlichen Zustimmung des Autors.
 
-Die auf dieser Website veröffentlichten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung oder Verbreitung der Inhalte außerhalb der Grenzen des Urheberrechts bedarf der vorherigen Zustimmung des jeweiligen Urhebers.
+## Wichtiger Hinweis zu den Inhalten (Medizinischer Disclaimer)
+Die auf dieser Website bereitgestellten Inhalte dienen der anthropologischen, künstlerischen und geistlichen Reflexion. Sie wurden mit größtmöglicher Sorgfalt erstellt. Diese Inhalte stellen keine medizinische, psychotherapeutische oder logopädische Beratung dar und können eine solche Untersuchung oder Behandlung nicht ersetzen.
 
-_Stand: Mai 2026_
+Stand: Mai 2026

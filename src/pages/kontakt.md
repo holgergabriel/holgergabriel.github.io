@@ -3,8 +3,10 @@ layout: ../layouts/MarkdownLayout.astro
 title: "Kontakt"
 description: "Kontaktinformationen von Holger Gabriel."
 ---
-Die Kontaktaufnahme erfolgt ausschließlich per E-Mail.
 
-Für Fragen, Resonanzen oder Rückmeldungen:
+
+Der einfachste Weg für Fragen, Resonanzen oder Rückmeldungen ist eine Nachricht per E-Mail:
 
 holger.gabriel@magenta.de
+
+Alternativ erreichen Sie mich auch telefonisch unter den im Impressum angegebenen Kontaktdaten.
