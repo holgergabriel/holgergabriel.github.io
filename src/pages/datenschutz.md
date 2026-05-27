@@ -13,8 +13,8 @@ Die Nutzung dieser Website ist in der Regel ohne Angabe personenbezogener Daten 
 ## Verantwortlicher
 
 Holger Gabriel  
-[Straße und Hausnummer]  
-[PLZ Ort]  
+Alexanderstrasse 71  
+46562 Voerde  
 Deutschland
 
 E-Mail: holger.gabriel@magenta.de

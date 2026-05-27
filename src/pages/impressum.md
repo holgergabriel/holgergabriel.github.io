@@ -7,8 +7,8 @@ description: "Impressum der Website"
 ## Angaben gemäß § 5 TMG
 
 Holger Gabriel  
-[Straße und Hausnummer]  
-[PLZ Ort]  
+Alexanderstrasse 71  
+46562 Voerde  
 Deutschland
 
 ## Kontakt
