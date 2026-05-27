@@ -13,7 +13,7 @@ Die Nutzung dieser Website ist in der Regel ohne Angabe personenbezogener Daten 
 ## Verantwortlicher
 
 Holger Gabriel  
-Alexanderstrasse 71  
+Alexanderstraße 71  
 46562 Voerde  
 Deutschland
 
@@ -40,22 +40,12 @@ Die Verarbeitung dieser Daten erfolgt zur technischen Bereitstellung und Sicherh
 Weitere Informationen finden Sie unter:  
 https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
 
-## Google Fonts
 
-Diese Website verwendet Schriftarten von Google Fonts. Beim Laden der Schriftarten kann eine Verbindung zu Servern von Google hergestellt werden.
+## Cookies und Analysewerkzeuge
 
-Anbieter ist:
+Diese Website verwendet keine Cookies zu Analyse- oder Marketingzwecken.
 
-Google Ireland Limited  
-Gordon House  
-Barrow Street  
-Dublin 4  
-Irland
-
-Dabei kann insbesondere die IP-Adresse an Google übertragen werden.
-
-Weitere Informationen:  
-https://policies.google.com/privacy
+Es werden keine Analyse-, Statistik- oder Trackingdienste eingesetzt.
 
 ## Kontaktaufnahme
 
@@ -73,7 +63,16 @@ Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen insbesondere das Rec
 
 ## Beschwerderecht
 
-Sie haben das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
+Sie haben das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
+
+Zuständige Aufsichtsbehörde in Nordrhein-Westfalen ist:
+
+Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen  
+Kavalleriestraße 2–4  
+40213 Düsseldorf  
+Deutschland
+
+https://www.ldi.nrw.de
 
 ## Änderungen dieser Datenschutzerklärung
 

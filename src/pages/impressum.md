@@ -4,10 +4,10 @@ title: "Impressum"
 description: "Impressum der Website"
 ---
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
 Holger Gabriel  
-Alexanderstrasse 71  
+Alexanderstraße 71  
 46562 Voerde  
 Deutschland
 
@@ -18,8 +18,8 @@ E-Mail: holger.gabriel@magenta.de
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
 Holger Gabriel  
-[Straße und Hausnummer]  
-[PLZ Ort]  
+Alexanderstraße 71  
+46562 Voerde 
 Deutschland
 
 ## Haftung für Inhalte
@@ -32,6 +32,6 @@ Diese Website enthält gegebenenfalls Links zu externen Websites Dritter. Auf de
 
 ## Urheberrecht
 
-Die auf dieser Website veröffentlichten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedarf der vorherigen schriftlichen Zustimmung des jeweiligen Urhebers.
+Die auf dieser Website veröffentlichten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung oder Verbreitung der Inhalte außerhalb der Grenzen des Urheberrechts bedarf der vorherigen Zustimmung des jeweiligen Urhebers.
 
 _Stand: Mai 2026_

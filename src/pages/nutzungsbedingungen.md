@@ -18,7 +18,7 @@ Der Betreiber behält sich vor, diese Nutzungsbedingungen bei Bedarf anzupassen 
 
 Die Website darf ausschließlich zu rechtmäßigen Zwecken und im Rahmen dieser Nutzungsbedingungen verwendet werden. Eine missbräuchliche, belästigende oder rechtswidrige Nutzung ist untersagt.
 
-## 4. Inhalte und geistiges Eigentum
+## 4. Inhalte und Urheberrechte
 
 Alle auf der Website veröffentlichten Inhalte – einschließlich Texte, Grafiken, Logos, Bilder, Audio- und Videodateien sowie sonstiger Materialien – sind Eigentum des Betreibers oder wurden mit entsprechender Genehmigung verwendet. Sie unterliegen dem Urheberrecht und weiteren Schutzrechten.
 
@@ -36,7 +36,7 @@ Die Inhalte dieser Website dienen der anthropologischen, künstlerischen und gei
 
 ## 7. Haftungsbeschränkung
 
-Der Betreiber haftet nicht für Schäden, die durch die Nutzung oder Nichtnutzung der Website entstehen, soweit diese nicht auf vorsätzlichem oder grob fahrlässigem Verhalten beruhen. Dies gilt insbesondere für mittelbare Schäden, Datenverlust oder entgangenen Gewinn.
+Der Betreiber haftet nicht für Schäden, die durch die Nutzung oder Nichtnutzung der Website entstehen, soweit diese nicht auf vorsätzlichem oder grob fahrlässigem Verhalten beruhen. Dies gilt insbesondere für mittelbare Schäden oder technische Beeinträchtigungen.
 
 ## 8. Anwendbares Recht
 
