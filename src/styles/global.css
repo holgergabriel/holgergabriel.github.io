@@ -796,7 +796,7 @@ em {
 .resonance-fragment-right {
   justify-content: flex-end;
 
-  padding-right: clamp(2rem, 12vw, 14rem);
+  padding-right: 20rem;
 }
 
 .resonance-fragment-right p {
@@ -974,6 +974,55 @@ em {
   gap: 2.8rem;
 
   margin-top: 10rem;
+}
+
+/* =======================================================
+   RESONANCE LINE
+======================================================= */
+
+.resonance-line {
+  position: fixed;
+
+  right: 2rem;
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 120;
+}
+
+.resonance-line ul {
+  list-style: none;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 1.4rem;
+
+  margin: 0;
+  padding: 0;
+}
+
+.resonance-line li {
+  font-size: 0.72rem;
+
+  letter-spacing: 0.08em;
+
+  color: rgba(40,40,40,0.35);
+
+  transition: all 0.5s ease;
+}
+
+.resonance-line li.active {
+  color: rgba(40,40,40,0.75);
+}
+
+@media (max-width: 768px) {
+
+  .resonance-line {
+    display: none;
+  }
+
 }
 
 /* =======================================================

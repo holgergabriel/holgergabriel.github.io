@@ -13,7 +13,96 @@ import "../styles/rhythms.css";
 
   </head>
 
+  
+
+
+  <script>
+
+    document.addEventListener("DOMContentLoaded", () => {
+
+      const sections =
+        document.querySelectorAll("[data-stage]");
+
+      const items =
+        document.querySelectorAll("[data-line]");
+
+      const observer =
+        new IntersectionObserver(
+
+          (entries) => {
+
+            entries.forEach((entry) => {
+
+              if (entry.isIntersecting) {
+
+                const stage =
+                  entry.target.dataset.stage;
+
+                items.forEach((item) => {
+
+                  item.classList.remove("active");
+
+                  if (
+                    item.dataset.line === stage
+                  ) {
+                    item.classList.add("active");
+                  }
+
+                });
+
+              }
+
+            });
+
+          },
+
+          {
+            threshold: 0.5
+          }
+
+        );
+
+      sections.forEach((section) => {
+        observer.observe(section);
+      });
+
+    });
+
+  </script>
+
   <body>
+
+    <div class="resonance-line">
+
+      <ul>
+
+        <li data-line="stimme" class="active">
+          ● Stimme
+        </li>
+
+        <li data-line="wahrnehmung">
+          ○ Wahrnehmung
+        </li>
+
+        <li data-line="erfahrung">
+          ○ Erfahrung
+        </li>
+
+        <li data-line="resonanz">
+          ○ Resonanz
+        </li>
+
+        <li data-line="hoeren">
+          ○ Hören
+        </li>
+
+        <li data-line="verwandlung">
+          ○ Verwandlung
+        </li>
+
+      </ul>
+
+    </div>  
 
     <main class="resonance-page">
 
@@ -23,7 +112,9 @@ import "../styles/rhythms.css";
 
       <!-- ENTRY -->
 
-      <section class="resonance-entry space-open">
+      <section
+        class="resonance-entry space-open"
+        data-stage="stimme">
 
         <div class="resonance-entry-text type-resonance-large">
 
@@ -44,7 +135,9 @@ import "../styles/rhythms.css";
 
       <!-- ENTRY TRANSITION -->
 
-      <section class="resonance-transition">
+      <section
+        class="resonance-transition"
+        data-stage="wahrnehmung">
 
         <p>
           Sie verändern,
@@ -59,20 +152,24 @@ import "../styles/rhythms.css";
 
       <!-- FRAGMENT -->
 
-      <section class="resonance-fragment space-open">
+      <section
+        class="resonance-fragment"
+        data-stage="wahrnehmung">
 
         <p class="type-fragment">
           Manche Veränderungen
           <br />
           entstehen langsam.
-        <p>
+        </p>
 
       </section>
 
 
       <!-- EXPERIENCE -->
 
-      <section class="resonance-experience space-dense">
+      <section
+        class="resonance-experience space-dense"
+        data-stage="erfahrung">
 
         <div class="resonance-experience-text">
 
@@ -107,7 +204,9 @@ import "../styles/rhythms.css";
 
       <!-- EXPERIENCE DEEPENING -->
 
-      <section class="resonance-deepening space-dense">
+      <section
+        class="resonance-deepening space-dense"
+        data-stage="erfahrung">
 
         <div class="resonance-deepening-text">
 
@@ -148,14 +247,16 @@ import "../styles/rhythms.css";
           entsteht 
           <br />
           unter Sicherheit.
-        <p>
+        </p>
 
       </section>
 
 
       <!-- REFLECTION -->
 
-      <section class="resonance-reflection space-dense">
+      <section
+        class="resonance-reflection space-dense"
+        data-stage="resonanz">
 
         <div class="resonance-reflection-text">
 
@@ -201,7 +302,9 @@ import "../styles/rhythms.css";
 
       <!-- PRACTICE -->
 
-      <section class="resonance-practice">
+      <section
+        class="resonance-practice"
+        data-stage="hoeren">
 
         <div class="resonance-practice-text">
 
@@ -249,7 +352,9 @@ import "../styles/rhythms.css";
 
       <!-- OPENING -->
 
-      <section class="resonance-opening space-open">
+      <section
+        class="resonance-opening space-open"
+        data-stage="verwandlung">
 
         <div class="resonance-opening-text type-resonance-large">
 
