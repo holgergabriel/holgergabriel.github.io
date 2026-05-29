@@ -1017,10 +1017,26 @@ em {
   color: rgba(40,40,40,0.75);
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
 
   .resonance-line {
     display: none;
+  }
+
+}*/
+
+@media (max-width: 768px) {
+
+  .resonance-line {
+
+    right: 0.5rem;
+
+    top: auto;
+
+    bottom: 2rem;
+
+    transform: none;
+
   }
 
 }
