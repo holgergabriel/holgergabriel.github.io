@@ -1017,15 +1017,15 @@ em {
   color: rgba(40,40,40,0.75);
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
 
   .resonance-line {
     display: none;
   }
 
-}*/
+}
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
 
   .resonance-line {
 
@@ -1039,7 +1039,7 @@ em {
 
   }
 
-}
+}*/
 
 /* =======================================================
    FOOTER
